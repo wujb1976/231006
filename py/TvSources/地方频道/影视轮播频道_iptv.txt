@@ -4,7 +4,7 @@ CHC电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
 IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
-东阳影视生活,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E9%98%B3%E5%BD%B1%E8%A7%86%E7%94%9F%E6%B4%BB&auth=666858
-CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
-江苏影视,https://mgtv.ottiptv.cc/mg/626064697.m3u8?userid=5559462299&sign=e0e482550b6678f6e553854570fcea9716006237e066b5e2826bbc0c95b4245d93726bb53ed77cdf5f20bec4059d093adc312c37c9d3f291472e3c29a91bf95a515b74d03ecd0fd0873bd442eba954bf6a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+江苏影视,https://mgtv.ottiptv.cc/mg/626064697.m3u8?userid=5559462299&sign=d52ab0bd0c1a192ca44161bef0da5b1540c0951440962b5a308f6918419b49b495df611a97c91183360f6416e6e3f6e179d8174517ec57d9806f318773a55d727b5b170eb9b80408991e6037830d58dacc&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+杭州影视,http://yp.qqqtv.top/1/api.php?id=%E6%9D%AD%E5%B7%9E%E5%BD%B1%E8%A7%86&auth=666858
+北京影视,http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&auth=666858
