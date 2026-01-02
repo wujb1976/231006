@@ -520,3 +520,4 @@ hzzzz530.com:4022
 hls.cntv.lxdns.com:443
 221.13.235.234:9901
 hczn.x3322.net:9902
+smt.veryfast.filegear-sg.me:80
