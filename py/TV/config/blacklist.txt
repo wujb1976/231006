@@ -618,3 +618,11 @@ kakaxi.indevs.in:80
 221.13.234.236:9901
 119.129.172.57:9901
 221.13.234.82:9901
+36.40.237.32:9999
+wstvcpudali.v.myalicdn.com:443
+live.zzyxxw.com:85
+38.75.136.137:98
+1.197.249.132:9901
+live1.jzjsnm.cn:80
+liveout.xntv.tv:443
+live.wjyanghu.com:80
