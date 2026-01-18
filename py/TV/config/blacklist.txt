@@ -660,3 +660,8 @@ mypanel-4k.com:80
 101.66.195.31:9901
 101.66.199.129:9901
 101.66.198.64:9901
+espanol-liveali.cgtn.com:80
+zb.gxlbamc.com:1935
+1.197.249.88:9901
+russian-livews.cgtn.com:80
+drive.mxmy.net:8888
