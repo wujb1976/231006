@@ -3640,3 +3640,5 @@ live.nctv.top
 39.77.27.246
 pull-hls-f1.douyincdn.com
 36.46.98.87
+125.42.151.45
+dminnvll.cdn.mangomolo.com
