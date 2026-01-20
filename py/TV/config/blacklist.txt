@@ -675,3 +675,7 @@ www.douzhicloud.site:35455
 218.84.12.186:8001
 125.42.150.35:9901
 125.42.148.230:9901
+my5353.com:443
+live.nctv.top:80
+www.ahtv.cn:443
+cdn6.101.qzz.io:443
