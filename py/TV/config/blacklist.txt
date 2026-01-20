@@ -679,3 +679,4 @@ my5353.com:443
 live.nctv.top:80
 www.ahtv.cn:443
 cdn6.101.qzz.io:443
+36.40.237.168:9999
