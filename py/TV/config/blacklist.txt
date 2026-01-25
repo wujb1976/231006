@@ -701,3 +701,4 @@ tv.gxtv.cn:443
 101.66.194.91:9901
 play-qukan.cztv.com:443
 ali-xwl.cztv.com:80
+125.42.150.239:9901
