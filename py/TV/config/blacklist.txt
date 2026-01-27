@@ -709,3 +709,5 @@ pull-hs-f5.flive.douyincdn.com:80
 106.118.70.147:9901
 182.114.49.86:9901
 36.40.237.50:9999
+zbbf2.ahbztv.com:80
+play-sh13.quklive.com:80
