@@ -711,3 +711,4 @@ pull-hs-f5.flive.douyincdn.com:80
 36.40.237.50:9999
 zbbf2.ahbztv.com:80
 play-sh13.quklive.com:80
+bp-resource-dfl.bestv.cn:443
