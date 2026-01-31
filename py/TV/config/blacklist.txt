@@ -731,3 +731,4 @@ tylive.kan0512.com:443
 test1.live.sdetv.com.cn:443
 221.13.234.240:9901
 182.114.49.22:9901
+pull-f3.douyincdn.com:80
