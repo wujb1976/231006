@@ -758,3 +758,6 @@ live.sfrmt.com:85
 39.152.103.17:8089
 120.238.94.82:9901
 hlscdn.liangtv.cn:80
+cdn2.163189.xyz:80
+cdn8.163189.xyz:443
+cdn2.132.us.kg:80
