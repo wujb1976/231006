@@ -806,3 +806,5 @@ hlsbkmgsplive.miguvideo.com:80
 113.25.252.226:9901
 221.13.234.14:9901
 hmfs.f3322.net:3388
+pili-live-hls.hfmt.net:80
+liveplay-srs.voc.com.cn:443
