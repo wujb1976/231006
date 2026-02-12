@@ -814,3 +814,4 @@ liveplay-srs.voc.com.cn:443
 101.66.194.49:9901
 1.197.250.31:9901
 ldcctvwbcdbd.a.bdydns.com:443
+goodiptv.club:443
