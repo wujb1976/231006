@@ -3,6 +3,5 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 广东影视,http://119.32.12.17:2901/udp/224.1.100.11:11111
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
 CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
-江苏影视,https://mgtv.ottiptv.cc/mg/626064697.m3u8?userid=5559462299&sign=c0f9e4c9437493cec7573cb21652fe456cd82418b1e491f27db2a87733e435b38d7ea6b2256e592dc4ca5a7540871dcb22acba0dcccc4655546c1baa80188e62bf448c5151bf0302683bfb9d5fc13208c3&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+江苏影视,https://mgtv.ottiptv.cc/mg/626064697.m3u8?userid=5559462299&sign=e8bc6fbf04473b3e158f705e0b39f0773dfc8a39f2d98dabb5a03b14bccae4cda89f3ceaa17e13ba860e653ca621216acc7b1e09ef7a3c2e2a67d19068322f42bedf6af7a5a3ca4f9bd8692964581cc216&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
