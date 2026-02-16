@@ -3760,3 +3760,10 @@ goodiptv.club
 mgsp-tx2.live.miguvideo.com
 106.83.119.77
 video.bread-tv.com
+113.119.25.56
+27.184.29.188
+106.116.241.106
+101.200.122.188
+220.176.218.38
+hls.168.us.kg
+zebe.dpdns.org
