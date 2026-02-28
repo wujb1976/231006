@@ -3865,3 +3865,4 @@ mgsp-zy2.live.miguvideo.com
 124.114.102.178
 211.158.35.157
 171.8.106.134
+pull-hls-f11.douyincdn.com
