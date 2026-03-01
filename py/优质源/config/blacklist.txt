@@ -3869,3 +3869,4 @@ pull-hls-f11.douyincdn.com
 119.91.7.169
 219.156.32.8
 mgsp-yx2.live.miguvideo.com
+mgsp-hs2.live.miguvideo.com
