@@ -3870,3 +3870,9 @@ pull-hls-f11.douyincdn.com
 219.156.32.8
 mgsp-yx2.live.miguvideo.com
 mgsp-hs2.live.miguvideo.com
+114.226.0.210
+115.171.80.124
+116.9.34.226
+223.198.240.7
+106.87.49.42
+113.119.24.73
