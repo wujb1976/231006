@@ -920,3 +920,11 @@ v3.mediacast.hk:443
 125.42.148.57:9901
 live.tvfix.org:443
 101.66.195.120:9901
+php.jdshipin.com:2096
+lu.wqwqwq.sbs:80
+pili-live-hls-sjxgz2024.sobeylive.com:443
+cdn13.178.indevs.in:443
+221.13.234.128:9901
+cdn3.163189.xyz:80
+cdn6.163189.xyz:443
+101.66.194.94:9901
