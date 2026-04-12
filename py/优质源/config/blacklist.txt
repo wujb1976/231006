@@ -4131,3 +4131,9 @@ live12.xiazhix1.top
 106.59.2.140
 171.8.104.138
 223.198.240.187
+rt-glb.rttv.com
+rt-ger.rttv.com
+hls.rt.com
+rt-arb.rttv.com
+rt-fra.rttv.com
+116.2.172.91
