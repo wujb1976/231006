@@ -4160,3 +4160,5 @@ rt-fra.rttv.com
 171.8.105.157
 live-hls.macaulotustv.com
 116.9.34.177
+125.43.241.91
+125.43.247.245
