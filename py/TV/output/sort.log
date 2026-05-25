@@ -1,2 +1,69 @@
-测速日志 2026-05-25 08:21:19
+测速日志 2026-05-25 14:53:20
 速度阈值: 50KB/s
+[2026-05-25 14:53:28] ⚠️ 仅读取 0.1KB 数据: https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
+[2026-05-25 14:53:28] ✅ 测速成功: https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
+   速度: 142.58KB/s > 50KB/s | 数据量: 0.1KB | 总耗时: 1.38s
+[2026-05-25 14:53:28] ⚠️ 仅读取 0.3KB 数据: https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+[2026-05-25 14:53:28] ✅ 测速成功: https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+   速度: 278.32KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.64s
+[2026-05-25 14:53:29] ⚠️ 仅读取 0.3KB 数据: https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+[2026-05-25 14:53:29] ✅ 测速成功: https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+   速度: 280.27KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 0.62s
+[2026-05-25 14:53:29] ⚠️ 仅读取 0.4KB 数据: http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+[2026-05-25 14:53:29] ✅ 测速成功: http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+   速度: 428.71KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.23s
+[2026-05-25 14:53:30] ⚠️ 仅读取 0.4KB 数据: http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+[2026-05-25 14:53:30] ✅ 测速成功: http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+   速度: 424.80KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.90s
+[2026-05-25 14:53:30] ❌ 测速失败: https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=a12a8fca1767412907
+   错误: HTTPConnectionPool(host='127.0.0.1', port=80): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=80): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: live1-fuyun.fjtv.net:443
+[2026-05-25 14:53:36] ⚠️ 仅读取 0.3KB 数据: https://event.pull.hebtv.com:443/live/live101.m3u8
+[2026-05-25 14:53:36] ✅ 测速成功: https://event.pull.hebtv.com:443/live/live101.m3u8
+   速度: 339.84KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 5.57s
+[2026-05-25 14:53:42] ⚠️ 仅读取 0.3KB 数据: http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
+[2026-05-25 14:53:42] ✅ 测速成功: http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
+   速度: 284.18KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 6.28s
+[2026-05-25 14:53:45] ⚠️ 仅读取 0.5KB 数据: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+[2026-05-25 14:53:45] ✅ 测速成功: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 2.38s
+[2026-05-25 14:53:45] ⚠️ 仅读取 0.4KB 数据: http://121.19.134.56:808/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-05-25 14:53:45] ✅ 测速成功: http://121.19.134.56:808/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.52s
+[2026-05-25 14:53:48] ❌ 测速失败: http://182.114.48.224:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='182.114.48.224', port=9901): Max retries exceeded with url: /tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.114.48.224', port=9901) at 0x7f3c630d9370>, 'Connection to 182.114.48.224 timed out. (connect timeout=3.05)')) | 域名: 182.114.48.224:9901
+[2026-05-25 14:53:49] ⚠️ 仅读取 0.4KB 数据: http://221.193.168.185:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-05-25 14:53:49] ✅ 测速成功: http://221.193.168.185:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 408.20KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.52s
+[2026-05-25 14:53:49] ⚠️ 仅读取 0.4KB 数据: http://121.19.134.141:808/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-05-25 14:53:49] ✅ 测速成功: http://121.19.134.141:808/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.53s
+[2026-05-25 14:53:50] ⚠️ 仅读取 0.4KB 数据: http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-05-25 14:53:50] ✅ 测速成功: http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.55s
+[2026-05-25 14:53:53] ❌ 测速失败: http://36.40.237.36:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='36.40.237.36', port=9999): Max retries exceeded with url: /tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='36.40.237.36', port=9999) at 0x7f3c630d9280>, 'Connection to 36.40.237.36 timed out. (connect timeout=3.05)')) | 域名: 36.40.237.36:9999
+[2026-05-25 14:53:53] ⚠️ 仅读取 0.4KB 数据: http://115.48.160.72:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-05-25 14:53:53] ✅ 测速成功: http://115.48.160.72:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.53s
+[2026-05-25 14:53:54] ⚠️ 仅读取 0.4KB 数据: http://182.114.48.246:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-05-25 14:53:54] ✅ 测速成功: http://182.114.48.246:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.52s
+[2026-05-25 14:53:54] ⚠️ 仅读取 0.7KB 数据: http://120.198.95.220:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&down=1
+[2026-05-25 14:53:54] ✅ 测速成功: http://120.198.95.220:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&down=1
+   速度: 658.20KB/s > 50KB/s | 数据量: 0.7KB | 总耗时: 0.54s
+[2026-05-25 14:53:55] ⚠️ 仅读取 0.4KB 数据: http://124.228.160.176:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+[2026-05-25 14:53:55] ✅ 测速成功: http://124.228.160.176:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 413.09KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 0.54s
+[2026-05-25 14:53:58] ❌ 测速失败: http://101.66.198.32:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.32', port=9901): Max retries exceeded with url: /tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='101.66.198.32', port=9901) at 0x7f3c6314b3d0>, 'Connection to 101.66.198.32 timed out. (connect timeout=3.05)')) | 域名: 101.66.198.32:9901
+[2026-05-25 14:54:01] ❌ 测速失败: http://101.66.195.169:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.195.169', port=9901): Max retries exceeded with url: /tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='101.66.195.169', port=9901) at 0x7f3c6310eb20>, 'Connection to 101.66.195.169 timed out. (connect timeout=3.05)')) | 域名: 101.66.195.169:9901
+[2026-05-25 14:54:04] ❌ 测速失败: http://101.66.195.119:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.195.119', port=9901): Max retries exceeded with url: /tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='101.66.195.119', port=9901) at 0x7f3c62fea310>, 'Connection to 101.66.195.119 timed out. (connect timeout=3.05)')) | 域名: 101.66.195.119:9901
+[2026-05-25 14:54:07] ❌ 测速失败: http://101.66.194.92:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.194.92', port=9901): Max retries exceeded with url: /tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='101.66.194.92', port=9901) at 0x7f3c63070d30>, 'Connection to 101.66.194.92 timed out. (connect timeout=3.05)')) | 域名: 101.66.194.92:9901
+[2026-05-25 14:54:10] ❌ 测速失败: http://101.66.198.83:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.198.83', port=9901): Max retries exceeded with url: /tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='101.66.198.83', port=9901) at 0x7f3c6314bbe0>, 'Connection to 101.66.198.83 timed out. (connect timeout=3.05)')) | 域名: 101.66.198.83:9901
+[2026-05-25 14:54:10] ⚠️ 仅读取 0.5KB 数据: http://example.com/update_time.mp4
+[2026-05-25 14:54:10] ✅ 测速成功: http://example.com/update_time.mp4
+   速度: 515.62KB/s > 50KB/s | 数据量: 0.5KB | 总耗时: 0.02s
