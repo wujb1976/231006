@@ -303,3 +303,5 @@ dspdhls.appcoo.com:8888
 36.32.174.67:60080
 live.qthnews.org.cn:1935
 183.222.15.202:4321
+live-hls-web-aja.getaj.net:80
+php.jdshipin.com:80
