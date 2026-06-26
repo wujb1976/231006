@@ -150,3 +150,6 @@ stream5.jlntv.cn
 gcalic.v.myalicdn.com
 gcwbndali.v.myalicdn.com
 satellitepull.cnr.cn
+jwcdnqx.hebyun.com.cn
+113.25.252.226
+live.streamingfast.net
