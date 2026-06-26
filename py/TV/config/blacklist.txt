@@ -305,3 +305,5 @@ live.qthnews.org.cn:1935
 183.222.15.202:4321
 live-hls-web-aja.getaj.net:80
 php.jdshipin.com:80
+m3u8channel-bx.yunxya.com:443
+o11.163189.xyz:80
