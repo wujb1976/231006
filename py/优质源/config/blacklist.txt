@@ -153,3 +153,6 @@ satellitepull.cnr.cn
 jwcdnqx.hebyun.com.cn
 113.25.252.226
 live.streamingfast.net
+p.ytelc.com
+live.xysrmt.cn
+182.61.15.84
