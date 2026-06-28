@@ -18,3 +18,4 @@ hkstv.tv:443
 live1.habctv.com:80
 59.39.89.130:60901
 104.250.145.76:80
+play.jinnantv.top:80
