@@ -47,3 +47,4 @@ l.cztvcloud.com:80
 222.134.245.16:9901
 183.11.239.36:808
 webcast.hkstv.tv:80
+e2.woc.iiiya.cn:28888
