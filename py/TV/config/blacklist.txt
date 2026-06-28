@@ -48,3 +48,4 @@ l.cztvcloud.com:80
 183.11.239.36:808
 webcast.hkstv.tv:80
 e2.woc.iiiya.cn:28888
+tmpstream.hyrtv.cn:80
