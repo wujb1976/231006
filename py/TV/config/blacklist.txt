@@ -56,3 +56,5 @@ tmpstream.hyrtv.cn:80
 dspdhls.appcoo.com:8888
 222.179.42.129:8181
 218.94.90.74:57585
+bp-resource-dfl.bestv.cn:443
+1.24.39.180:9003
