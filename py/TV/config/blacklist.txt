@@ -72,3 +72,6 @@ cm-wshls.homecdn.com:80
 47.100.209.208:8100
 o11.163189.xyz:443
 o11.163189.xyz:80
+live.streamingfast.net:443
+dxtx.hntv.tv:443
+8.138.7.223:80
