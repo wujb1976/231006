@@ -58,3 +58,9 @@ dspdhls.appcoo.com:8888
 218.94.90.74:57585
 bp-resource-dfl.bestv.cn:443
 1.24.39.180:9003
+vip.ffzy-play1.com:443
+120.202.94.181:9446
+vip.ffzy-play.com:443
+111.8.224.6:9999
+vip.ffzy-play6.com:443
+118.193.115.2:9901
