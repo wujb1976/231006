@@ -64,3 +64,7 @@ vip.ffzy-play.com:443
 111.8.224.6:9999
 vip.ffzy-play6.com:443
 118.193.115.2:9901
+live.metshop.top:80
+8.153.110.51:3020
+stream.thmz.com:80
+123.129.70.178:9901
