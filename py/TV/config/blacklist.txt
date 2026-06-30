@@ -86,3 +86,4 @@ stream.ads.ottera.tv:443
 stream.thmz.com:443
 192.151.150.154:80
 php.jdshipin.com:2096
+218.84.12.186:8001
