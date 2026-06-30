@@ -84,3 +84,5 @@ home.scanflove.com:7788
 58.37.29.210:9001
 stream.ads.ottera.tv:443
 stream.thmz.com:443
+192.151.150.154:80
+php.jdshipin.com:2096
