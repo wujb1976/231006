@@ -122,3 +122,4 @@ flvyxpull2mgsplive.miguvideo.com:80
 218.81.49.34:10010
 dassby.qqff.top:99
 live.xysrmt.cn:80
+27.12.12.29:1234
