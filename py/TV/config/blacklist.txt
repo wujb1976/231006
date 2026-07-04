@@ -125,3 +125,7 @@ live.xysrmt.cn:80
 27.12.12.29:1234
 flv-play.clouda.com:443
 live.jinchuanrmt.com:90
+gslbflvmgsplive.miguvideo.com:80
+183.237.95.108:9901
+gctxyc.liveplay.myqcloud.com:443
+36.251.233.92:1234
