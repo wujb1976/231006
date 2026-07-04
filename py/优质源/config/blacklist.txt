@@ -148,3 +148,8 @@ flv-play.clouda.com
 36.251.233.92
 118.193.115.2
 183.162.104.184
+113.141.220.55
+183.223.157.33
+m3u8.channel.dzsm.com
+live.metshop.top
+live.264788.xyz
