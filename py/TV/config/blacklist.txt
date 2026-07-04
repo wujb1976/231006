@@ -130,3 +130,5 @@ gslbflvmgsplive.miguvideo.com:80
 gctxyc.liveplay.myqcloud.com:443
 36.251.233.92:1234
 112.46.85.60:8009
+m3u8channel-yj.yunxya.com:443
+jsmov2.a.yximgs.com:80
