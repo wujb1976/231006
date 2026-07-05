@@ -132,3 +132,5 @@ gctxyc.liveplay.myqcloud.com:443
 112.46.85.60:8009
 m3u8channel-yj.yunxya.com:443
 jsmov2.a.yximgs.com:80
+bp-resource-dfl.bestv.cn:80
+p2.bdstatic.com:443
