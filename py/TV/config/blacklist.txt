@@ -137,3 +137,5 @@ p2.bdstatic.com:443
 radio.pull.hebtv.com:443
 play.scrstv.com.cn:443
 119.39.9.8:9901
+221.220.131.11:8168
+183.222.15.202:4321
