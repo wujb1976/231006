@@ -134,3 +134,6 @@ m3u8channel-yj.yunxya.com:443
 jsmov2.a.yximgs.com:80
 bp-resource-dfl.bestv.cn:80
 p2.bdstatic.com:443
+radio.pull.hebtv.com:443
+play.scrstv.com.cn:443
+119.39.9.8:9901
