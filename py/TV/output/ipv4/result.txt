@@ -3,42 +3,42 @@ CCTV1,http://47.104.178.59:3566/608807420
 CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://207.56.13.146:81/cdnlive/cctv1.m3u8
-CCTV1,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
-CCTV1,http://222.223.41.27:8888/hls/1/index.m3u8
-CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
-CCTV1,http://198.204.240.250:82/live/cctv1.m3u8
+CCTV1,https://live.264788.xyz/channel/cctv1?streamid=cccb6b9cad34d95eaf06a39fcf6acd9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV1,https://live.264788.xyz/channel/cctv1?streamid=107a756f519973a7e95798c05737a47c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV1,https://live.264788.xyz/channel/cctv1?streamid=478674d2f4e92891de4f30951016036f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV1,https://live.264788.xyz/channel/cctv1?streamid=458e34213492c68772e565c06868d4af&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV1,https://live.264788.xyz/channel/cctv1?streamid=40cf2f40582b104fb087535f9601ea19&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV1,https://live.264788.xyz/channel/cctv1?streamid=7d30132546d771c3ffff77a937dee30d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV2,http://47.104.178.59:3566/631780532
 CCTV2,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv2hd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260706000217&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=171.8.79.254&SecurityKey=20260706000217&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=69ca0d1f28c7811d553e25018ec6b3df&sv=10004&ct=android
 CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
 CCTV2,http://116.128.243.121:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8
+CCTV2,https://live.264788.xyz/channel/cctv2?streamid=383d98765abf4549a5a799274f495f00&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV2,https://live.264788.xyz/channel/cctv2?streamid=c3edafc99edcc1ce06b8b70805554284&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV2,https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8
 CCTV2,http://60.10.139.113:8801/hls/2/index.m3u8
-CCTV2,http://222.223.41.27:8888/hls/2/index.m3u8
-CCTV2,http://221.226.51.220:50081/newlive/live/hls/2/live.m3u8
-CCTV2,http://183.220.20.17:4321/rtp/239.11.0.108:5140
 CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
 CCTV3,http://61.136.172.236:9901/tsfile/live/0003_1.m3u8
+CCTV3,https://live.264788.xyz/channel/cctv3?streamid=2732ee7572f54fe1c1e6af80a49a6786&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV3,https://live.264788.xyz/channel/cctv3?streamid=dae69a23c264c77eefa2354094bbf46b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV3,https://live.264788.xyz/channel/cctv3?streamid=4495555c28e027d370ae1c1bba64a72e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV3,http://112.27.235.94:8000/hls/3/index.m3u8
 CCTV3,http://gmxw.7766.org:808/hls/91/index.m3u8
 CCTV3,http://60.10.139.113:8801/hls/3/index.m3u8
 CCTV3,http://222.223.41.27:8888/hls/3/index.m3u8
 CCTV3,http://121.57.88.206:898/hls/3/index.m3u8
-CCTV3,http://183.220.20.17:4321/rtp/239.11.0.101:5140
-CCTV3,http://183.47.2.156:16883/udp/239.77.0.169:5146
-CCTV3,http://222.95.12.2:4022/rtp/239.49.0.28:8000
 CCTV4,http://47.104.178.59:3566/631780421
 CCTV4,http://47.104.178.59:3566/608807419
 CCTV4,http://47.104.178.59:3566/608807416
 CCTV4,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv4hd265/51/20191230/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260706000217&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=171.8.79.254&SecurityKey=20260706000217&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=83a594130ecbe018908a233e27d5ab31&sv=10004&ct=android
 CCTV4,http://120.76.248.139/live/bfgd/4200000063.m3u8
+CCTV4,http://173.208.212.130:8181/720p/cctv4.m3u8
 CCTV4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
+CCTV4,https://live.264788.xyz/channel/cctv4?streamid=1efbca0be5bd36b4a23a71db15a0ce8a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV4,https://live.264788.xyz/channel/cctv4?streamid=6bb35f2f3c97693a24eea0b7469980a4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV4,http://112.27.235.94:8000/hls/4/index.m3u8
-CCTV4,http://60.10.139.113:8801/hls/4/index.m3u8
-CCTV4,http://222.223.41.27:8888/hls/4/index.m3u8
-CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV4欧洲,http://222.128.26.62:4001/rtp/239.3.1.213:4220
 CCTV4美洲,http://222.128.26.62:4001/rtp/239.3.1.214:4220
 CCTV5,http://47.104.178.59:3566/641886683
@@ -58,79 +58,79 @@ CCTV5+,http://112.27.235.94:8000/hls/6/index.m3u8
 CCTV5+,http://60.10.139.113:8801/hls/15/index.m3u8
 CCTV5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
-CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
+CCTV5+,http://222.128.26.62:4001/rtp/239.3.1.130:8004
 CCTV5+,http://183.47.2.156:16883/udp/239.77.0.87:5146
 CCTV5+,http://183.47.2.156:16883/udp/239.77.1.31:5146
 CCTV6,http://47.104.178.59:3566/624878396
 CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8
 CCTV6,http://61.136.172.236:9901/tsfile/live/0006_1.m3u8
 CCTV6,http://61.136.172.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://173.208.212.130:8181/720p/cctv6.m3u8
 CCTV6,http://112.27.235.94:8000/hls/7/index.m3u8
 CCTV6,http://60.10.139.113:8801/hls/6/index.m3u8
 CCTV6,http://222.223.41.27:8888/hls/6/index.m3u8
 CCTV6,http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
 CCTV6,http://121.57.88.206:898/hls/6/index.m3u8
-CCTV6,http://183.220.20.17:4321/rtp/239.11.0.102:5140
 CCTV7,http://47.104.178.59:3566/673168121
 CCTV7,http://120.76.248.139/live/bfgd/4200000127.m3u8
+CCTV7,https://live.264788.xyz/channel/cctv7?streamid=479fea30e7639a9aeb0d647c41d49027&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV7,https://live.264788.xyz/channel/cctv7?streamid=043ecb8ede7fbe890d88633af70d7cb3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV7,https://live.264788.xyz/channel/cctv7?streamid=3486ebf3d4e652ede40ade48d653f610&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV7,https://live.264788.xyz/channel/cctv7?streamid=98cd6dfda16281b12dd69dd808e10cf8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV7,https://live.264788.xyz/channel/cctv7?streamid=bfc46d4a96d2d9c0ab5d7e66527fbd0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV7,https://live.264788.xyz/channel/cctv7?streamid=0153a69238ce5820014fb09aec713799&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV7,http://112.27.235.94:8000/hls/8/index.m3u8
 CCTV7,http://60.10.139.113:8801/hls/7/index.m3u8
-CCTV7,http://222.223.41.27:8888/hls/7/index.m3u8
-CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8
-CCTV7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
-CCTV7,http://183.220.20.17:4321/rtp/239.11.0.110:5140
-CCTV7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-CCTV7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 CCTV8,http://47.104.178.59:3566/624878356
 CCTV8,http://120.76.248.139/live/bfgd/4200000066.m3u8
 CCTV8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://61.136.172.236:9901/tsfile/live/0008_1.m3u8
+CCTV8,http://173.208.212.130:8181/720p/cctv8.m3u8
+CCTV8,https://live.264788.xyz/channel/cctv8?streamid=40de643d4d7181842c8181a3a31bfade&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV8,http://112.27.235.94:8000/hls/9/index.m3u8
 CCTV8,http://60.10.139.113:8801/hls/8/index.m3u8
 CCTV8,http://222.223.41.27:8888/hls/8/index.m3u8
 CCTV8,http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV8,http://121.57.88.206:898/hls/8/index.m3u8
-CCTV8,http://183.220.20.17:4321/rtp/239.11.0.103:5140
 CCTV9,http://47.104.178.59:3566/673168140
 CCTV9,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260706000218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=171.8.79.254&SecurityKey=20260706000218&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3d42ca3e839b84af6b6dfe555d33a793&sv=10004&ct=android
 CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
 CCTV9,http://61.136.172.236:9901/tsfile/live/0009_1.m3u8
+CCTV9,https://live.264788.xyz/channel/cctv9?streamid=25c0a56523dc33289ca79cb0ce6876f5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=927c3dee9e3accc662fd47804cb48756
 CCTV9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=215d82357eef5176eba423da3528d120
 CCTV9,http://112.27.235.94:8000/hls/10/index.m3u8
 CCTV9,http://60.10.139.113:8801/hls/9/index.m3u8
 CCTV9,http://222.223.41.27:8888/hls/9/index.m3u8
-CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV10,http://47.104.178.59:3566/624878405
 CCTV10,http://120.76.248.139/live/bfgd/4200000129.m3u8
 CCTV10,http://61.136.172.236:9901/tsfile/live/0010_1.m3u8
+CCTV10,http://173.208.212.130:8181/720p/cctv10.m3u8
 CCTV10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 CCTV10,http://112.27.235.94:8000/hls/11/index.m3u8
 CCTV10,http://60.10.139.113:8801/hls/10/index.m3u8
 CCTV10,http://222.223.41.27:8888/hls/10/index.m3u8
 CCTV10,http://58.56.162.102:4466/newlive/live/hls/11/live.m3u8
 CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8
-CCTV10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
 CCTV11,http://47.104.178.59:3566/667987558
 CCTV11,http://120.76.248.139/live/bfgd/4200000130.m3u8
 CCTV11,http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
+CCTV11,http://173.208.212.130:8181/720p/cctv11.m3u8
+CCTV11,https://live.264788.xyz/channel/cctv11?streamid=61be47c4b483b6f38fc816d9d022a325&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV11,https://live.264788.xyz/channel/cctv11?streamid=1cbd4046d7da2c3256da8f134bb57155&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV11,https://live.264788.xyz/channel/cctv11?streamid=2d225001eb069683c2fc67d97be29689&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV11,https://live.264788.xyz/channel/cctv11?streamid=2fce646d8dbb72c508744df2e722b855&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV11,https://live.264788.xyz/channel/cctv11?streamid=c69f5433fa130011553d458dc212c18b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV11,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-CCTV11,http://112.27.235.94:8000/hls/12/index.m3u8
-CCTV11,http://60.10.139.113:8801/hls/96/index.m3u8
-CCTV11,http://222.223.41.27:8888/hls/11/index.m3u8
-CCTV11,http://58.56.162.102:4466/newlive/live/hls/12/live.m3u8
-CCTV11,http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV11,http://183.220.20.17:4321/rtp/239.11.0.22:5140
 CCTV12,http://47.104.178.59:3566/673168185
 CCTV12,http://120.76.248.139/live/bfgd/4200000131.m3u8
 CCTV12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://183.223.157.123:85/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV12,http://61.136.172.236:9901/tsfile/live/0012_1.m3u8
+CCTV12,http://173.208.212.130:8181/720p/cctv12.m3u8
 CCTV12,http://112.27.235.94:8000/hls/13/index.m3u8
 CCTV12,http://60.10.139.113:8801/hls/11/index.m3u8
 CCTV12,http://222.223.41.27:8888/hls/12/index.m3u8
 CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
-CCTV12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
 CCTV13,http://47.104.178.59:3566/608807423
 CCTV13,http://120.76.248.139/live/bfgd/4200000067.m3u8
 CCTV13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=f499c99bfbd0d5b43b1d20ead24f5058&wsTime=6a452729&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20260701224144E16D5A7566C0BF124425-aeSDux
@@ -138,46 +138,49 @@ CCTV13,http://116.128.243.121:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&a
 CCTV13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8
 CCTV13,http://pull-hls-f26.douyinliving.com/media/stream-696107587393815378.m3u8?expire=6a50c3ab&sign=070f9c37ad3a8bb2e34edefb037983df&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-202607031804263FBA01D0DD5362E5EA3B-NVx2Sh
 CCTV13,http://207.56.13.146:81/cdnlive/cctv13.m3u8
-CCTV13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV13,http://112.27.235.94:8000/hls/14/index.m3u8
+CCTV13,https://live.264788.xyz/channel/cctv13?streamid=ceb09a1a782b93dd7f13c95e7bc5d37b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV13,https://live.264788.xyz/channel/cctv13?streamid=9ea97cd43bafe3b9e0250240d221d0e2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV13,https://live.264788.xyz/channel/cctv13?streamid=4789b08617985dff522a8b3501a12a75&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV14,http://47.104.178.59:3566/624878440
 CCTV14,http://120.76.248.139/live/bfgd/4200000132.m3u8
 CCTV14,http://61.136.172.236:9901/tsfile/live/0014_1.m3u8
-CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV14,http://112.27.235.94:8000/hls/15/index.m3u8
-CCTV14,http://60.10.139.113:8801/hls/13/index.m3u8
-CCTV14,http://222.223.41.27:8888/hls/14/index.m3u8
-CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
-CCTV14,http://183.220.20.17:4321/rtp/239.11.0.114:5140
+CCTV14,http://173.208.212.130:8181/720p/cctv14.m3u8
+CCTV14,https://live.264788.xyz/channel/cctv14?streamid=62f8056147d37ab75d0da292d40c0418&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV14,https://live.264788.xyz/channel/cctv14?streamid=d97345047af477cfec39d9d99a9e62f8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV14,https://live.264788.xyz/channel/cctv14?streamid=cabc817805412b81748c942b2dcb39c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV14,https://live.264788.xyz/channel/cctv14?streamid=f0870d5670f7b591427c91bcb34e55d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV14,https://live.264788.xyz/channel/cctv14?streamid=dea6e23e9d7b5317f3605c247aaba891&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV14,https://live.264788.xyz/channel/cctv14?streamid=8f369d689a4dd78055143e69e32ce6d8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV15,http://47.104.178.59:3566/673168223
 CCTV15,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260706000219&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=171.8.79.254&SecurityKey=20260706000219&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=183fbb2d46279e52fc4cb8f107e964ee&sv=10004&ct=android
 CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
 CCTV15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,https://live.264788.xyz/channel/cctv15?streamid=6d7a6859e22aa51e7c09b29a9f1848d7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV15,https://live.264788.xyz/channel/cctv15?streamid=487b3ba4a02ac11c8df5b62e9d5e3deb&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV15,https://live.264788.xyz/channel/cctv15?streamid=2271e48a39448bdf5ec06125102e8ad0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV15,https://live.264788.xyz/channel/cctv15?streamid=bf37f0c53142ac899540c9325d6ed531&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV15,https://live.264788.xyz/channel/cctv15?streamid=b4f89c876ad7c8ac4af8056de8e12c84&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV15,http://gmxw.7766.org:808/hls/102/index.m3u8
-CCTV15,http://60.10.139.113:8801/hls/97/index.m3u8
-CCTV15,http://222.223.41.27:8888/hls/15/index.m3u8
-CCTV15,http://183.220.20.17:4321/rtp/239.11.0.26:5140
-CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-CCTV15,http://183.47.2.156:16883/udp/239.77.1.239:5146
+CCTV16,http://173.208.212.130:8181/720p/cctv16.m3u8
+CCTV16,https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV16,https://live.264788.xyz/channel/cctv16?streamid=cc85018b83212f71155d47ecd19d745e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV16,https://live.264788.xyz/channel/cctv16?streamid=8eb5a3dee64a6f1b00b9eb5c7cd2573a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV16,http://gmxw.7766.org:808/hls/169/index.m3u8
 CCTV16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
-CCTV16,http://107.150.60.122/live/cctv16hd.m3u8
-CCTV16,http://173.208.212.130:8181/720p/cctv16.m3u8
-CCTV16,http://183.47.2.156:16883/udp/239.77.0.165:5146
-CCTV16,http://222.95.12.2:4022/rtp/239.49.8.31:8000
 CCTV16,http://222.128.26.62:4001/rtp/239.3.1.184:8001
+CCTV16,http://183.47.2.156:16883/udp/239.77.0.165:5146
+CCTV16,http://107.150.60.122/live/cctv16hd.m3u8
+CCTV16,http://222.95.12.2:4022/rtp/239.49.8.31:8000
 CCTV17,http://47.104.178.59:3566/673168256
 CCTV17,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260706000220&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=171.8.79.254&SecurityKey=20260706000220&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9c266220ab6baf1a89e983a2635d4968&sv=10004&ct=android
 CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 CCTV17,http://60.10.139.113:8801/hls/98/index.m3u8
 CCTV17,http://183.220.20.17:4321/rtp/239.11.0.107:5140
-CCTV17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+CCTV17,http://222.128.26.62:4001/rtp/239.3.1.151:8144
 CCTV17,http://183.47.2.156:16883/udp/239.77.1.121:5146
-CCTV17,http://222.95.12.2:4022/rtp/239.49.8.52:9810
-CCTV17,http://222.95.12.2:4022/rtp/239.49.8.132:6000
-CCTV17,http://222.95.12.2:4022/rtp/239.49.1.7:6000
+CCTV17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+CCTV17,http://182.135.66.163:18888/rtp/239.94.0.39:5140
+CCTV17,http://182.135.66.163:18888/rtp/239.94.0.17:5140
 CCTV4K,http://183.47.2.156:16883/udp/239.77.0.194:5146
 CCTV4K,http://183.47.2.156:16883/udp/239.77.0.174:5146
 CCTV4K,http://182.135.66.163:18888/rtp/239.94.0.20:5140
@@ -185,46 +188,47 @@ CCTV4K,http://182.135.66.163:18888/rtp/239.94.2.163:5140
 CCTV4K,http://182.135.66.163:1888/rtp/239.94.0.20:5140
 CCTV4K,http://182.135.66.163:1888/rtp/239.94.2.163:5140
 CCTV8K,http://173.208.212.130:8181/720p/cctv8k.m3u8
+第一剧场,http://173.208.212.130:8181/720p/dyjc.m3u8
 第一剧场,http://207.56.13.146:81/cdnlive/dyjc.m3u8
 第一剧场,http://60.10.139.113:8801/hls/65/index.m3u8
-第一剧场,http://173.208.212.130:8181/720p/dyjc.m3u8
 第一剧场,http://183.47.2.156:16883/udp/239.253.43.15:5146
-怀旧剧场,http://207.56.13.146:81/cdnlive/hjjc.m3u8
 怀旧剧场,http://173.208.212.130:8181/720p/hjjc.m3u8
+怀旧剧场,http://207.56.13.146:81/cdnlive/hjjc.m3u8
 怀旧剧场,http://183.47.2.156:16883/udp/239.253.43.5:5146
+风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
 风云剧场,http://207.56.13.146:81/cdnlive/fyjc.m3u8
 风云剧场,http://60.10.139.113:8801/hls/66/index.m3u8
-风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
 风云剧场,http://183.47.2.156:16883/udp/239.253.43.16:5146
-风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
 风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8
+风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
 风云音乐,http://183.47.2.156:16883/udp/239.253.43.6:5146
+兵器科技,http://173.208.212.130:8181/720p/gfjs.m3u8
 兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
 兵器科技,http://60.10.139.113:8801/hls/72/index.m3u8
 兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
-兵器科技,http://173.208.212.130:8181/720p/gfjs.m3u8
 兵器科技,http://183.47.2.156:16883/udp/239.253.43.9:5146
 老故事,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260706000221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=171.8.79.254&SecurityKey=20260706000221&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bb29da7016a8c419c132c08f476131ad&sv=10004&ct=android
+风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8
 风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
 风云足球,http://60.10.139.113:8801/hls/69/index.m3u8
-风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8
 风云足球,http://183.47.2.156:16883/udp/239.253.43.14:5146
-高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 高尔夫网球,http://173.208.212.130:8181/720p/gefwq.m3u8
+高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 高尔夫网球,http://183.47.2.156:16883/udp/239.253.43.12:5146
+央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
 央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
 央视台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
-央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
 央视台球,http://183.47.2.156:16883/udp/239.253.43.11:5146
-女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
 女性时尚,http://173.208.212.130:8181/720p/nxss.m3u8
+女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
 女性时尚,http://183.47.2.156:16883/udp/239.253.43.8:5146
 电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
 电视指南,http://183.47.2.156:16883/udp/239.253.43.10:5146
-央视文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
 央视文化精品,http://173.208.212.130:8181/720p/ysjp.m3u8
-世界地理,http://207.56.13.146:81/cdnlive/sjdl.m3u8
+央视文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
 世界地理,http://173.208.212.130:8181/720p/sjdl.m3u8
+世界地理,http://207.56.13.146:81/cdnlive/sjdl.m3u8
+世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
 世界地理,http://183.47.2.156:16883/udp/239.253.43.7:5146
 发现之旅,http://hlszymgsplive.miguvideo.com:8080/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260706000221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=171.8.79.254&SecurityKey=20260706000221&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1931ff2f2ad6de2f1f125331e98baf22&sv=10004&ct=android
 卫生健康,http://207.56.13.146:81/cdnlive/wsjk.m3u8
@@ -234,14 +238,14 @@ CCTV8K,http://173.208.212.130:8181/720p/cctv8k.m3u8
 CETV早期教育,http://183.47.2.156:16883/udp/239.77.0.180:5146
 CETV1,http://120.76.248.139/live/bfgd/4200000135.m3u8
 CETV1,http://183.220.20.17:4321/rtp/239.11.0.139:5140
-CETV1,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20260706000232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=171.8.79.254&SecurityKey=20260706000232&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bf6fc0dbbff7f25dd75a81d52e725208&sv=10004&ct=android
-CETV1,http://183.47.2.156:16883/udp/239.77.1.222:5146
-CETV1,http://222.95.12.2:4022/rtp/239.49.8.115:8000
 CETV1,http://222.128.26.62:4001/rtp/239.3.1.57:8152
+CETV1,http://183.47.2.156:16883/udp/239.77.1.222:5146
+CETV1,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20260706000232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=171.8.79.254&SecurityKey=20260706000232&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bf6fc0dbbff7f25dd75a81d52e725208&sv=10004&ct=android
 CETV1,http://182.135.66.163:18888/rtp/239.94.1.2:5140
 CETV1,http://182.135.66.163:18888/rtp/239.94.2.224:5140
 CETV1,http://182.135.66.163:1888/rtp/239.94.1.2:5140
 CETV1,http://182.135.66.163:1888/rtp/239.94.2.224:5140
+CETV1,http://222.95.12.2:4022/rtp/239.49.8.115:8000
 CETV2,http://120.76.248.139/live/bfgd/4200000492.m3u8
 CETV2,http://183.220.20.17:4321/rtp/239.11.0.246:5140
 CETV2,http://222.128.26.62:4001/rtp/239.3.1.54:4120
@@ -251,114 +255,116 @@ CETV2,http://182.135.66.163:1888/rtp/239.94.1.19:5140
 CETV2,http://182.135.66.163:1888/rtp/239.94.2.228:5140
 CETV2,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260706000233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=171.8.79.254&SecurityKey=20260706000233&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=19a43a82e6fb2cc1967c2769782135dd&sv=10004&ct=android
 CETV4,http://183.220.20.17:4321/rtp/239.11.0.248:5140
-CETV4,http://183.47.2.156:16883/udp/239.253.43.40:5146
-CETV4,http://222.95.12.2:4022/rtp/239.49.0.125:8000
 CETV4,http://222.128.26.62:4001/rtp/239.3.1.56:4120
+CETV4,http://183.47.2.156:16883/udp/239.253.43.40:5146
 CETV4,http://182.135.66.163:18888/rtp/239.94.1.20:5140
 CETV4,http://182.135.66.163:18888/rtp/239.94.2.229:5140
 CETV4,http://182.135.66.163:1888/rtp/239.94.1.20:5140
 CETV4,http://182.135.66.163:1888/rtp/239.94.2.229:5140
+CETV4,http://222.95.12.2:4022/rtp/239.49.0.125:8000
 CETV4,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260706000233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=171.8.79.254&SecurityKey=20260706000233&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5b117f2c9ef73ba9218a08e1ab9a2ea6&sv=10004&ct=android
 CGTN俄语,http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/eyu/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200179332&pid=2028597139&timestamp=20260706000221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609006446&ParentNodeID=-99&assertID=2200179332&client_ip=171.8.79.254&SecurityKey=20260706000221&promotionId=&mvid=2200179332&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a18960739e32c091adda0bdea9954080&sv=10004&ct=android
 CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-CGTN俄语,http://183.47.2.156:16883/udp/239.253.43.201:5146
 CGTN俄语,http://222.128.26.62:4001/rtp/239.3.1.220:4220
+CGTN俄语,http://183.47.2.156:16883/udp/239.253.43.201:5146
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-CGTN法语,http://183.47.2.156:16883/udp/239.77.0.228:5146
 CGTN法语,http://222.128.26.62:4001/rtp/239.3.1.218:4220
+CGTN法语,http://183.47.2.156:16883/udp/239.77.0.228:5146
 CGTN法语,http://182.135.66.163:18888/rtp/239.94.2.238:5140
 CGTN法语,http://182.135.66.163:1888/rtp/239.94.2.238:5140
 CGTN法语,http://hlszymgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/fayu/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200179324&pid=2028597139&timestamp=20260706000221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609006476&ParentNodeID=-99&assertID=2200179324&client_ip=171.8.79.254&SecurityKey=20260706000221&promotionId=&mvid=2200179324&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=86f8d4c9b1d2d18bad072155388ccb42&sv=10004&ct=android
-CGTN西班牙语,http://183.47.2.156:16883/udp/239.77.0.221:5146
 CGTN西班牙语,http://222.128.26.62:4001/rtp/239.3.1.217:4220
+CGTN西班牙语,http://183.47.2.156:16883/udp/239.77.0.221:5146
 CGTN西班牙语,http://182.135.66.163:18888/rtp/239.94.2.237:5140
 CGTN西班牙语,http://182.135.66.163:1888/rtp/239.94.2.237:5140
-CGTN阿拉伯语,http://183.47.2.156:16883/udp/239.253.43.200:5146
 CGTN阿拉伯语,http://222.128.26.62:4001/rtp/239.3.1.219:4220
+CGTN阿拉伯语,http://183.47.2.156:16883/udp/239.253.43.200:5146
 CGTN阿拉伯语,http://hlszymgsplive.miguvideo.com:8080/envivo_v/SD/cctv/alabo/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200179303&pid=2028597139&timestamp=20260706000220&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609154345&ParentNodeID=-99&assertID=2200179303&client_ip=171.8.79.254&SecurityKey=20260706000220&promotionId=&mvid=2200179303&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=186a4d9d7425bd750cf714bf2b95f023&sv=10004&ct=android
 CGTN外语纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-CGTN外语纪录,http://mgsp-cty2.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/doc/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200179356&pid=2028597139&timestamp=20260706000220&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609006487&ParentNodeID=-99&assertID=2200179356&client_ip=171.8.79.254&SecurityKey=20260706000220&promotionId=&mvid=2200179356&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=54df6ee7442bc572896acfa31e233a15&sv=10004&ct=android
-CGTN外语纪录,http://183.47.2.156:16883/udp/239.253.43.122:5146
 CGTN外语纪录,http://222.128.26.62:4001/rtp/239.3.1.216:4220
+CGTN外语纪录,http://183.47.2.156:16883/udp/239.253.43.122:5146
+CGTN外语纪录,http://mgsp-cty2.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/doc/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200179356&pid=2028597139&timestamp=20260706000220&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609006487&ParentNodeID=-99&assertID=2200179356&client_ip=171.8.79.254&SecurityKey=20260706000220&promotionId=&mvid=2200179356&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=54df6ee7442bc572896acfa31e233a15&sv=10004&ct=android
 卫视频道,#genre#
-重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
+重温经典,http://cdn6.163189.xyz/163189/cwjd
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
+重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
 重温经典,http://112.27.235.94:8000/hls/50/index.m3u8
-凤凰卫视中文台,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
 凤凰卫视中文台,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰卫视资讯台,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+凤凰卫视中文台,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
 凤凰卫视资讯台,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰卫视香港台,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+凤凰卫视资讯台,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
 凤凰卫视香港台,http://rihou.cc:555/tv/[Pd]凤凰香港
+凤凰卫视香港台,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 湖南卫视,http://120.76.248.139/live/bfgd/4200000086.m3u8
+湖南卫视,http://173.208.212.130:8181/720p/hnws.m3u8
+湖南卫视,http://173.208.212.130:8181/1080p/hnws.m3u8
 湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
 湖南卫视,http://207.56.13.146:81/cdnlive/hnws.m3u8
+湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=0828c5c3517aef9c72343736b2d9d1f9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 湖南卫视,http://8.138.7.223/tv/api.php?id=hnws4k
 湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
-湖南卫视,http://221.226.51.220:50081/newlive/live/hls/29/live.m3u8
 浙江卫视,http://120.76.248.139/live/bfgd/4200000094.m3u8
+浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
+浙江卫视,http://173.208.212.130:8181/1080p/zjws.m3u8
 浙江卫视,http://204.12.221.218:8181/3m1080p/zjws.m3u8
 浙江卫视,http://207.56.13.146:81/cdnlive/zjws.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
-浙江卫视,http://183.220.20.17:4321/rtp/239.11.0.70:5140
+浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=fd3b4ddfd1dabea05102cd13ed0320c1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=71f2f18b70580fb254c80c2189bf274d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=59c87a5e81a0f7a4fb49e7efc361e6ed&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 浙江卫视4K,http://183.47.2.156:16883/udp/239.77.0.58:5146
-浙江卫视4K,http://222.95.12.2:4022/rtp/239.49.1.64:8000
 浙江卫视4K,http://182.135.66.163:18888/rtp/239.94.0.118:5140
 浙江卫视4K,http://182.135.66.163:1888/rtp/239.94.0.118:5140
+浙江卫视4K,http://222.95.12.2:4022/rtp/239.49.1.64:8000
+东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 东方卫视,http://47.104.178.59:3566/651632648
 东方卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongfanghd265/51/20191230/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260706020220&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=171.8.79.254&SecurityKey=20260706020220&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fd87ce1fd8b2cd7a7f769129a1f3ea13&sv=10004&ct=android
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 东方卫视,http://120.76.248.139/live/bfgd/4200000093.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东方卫视,http://173.208.212.130:8181/720p/dfws.m3u8
 东方卫视,http://204.12.221.218:8181/3m1080p/dfws.m3u8
 东方卫视,http://207.56.13.146:81/cdnlive/dfws.m3u8
-东方卫视,http://112.27.235.94:8000/hls/28/index.m3u8
-东方卫视,http://222.90.21.30:9901/hls/20/index.m3u8
+东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=1d5fd57f18cd8a77af78ee5e1f479e70&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视4K,http://183.47.2.156:16883/udp/239.77.0.59:5146
-东方卫视4K,http://222.95.12.2:4022/rtp/239.49.1.70:8000
-东方卫视4K,http://222.95.12.2:4022/rtp/239.49.8.38:8000
 东方卫视4K,http://182.135.66.163:18888/rtp/239.94.0.119:5140
 东方卫视4K,http://182.135.66.163:1888/rtp/239.94.0.119:5140
+东方卫视4K,http://222.95.12.2:4022/rtp/239.49.1.70:8000
+东方卫视4K,http://222.95.12.2:4022/rtp/239.49.8.38:8000
 北京卫视,http://47.104.178.59:3566/630287636
 北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8
+北京卫视,http://173.208.212.130:8181/720p/bjws.m3u8
 北京卫视,http://204.12.221.218:8181/3m1080p/bjws.m3u8
 北京卫视,http://207.56.13.146:81/cdnlive/bjws.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://112.27.235.94:8000/hls/27/index.m3u8
 北京卫视,http://60.10.139.113:8801/hls/20/index.m3u8
 北京卫视,http://183.220.20.17:4321/rtp/239.11.0.121:5140
-北京卫视,http://173.208.212.130:8181/720p/bjws.m3u8
-北京卫视,http://183.47.2.156:16883/udp/239.77.1.4:5146
+北京卫视,http://222.128.26.62:4001/rtp/239.3.1.241:8000
 江苏卫视,http://47.104.178.59:3566/623899368
 江苏卫视,http://120.76.248.139/live/bfgd/4200000085.m3u8
-江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
-江苏卫视,http://207.56.13.146:81/cdnlive/jsws.m3u8
-江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8
-江苏卫视,http://221.226.51.220:50081/newlive/live/hls/18/live.m3u8
-江苏卫视,http://183.220.20.17:4321/rtp/239.11.0.76:5140
 江苏卫视,http://173.208.212.130:8181/720p/jsws.m3u8
 江苏卫视,http://173.208.212.130:8181/1080p/jsws.m3u8
-江苏卫视,http://183.47.2.156:16883/udp/239.77.1.18:5146
+江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
+江苏卫视,http://207.56.13.146:81/cdnlive/jsws.m3u8
+江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=532885846757ddf8f597ab4a3ca7101e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=430ccd55b3374b7e3ccc7388e90566c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=2e3c19907f83ee49962e7a3b1db2c093&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=380709c4c392f08f4dcd85c5bb49fac4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
 江苏卫视4K,http://183.47.2.156:16883/udp/239.77.0.57:5146
+江苏卫视4K,http://182.135.66.163:18888/rtp/239.94.0.117:5140
+江苏卫视4K,http://182.135.66.163:1888/rtp/239.94.0.117:5140
 江苏卫视4K,http://222.95.12.2:4022/rtp/239.49.1.61:8000
 江苏卫视4K,http://222.95.12.2:4022/rtp/239.49.8.82:8000
 江苏卫视4K,http://222.95.12.2:4022/rtp/239.49.1.62:8000
-江苏卫视4K,http://182.135.66.163:18888/rtp/239.94.0.117:5140
-江苏卫视4K,http://182.135.66.163:1888/rtp/239.94.0.117:5140
 安徽卫视,http://120.76.248.139/live/bfgd/4200000096.m3u8
 安徽卫视,http://49.87.154.246:85/tsfile/live/0130_1.m3u8?key=txiptv
+安徽卫视,http://173.208.212.130:8181/720p/ahws.m3u8
 安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8
 安徽卫视,http://207.56.13.146:81/cdnlive/ahws.m3u8
 安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8
@@ -366,132 +372,131 @@ CGTN外语纪录,http://222.128.26.62:4001/rtp/239.3.1.216:4220
 安徽卫视,http://gmxw.7766.org:808/hls/40/index.m3u8
 安徽卫视,http://221.226.51.220:50081/newlive/live/hls/36/live.m3u8
 安徽卫视,http://183.220.20.17:4321/rtp/239.11.0.117:5140
-安徽卫视,http://173.208.212.130:8181/720p/ahws.m3u8
 重庆卫视,http://47.104.178.59:3566/738910914
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://61.136.172.236:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
-重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8
-重庆卫视,http://222.90.21.30:9901/hls/29/index.m3u8
-重庆卫视,http://222.90.21.30:9901/hls/69/index.m3u8
-重庆卫视,http://58.56.162.102:4466/newlive/live/hls/23/live.m3u8
-重庆卫视,http://183.220.20.17:4321/rtp/239.11.0.116:5140
+重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=17072355ef8fa4c2242ee1efb6c1a7c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=0d606a0ff89dc49b8efb489237c11095&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=67cc81d963a7523e0fd449d3844b30bc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=3154f54402f859ff850d544c66ba77ed&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=686f6f7a1575884e5faa8bc3db4f3e9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,http://120.76.248.139/live/bfgd/4200000103.m3u8
 四川卫视,http://61.136.172.236:9901/tsfile/live/0123_1.m3u8
 四川卫视,http://153.0.171.163:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://204.12.221.218:8181/3m1080p/scws.m3u8
 四川卫视,http://207.56.13.146:81/cdnlive/scws.m3u8
-四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
-四川卫视,http://222.90.21.30:9901/hls/45/index.m3u8
-四川卫视,http://58.56.162.102:4466/newlive/live/hls/33/live.m3u8
-四川卫视,http://183.47.2.156:16883/udp/239.77.1.215:5146
-四川卫视,http://222.95.12.2:4022/rtp/239.49.1.43:6000
+四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=db19730d20622f8801f0b4e9ece132ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=ee4e9252618099b2505fd3875394a5ba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=3df085b8b20476f90cce113f7f2152e0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=5386c588d4bbd34f863c7366b934f9d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=4faded8e2a86c3d05363a67bec4cca35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视4K,http://183.47.2.156:16883/udp/239.77.0.60:5146
-四川卫视4K,http://222.95.12.2:4022/rtp/239.49.1.66:8000
 四川卫视4K,http://182.135.66.163:18888/rtp/239.94.0.115:5140
 四川卫视4K,http://182.135.66.163:1888/rtp/239.94.0.115:5140
+四川卫视4K,http://222.95.12.2:4022/rtp/239.49.1.66:8000
 东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 东南卫视,http://207.56.13.146:81/cdnlive/dnws.m3u8
+东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=e890c2797595c6b2cee2f3fa1594cada&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东南卫视,http://112.27.235.94:8000/hls/38/index.m3u8
 东南卫视,http://222.90.21.30:9901/hls/30/index.m3u8
 东南卫视,http://183.220.20.17:4321/rtp/239.11.0.41:5140
-东南卫视,http://183.47.2.156:16883/udp/239.77.1.104:5146
-东南卫视,http://222.95.12.2:4022/rtp/239.49.1.45:6000
+东南卫视,http://222.128.26.62:4001/rtp/239.3.1.156:8148
 深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://173.208.212.130:8181/720p/szws.m3u8
 深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8
 深圳卫视,http://207.56.13.146:81/cdnlive/szws.m3u8
+深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=2715678e4b53f93415f1b63d802c342c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://112.27.235.94:8000/hls/33/index.m3u8
 深圳卫视,http://183.220.20.17:4321/rtp/239.11.0.71:5140
-深圳卫视,http://173.208.212.130:8181/720p/szws.m3u8
-深圳卫视,http://183.47.2.156:16883/udp/239.77.1.3:5146
-深圳卫视,http://183.47.2.156:16883/udp/239.77.0.130:5146
+深圳卫视,http://222.128.26.62:4001/rtp/239.3.1.134:8020
 深圳卫视4K,http://183.47.2.156:16883/udp/239.77.0.67:5146
-深圳卫视4K,http://222.95.12.2:4022/rtp/239.49.1.28:8000
-深圳卫视4K,http://222.95.12.2:4022/rtp/239.49.1.27:8000
 深圳卫视4K,http://182.135.66.163:18888/rtp/239.94.0.113:5140
 深圳卫视4K,http://182.135.66.163:1888/rtp/239.94.0.113:5140
+深圳卫视4K,http://222.95.12.2:4022/rtp/239.49.1.28:8000
+深圳卫视4K,http://222.95.12.2:4022/rtp/239.49.1.27:8000
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 广东卫视,http://47.104.178.59:3566/608831231
 广东卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260706000223&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=171.8.79.254&SecurityKey=20260706000223&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c50e198d542511828513300ee452058b&sv=10004&ct=android
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8
+广东卫视,http://173.208.212.130:8181/720p/gdws.m3u8
 广东卫视,http://204.12.221.218:8181/3m1080p/gdws.m3u8
 广东卫视,http://207.56.13.146:81/cdnlive/gdws.m3u8
 广东卫视,http://112.27.235.94:8000/hls/30/index.m3u8
 广东卫视,http://222.90.21.30:9901/hls/22/index.m3u8
-广东卫视,http://183.220.20.17:4321/rtp/239.11.0.115:5140
 广东卫视4K,http://183.47.2.156:16883/udp/239.77.0.65:5146
 广东卫视4K,http://183.47.2.156:16883/udp/239.77.0.66:5146
-广东卫视4K,http://222.95.12.2:4022/rtp/239.49.1.26:8000
-广东卫视4K,http://222.95.12.2:4022/rtp/239.49.1.24:8000
 广东卫视4K,http://182.135.66.163:18888/rtp/239.94.0.114:5140
 广东卫视4K,http://182.135.66.163:1888/rtp/239.94.0.114:5140
+广东卫视4K,http://222.95.12.2:4022/rtp/239.49.1.26:8000
+广东卫视4K,http://222.95.12.2:4022/rtp/239.49.1.24:8000
 广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8
 广西卫视,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8
 广西卫视,http://207.56.13.146:81/cdnlive/gxws.m3u8
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
 广西卫视,http://221.226.51.220:50081/newlive/live/hls/25/live.m3u8
+广西卫视,http://183.220.20.17:4321/rtp/239.11.0.48:5140
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-广西卫视,http://183.220.20.17:4321/rtp/239.11.0.48:5140
-广西卫视,http://183.47.2.156:16883/udp/239.253.43.36:5146
+广西卫视,http://222.128.26.62:4001/rtp/239.3.1.39:8300
 甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
 甘肃卫视,http://204.12.221.218:8181/3m1080p/gsws.m3u8
 甘肃卫视,http://207.56.13.146:81/cdnlive/gsws.m3u8
 甘肃卫视,http://cssbyd.imwork.net:8082/hls/48/index.m3u8
 甘肃卫视,http://183.220.20.17:4321/rtp/239.11.0.55:5140
-甘肃卫视,http://183.47.2.156:16883/udp/239.77.0.189:5146
-甘肃卫视,http://222.95.12.2:4022/rtp/239.49.0.250:8000
-甘肃卫视,http://222.95.12.2:4022/rtp/239.49.0.172:8000
 甘肃卫视,http://222.128.26.62:4001/rtp/239.3.1.49:8188
+甘肃卫视,http://183.47.2.156:16883/udp/239.77.0.189:5146
 甘肃卫视,http://182.135.66.163:18888/rtp/239.94.0.99:5140
+甘肃卫视,http://182.135.66.163:18888/rtp/239.94.2.205:5140
+甘肃卫视,http://182.135.66.163:1888/rtp/239.94.0.99:5140
 贵州卫视,http://120.76.248.139/live/bfgd/4200000101.m3u8
 贵州卫视,http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
 贵州卫视,http://61.136.172.236:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
 贵州卫视,http://207.56.13.146:81/cdnlive/gzws.m3u8
-贵州卫视,http://112.27.235.94:8000/hls/46/index.m3u8
-贵州卫视,http://222.90.21.30:9901/hls/34/index.m3u8
-贵州卫视,http://183.220.20.17:4321/rtp/239.11.0.51:5140
-贵州卫视,http://183.47.2.156:16883/udp/239.77.1.221:5146
-贵州卫视,http://222.95.12.2:4022/rtp/239.49.1.52:6000
+贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=7a7c8f5c962cd93365273e438a14c334&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=945f02fddb4db44cda1509f4b8a3275a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=01f707f6640e30898178fa804c82efe9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=17b3ab3511226a4bb37ec0596bd4a0a5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=ad7d35e8babbb1be00f3da3939b21e05&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 河北卫视,http://47.104.178.59:3566/962042070
 河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8
 河北卫视,http://61.136.172.236:9901/tsfile/live/0117_1.m3u8
 河北卫视,http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://173.208.212.130:8181/720p/hews.m3u8
 河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
 河北卫视,http://207.56.13.146:81/cdnlive/hews.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-河北卫视,http://112.27.235.94:8000/hls/39/index.m3u8
-河北卫视,http://183.220.20.17:4321/rtp/239.11.0.31:5140
-河北卫视,http://173.208.212.130:8181/720p/hews.m3u8
+河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=55fd020d182c21bfa36bba7b80a29843&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=bcb39b8f51cb4db22c2fd7627b677149&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 河南卫视,http://47.104.178.59:3566/790187291
 河南卫视,http://hlsztemgsplive.miguvideo.com:8080/wd-henanwssd-600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260706000223&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=171.8.79.254&SecurityKey=20260706000223&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b55bb658fd30273d68dced38289c297e&sv=10004&ct=android
 河南卫视,http://120.76.248.139/live/bfgd/4200000339.m3u8
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
 河南卫视,http://204.12.221.218:8181/3m1080p/haws.m3u8
 河南卫视,http://207.56.13.146:81/cdnlive/haws.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=eadda07f633d04f62993df33917a8c54&wsTime=1783288871
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://112.27.235.94:8000/hls/37/index.m3u8
+河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=ec01ce8339ea6d74589696a9d4ded9c6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 黑龙江卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxjj/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20260706000225&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=171.8.79.254&SecurityKey=20260706000225&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=345814600a68b2bb841f97f77340e58b&sv=10004&ct=android
 黑龙江卫视,http://120.76.248.139/live/bfgd/4200000095.m3u8
 黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8
 黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://204.12.221.218:8181/3m1080p/hljws.m3u8
 黑龙江卫视,http://207.56.13.146:81/cdnlive/hljws.m3u8
+黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=8ff7b22300175192a1f3daf4c5900eff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=af948f073fa99b226abb4c2ea63410da&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
-黑龙江卫视,http://221.226.51.220:50081/newlive/live/hls/31/live.m3u8
-黑龙江卫视,http://183.220.20.17:4321/rtp/239.11.0.36:5140
 湖北卫视,http://47.104.178.59:3566/947472496
 湖北卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/hbwshd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260706000224&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=171.8.79.254&SecurityKey=20260706000224&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a1d1630535b5a2e52fdf00004f8f3586&sv=10004&ct=android
 湖北卫视,http://120.76.248.139/live/bfgd/4200000102.m3u8
@@ -500,8 +505,8 @@ CGTN外语纪录,http://222.128.26.62:4001/rtp/239.3.1.216:4220
 湖北卫视,http://153.0.171.163:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://204.12.221.218:8181/3m1080p/hbws.m3u8
 湖北卫视,http://207.56.13.146:81/cdnlive/hbws.m3u8
+湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=e5e8827bbbb6fed082b85a0b9970586b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 湖北卫视,http://112.27.235.94:8000/hls/41/index.m3u8
-湖北卫视,http://183.220.20.17:4321/rtp/239.11.0.74:5140
 江西卫视,http://47.104.178.59:3566/783847495
 江西卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260706020221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=171.8.79.254&SecurityKey=20260706020221&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7a6626294f0e345bcd573caa30d74772&sv=10004&ct=android
 江西卫视,http://120.76.248.139/live/bfgd/4200000098.m3u8
@@ -509,9 +514,9 @@ CGTN外语纪录,http://222.128.26.62:4001/rtp/239.3.1.216:4220
 江西卫视,http://61.136.172.236:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://204.12.221.218:8181/3m1080p/jxws.m3u8
 江西卫视,http://207.56.13.146:81/cdnlive/jxws.m3u8
-江西卫视,http://112.27.235.94:8000/hls/44/index.m3u8
-江西卫视,http://198.204.228.26/live/jxwshd.m3u8
-江西卫视,http://183.220.20.17:4321/rtp/239.11.0.42:5140
+江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=39740f1c6a79f08c4b008e5d4f80a26b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=d954813b7f590cc97b38a2835158d960&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 吉林卫视,http://47.104.178.59:3566/947472500
 吉林卫视,http://120.76.248.139/live/bfgd/4200000097.m3u8
 吉林卫视,http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
@@ -519,19 +524,19 @@ CGTN外语纪录,http://222.128.26.62:4001/rtp/239.3.1.216:4220
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://204.12.221.218:8181/3m1080p/jlws.m3u8
 吉林卫视,http://207.56.13.146:81/cdnlive/jlws.m3u8
+吉林卫视,https://live.264788.xyz/channel/jilinweishi?streamid=a5e656c3fae17a05d1371c0e32cfbc77&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+吉林卫视,https://live.264788.xyz/channel/jilinweishi?streamid=3a5e52dadf63aa29839e641b0a25a563&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 吉林卫视,http://222.90.21.30:9901/hls/35/index.m3u8
-吉林卫视,http://cssbyd.imwork.net:8082/hls/41/index.m3u8
-吉林卫视,http://58.56.162.102:4466/newlive/live/hls/36/live.m3u8
 内蒙古卫视,http://120.76.248.139/live/bfgd/4200000110.m3u8
 内蒙古卫视,http://204.12.221.218:8181/3m1080p/nmgws.m3u8
 内蒙古卫视,http://207.56.13.146:81/cdnlive/nmgws.m3u8
+内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=40c2dd8c7826284e9c41d6abfa9f90cf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=dbc9e4620de208f00796339fe9abda05&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,http://112.27.235.94:8000/hls/49/index.m3u8
 内蒙古卫视,http://222.90.21.30:9901/hls/40/index.m3u8
 内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8
-内蒙古卫视,http://58.56.162.102:4466/newlive/live/hls/40/live.m3u8
-内蒙古卫视,http://183.220.20.17:4321/rtp/239.11.0.33:5140
-内蒙古卫视,http://222.95.12.2:4022/rtp/239.49.1.75:8000
-内蒙古卫视,http://222.95.12.2:4022/rtp/239.49.0.180:8000
 辽宁卫视,http://47.104.178.59:3566/630291707
 辽宁卫视,http://120.76.248.139/live/bfgd/4200000141.m3u8
 辽宁卫视,http://120.76.248.139/live/bfgd/4200000185.m3u8
@@ -546,89 +551,90 @@ CGTN外语纪录,http://222.128.26.62:4001/rtp/239.3.1.216:4220
 宁夏卫视,http://120.76.248.139/live/bfgd/4200000118.m3u8
 宁夏卫视,http://204.12.221.218:8181/3m1080p/nxws.m3u8
 宁夏卫视,http://207.56.13.146:81/cdnlive/nxws.m3u8
+宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=c5ab19386a4b4448aafa6d1eb94a4d4c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,http://cssbyd.imwork.net:8082/hls/45/index.m3u8
 宁夏卫视,http://58.56.162.102:4466/newlive/live/hls/43/live.m3u8
 宁夏卫视,http://183.220.20.17:4321/rtp/239.11.0.57:5140
-宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
-宁夏卫视,http://222.95.12.2:4022/rtp/239.49.1.60:8000
-宁夏卫视,http://222.95.12.2:4022/rtp/239.49.0.171:8000
+宁夏卫视,http://222.128.26.62:4001/rtp/239.3.1.46:8124
 青海卫视,http://47.104.178.59:3566/947472506
 青海卫视,http://120.76.248.139/live/bfgd/4200000111.m3u8
 青海卫视,http://204.12.221.218:8181/3m1080p/qhws.m3u8
 青海卫视,http://207.56.13.146:81/cdnlive/qhws.m3u8
-青海卫视,http://222.90.21.30:9901/hls/42/index.m3u8
-青海卫视,http://198.204.228.26/live/qhws.m3u8
-青海卫视,http://183.220.20.17:4321/rtp/239.11.0.56:5140
-青海卫视,http://183.47.2.156:16883/udp/239.253.43.125:5146
-青海卫视,http://222.95.12.2:4022/rtp/239.49.1.53:6000
-青海卫视,http://222.128.26.62:4001/rtp/239.3.1.44:8184
+青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=8aa812f4a2c7b1bee5c3447691ead3cf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=366a61c1e203e1f01fd7eeeb0014f9a8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=2e47f290dfc5832de1553e7b3710d702&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=6d9039a20a59e79edc1d6b3a645a8e76&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=c6ffe6f67dbdce61f7bf5af9d34e999a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=dcc88f36445dfbc894756be122a0bb9b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山东卫视,http://120.76.248.139/live/bfgd/4200000099.m3u8
 山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8
 山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://173.208.212.130:8181/720p/sdws.m3u8
 山东卫视,http://204.12.221.218:8181/3m1080p/sdws.m3u8
 山东卫视,http://207.56.13.146:81/cdnlive/sdws.m3u8
-山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-山东卫视,http://112.27.235.94:8000/hls/34/index.m3u8
-山东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd
-山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-山东卫视,http://221.226.51.220:50081/newlive/live/hls/34/live.m3u8
+山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=a2748c69b28269c28a60a0a32874df8e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=0c90580e8be097c73a218656168e35e6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=ba7fe0219ac4e9bd36a7d3ce5359b3c7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=584a5648f57ec60599e05d68c502946e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山东卫视4K,http://183.47.2.156:16883/udp/239.77.0.61:5146
-山东卫视4K,http://222.95.12.2:4022/rtp/239.49.1.72:8000
 山东卫视4K,http://182.135.66.163:18888/rtp/239.94.0.120:5140
 山东卫视4K,http://182.135.66.163:1888/rtp/239.94.0.120:5140
+山东卫视4K,http://222.95.12.2:4022/rtp/239.49.1.72:8000
 山东教育卫视,http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-山东教育卫视,http://222.95.12.2:4022/rtp/239.49.0.235:8000
 山东教育卫视,http://222.128.26.62:4001/rtp/239.3.1.52:4120
 山东教育卫视,http://182.135.66.163:18888/rtp/239.94.2.212:5140
 山东教育卫视,http://182.135.66.163:1888/rtp/239.94.2.212:5140
+山东教育卫视,http://222.95.12.2:4022/rtp/239.49.0.235:8000
 山西卫视,http://204.12.221.218:8181/3m1080p/sxws.m3u8
 山西卫视,http://207.56.13.146:81/cdnlive/sxws.m3u8
+山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=8e0686e725376b7a0d2079c0e2beb3dd&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=3588853b57d954c33c7eef175200eae7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=8b37a515ed8ef12821ad07167563e5e1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山西卫视,http://112.27.235.94:8000/hls/45/index.m3u8
 山西卫视,http://222.90.21.30:9901/hls/32/index.m3u8
 山西卫视,http://58.56.162.102:4466/newlive/live/hls/32/live.m3u8
-山西卫视,http://107.150.60.122/live/sxwshd.m3u8
-山西卫视,http://198.204.228.26/live/sxwshd.m3u8
-山西卫视,http://183.220.20.17:4321/rtp/239.11.0.32:5140
-山西卫视,http://222.95.12.2:4022/rtp/239.49.1.55:8000
-山西卫视,http://222.95.12.2:4022/rtp/239.49.1.51:6000
 海南卫视,http://47.104.178.59:3566/947472502
 海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
 海南卫视,http://204.12.221.218:8181/3m1080p/lyws.m3u8
 海南卫视,http://207.56.13.146:81/cdnlive/lyws.m3u8
-海南卫视,http://cssbyd.imwork.net:8082/hls/31/index.m3u8
-海南卫视,http://58.56.162.102:4466/newlive/live/hls/30/live.m3u8
-海南卫视,http://183.220.20.17:4321/rtp/239.11.0.193:5140
-海南卫视,http://222.95.12.2:4022/rtp/239.49.1.41:6000
-海南卫视,http://222.128.26.62:4001/rtp/239.3.1.45:8304
+海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=138a77a2a88f0a2df6d0af493cf4d5bc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=c0056307691771cf4adf3fcf3f54a006&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=ca8d591103c2814acc3d0a2fb10bdbd6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=e2f5fd351d358cfa4c8b8d5bcb6725a8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=381740134eacf3b0876961bcef3249e2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=22a384055e4a94909e17012c852ac26d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8
 云南卫视,http://204.12.221.218:8181/3m1080p/ynws.m3u8
 云南卫视,http://207.56.13.146:81/cdnlive/ynws.m3u8
-云南卫视,http://112.27.235.94:8000/hls/40/index.m3u8
-云南卫视,http://120.211.62.180:8000/hls/39/index.m3u8
-云南卫视,http://183.220.20.17:4321/rtp/239.11.0.52:5140
-云南卫视,http://183.47.2.156:16883/udp/239.253.43.37:5146
-云南卫视,http://222.95.12.2:4022/rtp/239.49.0.177:8000
-云南卫视,http://222.95.12.2:4022/rtp/239.49.0.147:8000
-云南卫视,http://222.95.12.2:4022/rtp/239.49.1.235:6000
+云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=3ab1c660ac3a19f6884caf24c8d97390&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=be30746d3aa0bb76eb69103606a6b26b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=59a7b5e496b1ed2af50a575e9081c7e7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=957481b7bfcc2dac14d0c02a6ef0de05&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=fe7f665eb83ec0b1eebd4120b1a74d77&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=6d5d2634644cc4e0928f4afdca9dc4fe&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=57f7256aeb9a8d4606f5b4cf7b5aeb13&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,http://120.76.248.139/live/bfgd/4200000489.m3u8
 西藏卫视,http://120.76.248.139/live/bfgd/4200000121.m3u8
 西藏卫视,http://204.12.221.218:8181/3m1080p/xzws.m3u8
 西藏卫视,http://207.56.13.146:81/cdnlive/xzws.m3u8
+西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=5778b7e6b4f5160657a4cb830a36f20b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,http://222.90.21.30:9901/hls/90/index.m3u8
 西藏卫视,http://cssbyd.imwork.net:8082/hls/46/index.m3u8
 西藏卫视,http://58.56.162.102:4466/newlive/live/hls/45/live.m3u8
 西藏卫视,http://183.220.20.17:4321/rtp/239.11.0.53:5140
-西藏卫视,http://222.95.12.2:4022/rtp/239.49.0.245:8000
 西藏卫视,http://222.128.26.62:4001/rtp/239.3.1.47:8164
 兵团卫视,http://47.104.178.59:3566/956923145
 兵团卫视,http://204.12.221.218:8181/3m1080p/btws.m3u8
+兵团卫视,https://live.264788.xyz/channel/bingtuanweishi?streamid=b9dcd906150192bdf76f447df83f8033&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+兵团卫视,https://live.264788.xyz/channel/bingtuanweishi?streamid=28cb43aca249566a1f146d7bb3fcc965&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 兵团卫视,http://222.90.21.30:9901/hls/65/index.m3u8
 兵团卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btws
-兵团卫视,http://107.150.60.122/live/btws.m3u8
 兵团卫视,http://183.220.20.17:4321/rtp/239.11.0.204:5140
-兵团卫视,http://222.95.12.2:4022/rtp/239.49.1.58:8000
-兵团卫视,http://222.95.12.2:4022/rtp/239.49.0.240:8000
 兵团卫视,http://222.128.26.62:4001/rtp/239.3.1.144:4120
+兵团卫视,http://107.150.60.122/live/btws.m3u8
 兵团卫视,http://182.135.66.163:18888/rtp/239.94.0.102:5140
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 安多卫视,http://182.135.66.163:18888/rtp/239.94.2.216:5140
@@ -641,21 +647,22 @@ CGTN外语纪录,http://222.128.26.62:4001/rtp/239.3.1.216:4220
 陕西卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20260706020221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=171.8.79.254&SecurityKey=20260706020221&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=52b599e832a305eee839643bde8b9114&sv=10004&ct=android
 陕西卫视,http://204.12.221.218:8181/3m1080p/snws.m3u8
 陕西卫视,http://207.56.13.146:81/cdnlive/snws.m3u8
+陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=dcafcf65d544d8a7b606c454d3f8ef47&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,http://112.27.235.94:8000/hls/43/index.m3u8
 陕西卫视,http://58.56.162.102:4466/newlive/live/hls/29/live.m3u8
-陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://183.220.20.17:4321/rtp/239.11.0.54:5140
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
-陕西卫视,http://222.95.12.2:4022/rtp/239.49.0.233:8000
+陕西卫视,http://222.128.26.62:4001/rtp/239.3.1.41:8140
 三沙卫视,http://47.104.178.59:3566/961023778
 三沙卫视,http://204.12.221.218:8181/3m1080p/ssws.m3u8
+三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=502fb01298ebb7b4b67fe7b53a9b2af4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=40ce8e7e766a97b9b5f39c4f54ea627c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=2908f08b5a176330d190b7343b1bb17d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=b0f97355568c17a6d1ca3a67795ee670&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=3736894cc57bd68f5caf8e9554df851f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
-三沙卫视,http://183.47.2.156:16883/udp/239.253.43.113:5146
-三沙卫视,http://222.95.12.2:4022/rtp/239.49.0.165:8000
 三沙卫视,http://222.128.26.62:4001/rtp/239.3.1.155:4120
-三沙卫视,http://182.135.66.163:18888/rtp/239.94.2.211:5140
-三沙卫视,http://182.135.66.163:1888/rtp/239.94.2.211:5140
-三沙卫视,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260706000225&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=171.8.79.254&SecurityKey=20260706000225&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=19ff29cad2ff04a80266cc38e983073b&sv=10004&ct=android
+三沙卫视,http://183.47.2.156:16883/udp/239.253.43.113:5146
 大湾区卫视,http://47.104.178.59:3566/608917627
 大湾区卫视,http://hlszymgsplive.miguvideo.com:8080/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20260706000224&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=171.8.79.254&SecurityKey=20260706000224&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b5bbd6dfb236c777052eb1862817686a&sv=10004&ct=android
 数字频道,#genre#
@@ -667,10 +674,11 @@ CHC影迷电影,http://182.135.66.163:1888/rtp/239.94.1.174:5140
 CHC影迷电影,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260706000232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20260706000232&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=54fe09f5d685234e23c52c849b6366e6&sv=10004&ct=android
 CHC动作电影,http://182.135.66.163:18888/rtp/239.94.1.175:5140
 CHC动作电影,http://182.135.66.163:1888/rtp/239.94.1.175:5140
+CHC家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
-CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
 CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
+CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院,http://182.135.66.163:18888/rtp/239.94.1.173:5140
 CHC家庭影院,http://182.135.66.163:1888/rtp/239.94.1.173:5140
@@ -678,16 +686,16 @@ CHC家庭影院,http://182.135.66.163:1888/rtp/239.94.1.173:5140
 华数爱上4K,http://222.128.26.62:4001/rtp/239.3.1.236:2000
 睛彩青少,http://183.47.2.156:16883/udp/239.77.1.22:5146
 睛彩竞技,http://222.128.26.62:4001/rtp/239.3.1.125:8001
-睛彩篮球,http://183.47.2.156:16883/udp/239.77.1.21:5146
 睛彩篮球,http://222.128.26.62:4001/rtp/239.3.1.126:8001
+睛彩篮球,http://183.47.2.156:16883/udp/239.77.1.21:5146
 睛彩广场舞,http://222.128.26.62:4001/rtp/239.3.1.128:8001
 睛彩羽毛球,http://222.128.26.62:4001/rtp/239.3.1.127:8001
-欢笑剧场4K,http://222.95.12.2:4022/rtp/239.49.8.106:8000
 欢笑剧场4K,http://182.135.66.163:18888/rtp/239.94.1.176:5140
 欢笑剧场4K,http://182.135.66.163:1888/rtp/239.94.1.176:5140
-SiTV都市剧场,http://222.95.12.2:4022/rtp/239.49.0.99:8000
+欢笑剧场4K,http://222.95.12.2:4022/rtp/239.49.8.106:8000
 SiTV都市剧场,http://182.135.66.163:18888/rtp/239.94.1.133:5140
 SiTV都市剧场,http://182.135.66.163:1888/rtp/239.94.1.133:5140
+SiTV都市剧场,http://222.95.12.2:4022/rtp/239.49.0.99:8000
 SiTV 法治天地,http://182.135.66.163:18888/rtp/239.94.1.166:5140
 SiTV 法治天地,http://182.135.66.163:1888/rtp/239.94.1.166:5140
 SiTV乐游频道,http://182.135.66.163:18888/rtp/239.94.1.164:5140
@@ -728,11 +736,11 @@ NewTV武博世界,http://183.220.20.17:4321/rtp/239.11.0.146:5140
 爱上4K,http://182.135.66.163:18888/rtp/239.94.0.21:5140
 爱上4K,http://182.135.66.163:1888/rtp/239.94.0.21:5140
 乐游,http://8.138.7.223/tv/shtv.php?id=ly
-快乐垂钓,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260706000222&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20260706000222&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4dac9edea2129ec692533e936bd66ad7&sv=10004&ct=android
-快乐垂钓,http://222.95.12.2:4022/rtp/239.49.0.114:8000
 快乐垂钓,http://222.128.26.62:4001/rtp/239.3.1.164:8001
+快乐垂钓,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260706000222&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20260706000222&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4dac9edea2129ec692533e936bd66ad7&sv=10004&ct=android
 快乐垂钓,http://182.135.66.163:18888/rtp/239.94.1.153:5140
 快乐垂钓,http://182.135.66.163:1888/rtp/239.94.1.153:5140
+快乐垂钓,http://222.95.12.2:4022/rtp/239.49.0.114:8000
 四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
 四海钓鱼,http://mgsp-cty2.live.miguvideo.com:8088/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260706000222&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=171.8.79.254&SecurityKey=20260706000222&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9fe47288d7f9880082ca618cd8992cff&sv=10004&ct=android
 纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
@@ -746,13 +754,13 @@ NewTV武博世界,http://183.220.20.17:4321/rtp/239.11.0.146:5140
 冰冰影厅,https://goodiptv.club/douyu/74374
 刀刀影院,http://www.goodiptv.club/douyu/747764
 橙記港剧✔原,https://goodiptv.club/douyu/4549169
-热门港剧,http://www.goodiptv.club/douyu/5522351
 热门港剧,https://goodiptv.club/douyu/5522351
+热门港剧,http://www.goodiptv.club/douyu/5522351
 神乐影院,https://goodiptv.club/douyu/85894
 星爷房✔原,https://goodiptv.club/douyu/122402
 华语影视✔原,https://goodiptv.club/douyu/3928
-邵氏影院,http://www.goodiptv.club/douyu/4246519
 邵氏影院,https://goodiptv.club/douyu/4246519
+邵氏影院,http://www.goodiptv.club/douyu/4246519
 怡宝影院,https://goodiptv.club/douyu/434971
 特辑电影,https://goodiptv.club/douyu/3637778
 网神影厅,https://live.ottiptv.cc/douyu/508118
@@ -772,17 +780,19 @@ NewTV武博世界,http://183.220.20.17:4321/rtp/239.11.0.146:5140
 合肥新闻综合频道,http://112.27.235.94:8000/hls/18/index.m3u8
 黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
 黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+六安公共频道,http://ls.qingting.fm/live/1794199.m3u8
+六安新闻综合频道,http://ls.qingting.fm/live/267.m3u8
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
 固镇新闻综合频道,http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 ☘️北京市,#genre#
 北京国际频道,http://222.128.26.62:4001/rtp/239.3.1.235:8000
-北京卫视4K,http://222.95.12.2:4022/rtp/239.49.0.253:8000
-北京卫视4K,http://222.95.12.2:4022/rtp/239.49.0.42:8000
 北京卫视4K,http://182.135.66.163:18888/rtp/239.94.0.111:5140
 北京卫视4K,http://182.135.66.163:18888/rtp/239.94.0.112:5140
 北京卫视4K,http://182.135.66.163:1888/rtp/239.94.0.111:5140
 北京卫视4K,http://182.135.66.163:1888/rtp/239.94.0.112:5140
+北京卫视4K,http://222.95.12.2:4022/rtp/239.49.0.253:8000
+北京卫视4K,http://222.95.12.2:4022/rtp/239.49.0.42:8000
 北京IPTV4K超清,http://222.128.26.62:4001/rtp/239.3.1.249:8001
 北京影视,http://222.128.26.62:4001/rtp/239.3.1.158:8000
 北京卡酷少儿,http://222.128.26.62:4001/rtp/239.3.1.189:8000
@@ -807,17 +817,18 @@ NewTV武博世界,http://183.220.20.17:4321/rtp/239.11.0.146:5140
 密云电视台,http://222.128.26.62:4001/rtp/239.3.1.154:8001
 ☘️上海市,#genre#
 东方影视,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dianshijuhd/1200/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139&timestamp=20260706000225&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=171.8.79.254&SecurityKey=20260706000225&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f33b4386a8734198658777fb585309f4&sv=10004&ct=android
-东方财经,http://222.95.12.2:4022/rtp/239.49.8.37:8000
-东方财经,http://222.95.12.2:4022/rtp/239.49.0.95:8000
 东方财经,http://182.135.66.163:18888/rtp/239.94.1.59:5140
 东方财经,http://182.135.66.163:18888/rtp/239.94.2.236:5140
 东方财经,http://182.135.66.163:1888/rtp/239.94.1.59:5140
 东方财经,http://182.135.66.163:1888/rtp/239.94.2.236:5140
+东方财经,http://222.95.12.2:4022/rtp/239.49.8.37:8000
+东方财经,http://222.95.12.2:4022/rtp/239.49.0.95:8000
 上海生活时尚,http://182.135.66.163:18888/rtp/239.94.2.233:5140
 上海生活时尚,http://182.135.66.163:1888/rtp/239.94.2.233:5140
 上海纪实人文,http://8.138.7.223/tv/shtv.php?id=xjs
 上海都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 上海第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20260706000226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20260706000226&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8496749c27275cafec36640bc43f81d9&sv=10004&ct=android
+上海第一财经,http://ls.qingting.fm/live/276.m3u8
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 上海第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 哈哈炫动,http://183.220.20.17:4321/rtp/239.11.0.64:5140
@@ -826,13 +837,14 @@ NewTV武博世界,http://183.220.20.17:4321/rtp/239.11.0.146:5140
 福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
+三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
 三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
 厦门卫视,http://222.90.21.30:9901/hls/68/index.m3u8
-厦门卫视,http://107.150.60.122/live/xmws.m3u8
-厦门卫视,http://222.95.12.2:4022/rtp/239.49.0.230:8000
 厦门卫视,http://222.128.26.62:4001/rtp/239.3.1.143:4120
+厦门卫视,http://107.150.60.122/live/xmws.m3u8
 厦门卫视,http://182.135.66.163:18888/rtp/239.94.2.210:5140
 厦门卫视,http://182.135.66.163:1888/rtp/239.94.2.210:5140
+厦门卫视,http://222.95.12.2:4022/rtp/239.49.0.230:8000
 ☘️广东省,#genre#
 南国都市4K,http://183.47.2.156:16883/udp/239.253.43.99:5146
 广东4K超高清,http://183.47.2.156:16883/udp/239.77.0.245:5146
@@ -903,28 +915,22 @@ HZTV-2,http://183.47.2.156:16883/udp/239.77.1.233:5146
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
+☘️海南省,#genre#
+海南新闻,http://ls.qingting.fm/live/1861.m3u8
 ☘️河南省,#genre#
-河南新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=619e92001116795b1b8aece7d8e70ae2&wsTime=1783288871
 河南新闻频道,http://1.94.31.214/php/hntv.php?id=hnxw
-河南公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=c330f09fcbc209ad022abf0a2de2f4e0&wsTime=1783288871
 河南公共频道,http://1.94.31.214/php/hntv.php?id=hngg
-河南法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=fd35c99407af55a98a0bea136a995bfe&wsTime=1783288871
 河南法治频道,http://1.94.31.214/php/hntv.php?id=hmfz
-河南民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=83abd2dbd0d0e5b363cb7cd97fc6c12a&wsTime=1783288871
-河南都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=50bd8cb7321c1836a0367e5e3447189e&wsTime=1783288871
-河南电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=f3b9478e192a46451023af3617bae619&wsTime=1783288871
 梨园频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmc/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20260706000236&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=171.8.79.254&SecurityKey=20260706000236&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=48bf53404f692575a73f101aee7907df&sv=10004&ct=android
 梨园频道,http://1.94.31.214/php/hntv.php?id=hnly
 梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=f865ed69b6027dd8c9a7b578aaf60039&wsTime=1783288871
 梨园频道,http://182.135.66.163:18888/rtp/239.94.2.227:5140
 梨园频道,http://182.135.66.163:1888/rtp/239.94.2.227:5140
-河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=13a248e6d03c4377bb8ee87d82ea9185&wsTime=1783288871
 河南乡村频道,http://1.94.31.214/php/hntv.php?id=hnxc
 武术世界,http://1.94.31.214/php/hntv.php?id=wspd
 武术世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=28bbbcff9d27b42ac9366632ba61d377&wsTime=1783288871
 文物宝库,http://1.94.31.214/php/hntv.php?id=wwbk
 文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=833eb957e13699e4b6be20b05e428427&wsTime=1783288871
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=f5ddda42aeabe2903d81756ccbd7a539&wsTime=1783288871
 象视界,http://1.94.31.214/php/hntv.php?id=xsj
 睛彩中原,http://1.94.31.214/php/hntv.php?id=jczy
 睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=8e4e286eda509fb937071221db8f6473&wsTime=1783288871
@@ -940,6 +946,7 @@ HZTV-2,http://183.47.2.156:16883/udp/239.77.1.233:5146
 河北经济生活,http://1.94.31.214/php/hebei.php?id=jjsh
 河北都市,http://1.94.31.214/php/hebei.php?id=hbds
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
+河北农民,http://ls.qingting.fm/live/1650.m3u8
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
@@ -947,6 +954,7 @@ HZTV-2,http://183.47.2.156:16883/udp/239.77.1.233:5146
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
+衡水公共,http://ls.qingting.fm/live/2810.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
@@ -954,17 +962,18 @@ HZTV-2,http://183.47.2.156:16883/udp/239.77.1.233:5146
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 ☘️湖南省,#genre#
-金鹰纪实,http://222.95.12.2:4022/rtp/239.49.8.79:8000
 金鹰纪实,http://182.135.66.163:18888/rtp/239.94.1.1:5140
 金鹰纪实,http://182.135.66.163:18888/rtp/239.94.2.223:5140
 金鹰纪实,http://182.135.66.163:1888/rtp/239.94.1.1:5140
 金鹰纪实,http://182.135.66.163:1888/rtp/239.94.2.223:5140
+金鹰纪实,http://222.95.12.2:4022/rtp/239.49.8.79:8000
 湖南金鹰纪实,http://222.128.26.62:4001/rtp/239.3.1.58:8156
+长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
-茶频道,http://222.95.12.2:4022/rtp/239.49.0.146:8000
 茶频道,http://222.128.26.62:4001/rtp/239.3.1.165:8001
 茶频道,http://182.135.66.163:18888/rtp/239.94.1.154:5140
 茶频道,http://182.135.66.163:1888/rtp/239.94.1.154:5140
+茶频道,http://222.95.12.2:4022/rtp/239.49.0.146:8000
 ☘️湖北省,#genre#
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
@@ -1031,7 +1040,6 @@ HZTV-2,http://183.47.2.156:16883/udp/239.77.1.233:5146
 淮安公共,http://222.95.12.2:4022/rtp/239.49.0.181:8000
 淮阴综合,http://222.95.12.2:4022/rtp/239.49.0.169:8000
 溧水新闻综合,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20260706000229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=171.8.79.254&SecurityKey=20260706000229&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3ebdd3769dda2a1e0e37a55ca55caddb&sv=10004&ct=android
-滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 盐城-1,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ycxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469360&pid=2028597139&timestamp=20260706000227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731825&ParentNodeID=-99&assertID=5500469360&client_ip=171.8.79.254&SecurityKey=20260706000227&promotionId=&mvid=5102012617&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7b461beb9b0c7f814f6a5a17405a5345&sv=10004&ct=android
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
@@ -1043,6 +1051,7 @@ HZTV-2,http://183.47.2.156:16883/udp/239.77.1.233:5146
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
+靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8
 ☘️江西省,#genre#
 赣州公共,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
 赣州新闻,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
@@ -1060,6 +1069,7 @@ HZTV-2,http://183.47.2.156:16883/udp/239.77.1.233:5146
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江生活,http://ls.qingting.fm/live/1099.m3u8
 浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 浙江经济生活,http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
@@ -1214,11 +1224,13 @@ YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 青神综合,http://lmt.scqstv.com:80/live1/live1.m3u8
 ☘️陕西省,#genre#
 陕西体育休闲,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20260706000222&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20260706000222&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9cfbf40d033cfa21e19d9aa4377a0b36&sv=10004&ct=android
+陕西公共,http://ls.qingting.fm/live/1222.m3u8
 陕西秦腔,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/sxqqpd/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022188&pid=2028597139&timestamp=20260706000229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909303&ParentNodeID=-99&assertID=5910022188&client_ip=171.8.79.254&SecurityKey=20260706000229&promotionId=&mvid=5900006711&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=27c572ba7d1eb4033a3d3c78d573cee6&sv=10004&ct=android
 陕西都市青春,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20260706000229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=171.8.79.254&SecurityKey=20260706000229&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=922c9bcd883531863565c8889d73c91e&sv=10004&ct=android
 ☘️山东省,#genre#
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山东教育,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20260706000233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=171.8.79.254&SecurityKey=20260706000233&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2973dfed863a03778ade3fc520cfbf92&sv=10004&ct=android
+山东生活,http://ls.qingting.fm/live/60260.m3u8
 ☘️山西省,#genre#
 古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
@@ -1234,25 +1246,26 @@ YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 新疆卫视,http://120.76.248.139/live/bfgd/4200000150.m3u8
 新疆卫视,http://204.12.221.218:8181/3m1080p/xjws.m3u8
 新疆卫视,http://207.56.13.146:81/cdnlive/xjws.m3u8
+新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=570125986bb42033088f88339c1bf28d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=342945bcfa42b0c38e26f3dbe372a06a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=3511726477c06c73fec0bab6f61e7594&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=bc5373f189ebbc7620c2a4aba9bdc2ec&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 新疆卫视,http://live.wjyanghu.com/live/CH1.m3u8
 新疆卫视,http://58.56.162.102:4466/newlive/live/hls/44/live.m3u8
 新疆卫视,http://198.204.228.26/live/xjws.m3u8
-新疆卫视,http://183.220.20.17:4321/rtp/239.11.0.58:5140
-新疆卫视,http://222.95.12.2:4022/rtp/239.49.0.178:8000
-新疆卫视,http://222.128.26.62:4001/rtp/239.3.1.48:8160
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 ☘️天津市,#genre#
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
+天津卫视,http://173.208.212.130:8181/720p/tjws.m3u8
 天津卫视,http://204.12.221.218:8181/3m1080p/tjws.m3u8
 天津卫视,http://207.56.13.146:81/cdnlive/tjws.m3u8
+天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=d30a60392735d9a6ff2b72630d81c5d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=6cb7a48d729b22a36431f8ed1036f3c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=53f0f1a72f5c328bef6502a4b663fe9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=23e186fb7d206d16fad75c9d18d05345&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=9a2e438e8938d4af21d3f6ba831dd719&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=6419ff8c5c01de32a2b322b551236f41&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 天津卫视,http://112.27.235.94:8000/hls/42/index.m3u8
-天津卫视,http://183.220.20.17:4321/rtp/239.11.0.123:5140
-天津卫视,http://173.208.212.130:8181/720p/tjws.m3u8
-天津卫视,http://183.47.2.156:16883/udp/239.77.1.141:5146
-天津卫视,http://183.47.2.156:16883/udp/239.77.1.182:5146
-天津卫视,http://183.47.2.156:16883/udp/239.77.0.131:5146
-天津卫视,http://222.95.12.2:4022/rtp/239.49.8.35:8620
-天津卫视,http://222.95.12.2:4022/rtp/239.49.8.148:6000
 ☘️云南省,#genre#
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
@@ -1271,20 +1284,15 @@ YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
 澳门综艺,http://rihou.cc:555/tv/[Pd]澳门综艺
 TVB翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
-TVB翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 TVB翡翠台,http://124.244.129.167:9004/0.ts
 TVB翡翠台,http://qingyi.7766.org:9004/0.ts
 TVB翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 TVB明珠台,http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
-TVB明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 TVB明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
-TVB千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
-TVB无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 TVB无线新闻,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
 龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
@@ -1292,7 +1300,6 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
 纬来精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 HOY78,http://cdn.163189.xyz/live/hoy/stream.m3u8
 TVB Plus,http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
@@ -1365,7 +1372,6 @@ BRTV少儿HD,http://222.95.12.2:4022/rtp/239.49.0.148:8000
 BWF 冲本优大险胜 李梓嘉无缘决赛 【全场回放】一号场地（英文解说）（一） 23:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/856/5106626856/media/5106626856_5338887897_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806178&pid=2028597139&timestamp=20260706020226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965975223&ParentNodeID=-99&assertID=5701806178&client_ip=171.8.79.254&SecurityKey=20260706020226&promotionId=&mvid=5106626856&mcid=1003&mpid=120000581726&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fdc6bfb9b6ae1cdfc631554d7977cd3e&sv=10004&ct=android
 BWF 冲本优大险胜 李梓嘉无缘决赛 【全场回放】一号场地（英文解说）（二） 23:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/627/028/5106627028/media/5106627028_5338899621_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806359&pid=2028597139&timestamp=20260706000253&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965981260&ParentNodeID=-99&assertID=5701806359&client_ip=171.8.79.254&SecurityKey=20260706000253&promotionId=&mvid=5106627028&mcid=1003&mpid=120000581726&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4997a3be455362f9f4b72c1beeeb6a3f&sv=10004&ct=android
 BWF 冲本优大险胜 李梓嘉无缘决赛 【全场回放】一号场地（赛场原声）（一） 23:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/849/5106626849/media/5106626849_5338883327_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806086&pid=2028597139&timestamp=20260706020226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965972644&ParentNodeID=-99&assertID=5701806086&client_ip=171.8.79.254&SecurityKey=20260706020226&promotionId=&mvid=5106626849&mcid=1003&mpid=120000581726&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fb4e6ab2605fbe65bca8975e2ef9e42f&sv=10004&ct=android
-BWF 冲本优大险胜 李梓嘉无缘决赛 【全场回放】一号场地（赛场原声）（二） 23:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/850/5106626850/media/5106626850_5338897794_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806358&pid=2028597139&timestamp=20260706020226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965980424&ParentNodeID=-99&assertID=5701806358&client_ip=171.8.79.254&SecurityKey=20260706020226&promotionId=&mvid=5106626850&mcid=1003&mpid=120000581726&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=39791766b758106f3eb284e4a7c6aedf&sv=10004&ct=android
 BWF 冲本优大险胜 李梓嘉无缘决赛 【全场回放】二号场地（赛场原声）（一） 23:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/626/854/5106626854/media/5106626854_5338895183_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806262&pid=2028597139&timestamp=20260706020226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965978488&ParentNodeID=-99&assertID=5701806262&client_ip=171.8.79.254&SecurityKey=20260706020226&promotionId=&mvid=5106626854&mcid=1003&mpid=120000581726&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cc2a49bb681a5286f9da32176723cb2b&sv=10004&ct=android
 BWF 冲本优大险胜 李梓嘉无缘决赛 【回放】古贺辉/斋藤夏2-1邓恩/麦克菲森（鸿昆） 23:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/626/862/5106626862/media/5106626862_5338880910_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806065&pid=2028597139&timestamp=20260706020225&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965971371&ParentNodeID=-99&assertID=5701806065&client_ip=171.8.79.254&SecurityKey=20260706020225&promotionId=&mvid=5106626862&mcid=1003&mpid=120000581726&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=daff0f1f9ce0f3bf566d3cd9cdd18a14&sv=10004&ct=android
 BWF 冲本优大险胜 李梓嘉无缘决赛 【回放】李梓嘉1-2武井凛生 23:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/880/5106626880/media/5106626880_5338889719_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806248&pid=2028597139&timestamp=20260706020225&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976346&ParentNodeID=-99&assertID=5701806248&client_ip=171.8.79.254&SecurityKey=20260706020225&promotionId=&mvid=5106626880&mcid=1003&mpid=120000581726&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d3a82a1ec586e75955e575ceaa9a0e47&sv=10004&ct=android
@@ -1376,9 +1382,7 @@ BWF 尤杯经典重映-中国 1-3 韩国 【全场回放】中国1-3韩国（明
 BWF 尤杯经典重映-中国 1-3 韩国 【全场回放】中国1-3韩国（鸿昆、杜玥、黄雅琼、刘雨辰） 12:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/406/090/5106406090/media/5106406090_5335443750_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701719112&pid=2028597139&timestamp=20260706000255&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964564885&ParentNodeID=-99&assertID=5701719112&client_ip=171.8.79.254&SecurityKey=20260706000255&promotionId=&mvid=5106406090&mcid=1003&mpid=120000574869&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a145992bf257cc048a363255cc7d0e06&sv=10004&ct=android
 BWF 尤杯经典重映-中国 1-3 韩国 【回放】刘圣书/谭宁2-0郑娜银/李绍希（鸿昆、黄雅琼、刘雨辰） 12:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/406/088/5106406088/media/5106406088_5335431939_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701719042&pid=2028597139&timestamp=20260706000255&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964559675&ParentNodeID=-99&assertID=5701719042&client_ip=171.8.79.254&SecurityKey=20260706000255&promotionId=&mvid=5106406088&mcid=1003&mpid=120000574869&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9b1a8c1f6016004ef5c6d68d7f70c280&sv=10004&ct=android
 BWF 尤杯经典重映-中国 1-3 韩国 【回放】王祉怡0-2安洗莹（鸿昆、杜玥） 12:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/406/087/5106406087/media/5106406087_5335430258_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701719018&pid=2028597139&timestamp=20260706000255&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964558959&ParentNodeID=-99&assertID=5701719018&client_ip=171.8.79.254&SecurityKey=20260706000255&promotionId=&mvid=5106406087&mcid=1003&mpid=120000574869&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=99844b5b9d9e0d2713ab1665de1f2ca1&sv=10004&ct=android
-BWF 尤杯经典重映-中国 1-3 韩国 【回放】贾一凡/张殊贤1-2白荷娜/金慧贞（鸿昆、黄雅琼） 12:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/406/214/5106406214/media/5106406214_5335436757_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701719078&pid=2028597139&timestamp=20260706000255&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964561575&ParentNodeID=-99&assertID=5701719078&client_ip=171.8.79.254&SecurityKey=20260706000255&promotionId=&mvid=5106406214&mcid=1003&mpid=120000574869&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=81cabadec077b54ff681640d2a02c35d&sv=10004&ct=android
 BWF 尤杯经典重映-中国 1-3 韩国 【回放】陈雨菲0-2金佳恩（鸿昆、杜玥） 12:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/406/089/5106406089/media/5106406089_5335433132_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701719054&pid=2028597139&timestamp=20260706000255&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964560178&ParentNodeID=-99&assertID=5701719054&client_ip=171.8.79.254&SecurityKey=20260706000255&promotionId=&mvid=5106406089&mcid=1003&mpid=120000574869&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e3f9047853539c23f610a5f6d34859b3&sv=10004&ct=android
-BWF 尤杯经典重映-中国 1-3 韩国 一号场地全场回放（赛场原声） 12:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/406/091/5106406091/media/5106406091_5335444066_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701719111&pid=2028597139&timestamp=20260706000256&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964565191&ParentNodeID=-99&assertID=5701719111&client_ip=171.8.79.254&SecurityKey=20260706000256&promotionId=&mvid=5106406091&mcid=1003&mpid=120000574869&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a9c774796b25a89886a16e11270743a8&sv=10004&ct=android
 CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 CCTV,http://107.150.60.122/live/cctv4k.m3u8
 CCTV-4 中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1783321200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-a4cb88b64a7261ec2562f22ebcd51272&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
@@ -1437,8 +1441,8 @@ CGTNHD,http://182.135.66.163:1888/rtp/239.94.0.40:5140
 CGTNPYCC,http://222.95.12.2:4022/rtp/239.49.0.111:8000
 CGTN法语HD,http://182.135.66.163:18888/rtp/239.94.1.66:5140
 CGTN法语HD,http://182.135.66.163:1888/rtp/239.94.1.66:5140
-CGTN英语,http://183.47.2.156:16883/udp/239.77.0.199:5146
 CGTN英语,http://222.128.26.62:4001/rtp/239.3.1.215:4220
+CGTN英语,http://183.47.2.156:16883/udp/239.77.0.199:5146
 CGTN西语HD,http://182.135.66.163:18888/rtp/239.94.1.61:5140
 CGTN西语HD,http://182.135.66.163:18888/rtp/239.94.1.65:5140
 CGTN西语HD,http://182.135.66.163:1888/rtp/239.94.1.61:5140
@@ -1505,14 +1509,10 @@ IPTV鉴赏,http://222.128.26.62:4001/rtp/239.3.1.82:4120
 i成都HD,http://182.135.66.163:18888/rtp/239.94.2.1:5140
 i成都HD,http://182.135.66.163:1888/rtp/239.94.2.1:5140
 Khushboo Bangla,https://cdn-4.pishow.tv/live/1473/master.m3u8
-NBA 勇士蓝队VS雄鹿 全场回放（姜帆） 02:55,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/943/5106626943/media/5106626943_5338885051_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806202&pid=2029000643&timestamp=20260706000253&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965973740&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806202&client_ip=171.8.79.254&SecurityKey=20260706000253&promotionId=&mvid=5106626943&mcid=1003&mpid=120000582025&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=af47c8c14860469e572feab2e8640b08&sv=10004&ct=android
 NBA 勇士蓝队VS雄鹿 全场回放（英文原声） 02:55,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/945/5106626945/media/5106626945_5338886954_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806205&pid=2029000643&timestamp=20260706000253&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965974734&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806205&client_ip=171.8.79.254&SecurityKey=20260706000253&promotionId=&mvid=5106626945&mcid=1003&mpid=120000582025&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=49fbafa86c182c1fd2cc897164aaa7f3&sv=10004&ct=android
-NBA 国王VS篮网 全场回放（英文原声） 04:55,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/922/5106626922/media/5106626922_5338892608_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806302&pid=2029000127&timestamp=20260706020228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965977248&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806302&client_ip=171.8.79.254&SecurityKey=20260706020228&promotionId=&mvid=5106626922&mcid=1003&mpid=120000582026&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=ea6b97f33b7d9a24c9eb8e44d8c3e685&sv=10004&ct=android
 NBA 国王VS篮网 全场回放（蔡凯臣） 04:55,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/921/5106626921/media/5106626921_5338890258_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806294&pid=2029000127&timestamp=20260706020228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976592&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806294&client_ip=171.8.79.254&SecurityKey=20260706020228&promotionId=&mvid=5106626921&mcid=1003&mpid=120000582026&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=2e197994b26c123da4e048cb86e4f73b&sv=10004&ct=android
-NBA 爵士VS老鹰 全场回放（刘沛元） 04:55,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/901/5106626901/media/5106626901_5338889436_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806287&pid=2029000098&timestamp=20260706020228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976433&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806287&client_ip=171.8.79.254&SecurityKey=20260706020228&promotionId=&mvid=5106626901&mcid=1003&mpid=120000582032&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=ed8fcb7d6fc6d560b77aa124dbac360b&sv=10004&ct=android
 NBA 爵士VS老鹰 全场回放（英文原声） 04:55,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/903/5106626903/media/5106626903_5338891796_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806291&pid=2029000098&timestamp=20260706020228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965977003&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806291&client_ip=171.8.79.254&SecurityKey=20260706020228&promotionId=&mvid=5106626903&mcid=1003&mpid=120000582032&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=e25566dbc328587cb00dc2c69d4a6075&sv=10004&ct=android
 NBA 雷霆VS灰熊 全场回放（罗森） 02:55,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/626/933/5106626933/media/5106626933_5338884739_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806201&pid=2029000115&timestamp=20260706000253&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965973554&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806201&client_ip=171.8.79.254&SecurityKey=20260706000253&promotionId=&mvid=5106626933&mcid=1003&mpid=120000582031&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=d2643e9077bc97e1a322aaa3385cdd6d&sv=10004&ct=android
-NBA 雷霆VS灰熊 全场回放（英文原声） 02:55,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/934/5106626934/media/5106626934_5338886298_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806200&pid=2029000115&timestamp=20260706000253&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965974172&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806200&client_ip=171.8.79.254&SecurityKey=20260706000253&promotionId=&mvid=5106626934&mcid=1003&mpid=120000582031&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=16a5ab96313e5fb93252ea78602e0c1a&sv=10004&ct=android
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 Only丶邵氏,https://live.ottiptv.cc/douyu/4246519
 Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
@@ -1536,19 +1536,11 @@ TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 U17男篮世界杯 加拿大VS法国 全场回放（赛场原声） 19:05,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/249/5106627249/media/5106627249_5338922583_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806630&pid=2028600720&timestamp=20260706020235&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965997606&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806630&client_ip=171.8.79.254&SecurityKey=20260706020235&promotionId=&mvid=5106627249&mcid=1003&mpid=120000582291&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=d3b72203c7ed6eeb0cd78b212aef912f&sv=10004&ct=android
 U17男篮世界杯 喀麦隆VS委内瑞拉 全场回放（赛场原声） 15:20,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/210/5106627210/media/5106627210_5338912358_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806456&pid=2028600720&timestamp=20260706020229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965990368&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806456&client_ip=171.8.79.254&SecurityKey=20260706020229&promotionId=&mvid=5106627210&mcid=1003&mpid=120000582288&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=f1e4c87f847c0670f4ae91e8d5436a3e&sv=10004&ct=android
 U17男篮世界杯 土耳其VS塞尔维亚 全场回放（英文解说） 01:50,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/626/944/5106626944/media/5106626944_5338885690_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806074&pid=2028600720&timestamp=20260706000252&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965974270&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806074&client_ip=171.8.79.254&SecurityKey=20260706000252&promotionId=&mvid=5106626944&mcid=1003&mpid=120000582238&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=5831e2eee9f7bef44ee553567b8b61ad&sv=10004&ct=android
-U17男篮世界杯 土耳其VS塞尔维亚 全场回放（赛场原声） 01:50,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/942/5106626942/media/5106626942_5338885655_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806073&pid=2028600720&timestamp=20260706000252&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965974187&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806073&client_ip=171.8.79.254&SecurityKey=20260706000252&promotionId=&mvid=5106626942&mcid=1003&mpid=120000582238&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=c7f772f5308764194c2f3e6affbe455c&sv=10004&ct=android
-U17男篮世界杯 意大利VS日本 全场回放（赛场原声） 17:50,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/222/5106627222/media/5106627222_5338918983_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806499&pid=2028600720&timestamp=20260706020231&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965995155&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806499&client_ip=171.8.79.254&SecurityKey=20260706020231&promotionId=&mvid=5106627222&mcid=1003&mpid=120000582290&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=c1aa7304b7f15406e5dec70e21f2fde3&sv=10004&ct=android
-U17男篮世界杯 波多黎各VS立陶宛 全场回放（赛场原声） 16:20,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/220/5106627220/media/5106627220_5338917011_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806564&pid=2028600720&timestamp=20260706020230&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965993490&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806564&client_ip=171.8.79.254&SecurityKey=20260706020230&promotionId=&mvid=5106627220&mcid=1003&mpid=120000582289&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=f7eb45c47985ce699094bf5ba194e2f2&sv=10004&ct=android
 U17男篮世界杯 科特迪瓦VS斯洛文尼亚 全场回放（赛场原声） 00:50,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/894/5106626894/media/5106626894_5338883008_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806042&pid=2028600720&timestamp=20260706000252&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965972689&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806042&client_ip=171.8.79.254&SecurityKey=20260706000252&promotionId=&mvid=5106626894&mcid=1003&mpid=120000582237&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=df354f1fc51beda33673ef9384972282&sv=10004&ct=android
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-WTA 精彩回顾：伊埃拉 vs 莱巴金娜 全场回放 12:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/611/600/5106611600/media/5106611600_5337967920_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701783825&pid=2028597139&timestamp=20260706000254&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965497477&ParentNodeID=-99&assertID=5701783825&client_ip=171.8.79.254&SecurityKey=20260706000254&promotionId=&mvid=5106611600&mcid=1003&mpid=120000579690&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=06f89c537be35baf090f1bdb25f2c947&sv=10004&ct=android
 WTA 精彩回顾：萨巴伦卡 vs 亚历山德洛娃 全场回放 15:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/610/199/5106610199/media/5106610199_5337905511_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701782217&pid=2028597139&timestamp=20260706000258&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965470981&ParentNodeID=-99&assertID=5701782217&client_ip=171.8.79.254&SecurityKey=20260706000258&promotionId=&mvid=5106610199&mcid=1003&mpid=120000579689&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=641069efa81f0932ef05406dbecd69bd&sv=10004&ct=android
-WTT 孙颖莎4-0陈幸同 温瑞博/袁励岑问鼎男双 【男双决赛】林诗栋/黄友政2-3温瑞博/袁励岑 09:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/200/5106627200/media/5106627200_5338902952_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806485&pid=2028593549&timestamp=20260706000254&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965986579&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806485&client_ip=171.8.79.254&SecurityKey=20260706000254&promotionId=&mvid=5106627200&mcid=1003&mpid=120000580364&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=43a9dc3b7fed793a83afb792c84a1436&sv=10004&ct=android
-WTT 孙颖莎4-0陈幸同 温瑞博/袁励岑问鼎男双 全场回放 09:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/023/5106627023/media/5106627023_5338913222_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806473&pid=2028593549&timestamp=20260706000254&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965990223&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806473&client_ip=171.8.79.254&SecurityKey=20260706000254&promotionId=&mvid=5106627023&mcid=1003&mpid=120000580364&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=fa8e5c58361e64371a78611041796d9d&sv=10004&ct=android
 WTT 孙颖莎4-0陈幸同 温瑞博/袁励岑问鼎男双 全场回放（英文解说） 09:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/024/5106627024/media/5106627024_5338913015_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806472&pid=2028593549&timestamp=20260706000254&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965990131&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806472&client_ip=171.8.79.254&SecurityKey=20260706000254&promotionId=&mvid=5106627024&mcid=1003&mpid=120000580364&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=af84f9673a2bb1ebd3b676e4d3ac0cb9&sv=10004&ct=android
-WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 【女双决赛】王曼昱/蒯曼3-1张本美和/早田希娜 03:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/931/5106626931/media/5106626931_5338889781_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806284&pid=2028593549&timestamp=20260706020224&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976447&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806284&client_ip=171.8.79.254&SecurityKey=20260706020224&promotionId=&mvid=5106626931&mcid=1003&mpid=120000580363&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=bcf5dfb052ff8da5759c16f2b9c9d8f1&sv=10004&ct=android
-WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放 03:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/923/5106626923/media/5106626923_5338892813_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806300&pid=2028593549&timestamp=20260706020224&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965977202&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806300&client_ip=171.8.79.254&SecurityKey=20260706020224&promotionId=&mvid=5106626923&mcid=1003&mpid=120000580363&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=eca4dcd32d8fb36d1487b5bbf58620c8&sv=10004&ct=android
 WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（徐铭辰） 03:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/626/924/5106626924/media/5106626924_5338890021_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806299&pid=2028593549&timestamp=20260706020224&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976580&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806299&client_ip=171.8.79.254&SecurityKey=20260706020224&promotionId=&mvid=5106626924&mcid=1003&mpid=120000580363&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=ec669e358ae2a797fe192f3c9d2e1fe5&sv=10004&ct=android
 WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 03:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/626/925/5106626925/media/5106626925_5338895493_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806297&pid=2028593549&timestamp=20260706020224&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965978335&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806297&client_ip=171.8.79.254&SecurityKey=20260706020224&promotionId=&mvid=5106626925&mcid=1003&mpid=120000580363&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=f3afa16c097aca9b99da50a84685febe&sv=10004&ct=android
 【周星驰】搞笑电影,https://live.ottiptv.cc/yy/38670875
@@ -1564,31 +1556,23 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 世界杯 加拿大VS摩洛哥 全场回放（AI智慧观赛） 00:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/866/5106626866/media/5106626866_5338882515_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806122&pid=2028597139&timestamp=20260706000252&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965972457&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806122&client_ip=171.8.79.254&SecurityKey=20260706000252&promotionId=&mvid=5106626866&mcid=1003&mpid=120000575602&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=790719ac8127d07439cdd3b2243f1ef6&sv=10004&ct=android
 世界杯 加拿大VS摩洛哥 全场回放（兰子非） 00:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/858/5106626858/media/5106626858_5338881725_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806107&pid=2028597139&timestamp=20260706000251&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965972151&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806107&client_ip=171.8.79.254&SecurityKey=20260706000251&promotionId=&mvid=5106626858&mcid=1003&mpid=120000575602&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=85af1515c62b71a1079c08c251b985e3&sv=10004&ct=android
 世界杯 加拿大VS摩洛哥 全场回放（刘一臻、盛斌） 00:45,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/626/864/5106626864/media/5106626864_5338882240_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806120&pid=2028597139&timestamp=20260706000251&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965972355&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806120&client_ip=171.8.79.254&SecurityKey=20260706000251&promotionId=&mvid=5106626864&mcid=1003&mpid=120000575602&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8a4e08c04aae07e2f679087b0e65f91f&sv=10004&ct=android
-世界杯 加拿大VS摩洛哥 全场回放（智能解说） 00:45,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/867/5106626867/media/5106626867_5338883077_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806123&pid=2028597139&timestamp=20260706000252&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965972703&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806123&client_ip=171.8.79.254&SecurityKey=20260706000252&promotionId=&mvid=5106626867&mcid=1003&mpid=120000575602&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=22f71018676534c347f3656b5fca2c5f&sv=10004&ct=android
-世界杯 加拿大VS摩洛哥 全场回放（李欣、娄一晨、张辛昕、石玺彤、李子琪） 00:45,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/857/5106626857/media/5106626857_5338886321_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806106&pid=2028597139&timestamp=20260706020223&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965974782&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806106&client_ip=171.8.79.254&SecurityKey=20260706020223&promotionId=&mvid=5106626857&mcid=1003&mpid=120000575602&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c6cdd8b261715b24c0458c9d3369f25d&sv=10004&ct=android
 世界杯 加拿大VS摩洛哥 全场回放（江忠德） 00:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/860/5106626860/media/5106626860_5338881755_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806108&pid=2028597139&timestamp=20260706000251&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965972192&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806108&client_ip=171.8.79.254&SecurityKey=20260706000251&promotionId=&mvid=5106626860&mcid=1003&mpid=120000575602&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=10344fcdd2d18766e04360450d3c9e00&sv=10004&ct=android
 世界杯 加拿大VS摩洛哥 全场回放（洪荒） 00:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/861/5106626861/media/5106626861_5338881916_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806118&pid=2028597139&timestamp=20260706000251&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965972270&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806118&client_ip=171.8.79.254&SecurityKey=20260706000251&promotionId=&mvid=5106626861&mcid=1003&mpid=120000575602&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4db965bf2d6145b6bcc1222a592045ad&sv=10004&ct=android
 世界杯 加拿大VS摩洛哥 全场回放（陈渤胄） 00:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/863/5106626863/media/5106626863_5338882054_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806119&pid=2028597139&timestamp=20260706000251&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965972340&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806119&client_ip=171.8.79.254&SecurityKey=20260706000251&promotionId=&mvid=5106626863&mcid=1003&mpid=120000575602&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7dc4d4d7c705bf3d8078bedb5f3ab786&sv=10004&ct=android
-世界杯 加拿大VS摩洛哥 全场回放（颜强、孙雷、贺宇、郭小仙儿） 00:45,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/853/5106626853/media/5106626853_5338882342_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806105&pid=2028597139&timestamp=20260706000251&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965972395&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806105&client_ip=171.8.79.254&SecurityKey=20260706000251&promotionId=&mvid=5106626853&mcid=1003&mpid=120000575602&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d8052f0fc9a4cf26d26787c22c4c894f&sv=10004&ct=android
 世界杯 加拿大VS摩洛哥 纯享版回放（颜强、孙雷、贺宇、郭小仙儿） 00:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/855/5106626855/media/5106626855_5338881681_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806104&pid=2028597139&timestamp=20260706000250&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965972120&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806104&client_ip=171.8.79.254&SecurityKey=20260706000250&promotionId=&mvid=5106626855&mcid=1003&mpid=120000575602&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=da70b151ca6e640fce79d88ae99eaac7&sv=10004&ct=android
 世界杯 巴拉圭VS法国 全场回放（AI智慧观赛） 04:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/910/5106626910/media/5106626910_5338890017_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806256&pid=2028597139&timestamp=20260706020227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976546&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806256&client_ip=171.8.79.254&SecurityKey=20260706020227&promotionId=&mvid=5106626910&mcid=1003&mpid=120000575603&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=927ea9de0abebf9a8711ac5c8fbd01a4&sv=10004&ct=android
-世界杯 巴拉圭VS法国 全场回放（兰子非） 04:45,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/906/5106626906/media/5106626906_5338889570_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806252&pid=2028597139&timestamp=20260706020226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976390&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806252&client_ip=171.8.79.254&SecurityKey=20260706020226&promotionId=&mvid=5106626906&mcid=1003&mpid=120000575603&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0943ac6d9c1b94c49f6fbe8f1adab835&sv=10004&ct=android
-世界杯 巴拉圭VS法国 全场回放（智能解说） 04:45,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/911/5106626911/media/5106626911_5338889848_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806257&pid=2028597139&timestamp=20260706020227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976481&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806257&client_ip=171.8.79.254&SecurityKey=20260706020227&promotionId=&mvid=5106626911&mcid=1003&mpid=120000575603&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ad35ee1858d948be6f4a5a1a3ec6d846&sv=10004&ct=android
-世界杯 巴拉圭VS法国 全场回放（洪荒） 04:45,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/907/5106626907/media/5106626907_5338889739_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806253&pid=2028597139&timestamp=20260706020227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976449&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806253&client_ip=171.8.79.254&SecurityKey=20260706020227&promotionId=&mvid=5106626907&mcid=1003&mpid=120000575603&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bbfadfd3490a1de604d02a802a5ed5e4&sv=10004&ct=android
 世界杯 巴拉圭VS法国 全场回放（詹俊、张路、孙葆洁、程思钦） 04:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/904/5106626904/media/5106626904_5338889920_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806250&pid=2028597139&timestamp=20260706020226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976509&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806250&client_ip=171.8.79.254&SecurityKey=20260706020226&promotionId=&mvid=5106626904&mcid=1003&mpid=120000575603&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=115426f98db15aed9a8e1019c8d2cf75&sv=10004&ct=android
 世界杯 巴拉圭VS法国 全场回放（陈凯冬、陆毅隽） 04:45,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/626/905/5106626905/media/5106626905_5338890295_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806251&pid=2028597139&timestamp=20260706020227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976603&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806251&client_ip=171.8.79.254&SecurityKey=20260706020227&promotionId=&mvid=5106626905&mcid=1003&mpid=120000575603&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=738f80ce2e1aa57e3a3789fbe7b149dc&sv=10004&ct=android
 世界杯 巴拉圭VS法国 全场回放（陈渤胄） 04:45,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/626/908/5106626908/media/5106626908_5338889735_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806254&pid=2028597139&timestamp=20260706020227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976451&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806254&client_ip=171.8.79.254&SecurityKey=20260706020227&promotionId=&mvid=5106626908&mcid=1003&mpid=120000575603&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4d472abd81cc52c04d2dd902c51491f3&sv=10004&ct=android
 世界杯 巴拉圭VS法国 全场回放（鹿中原、乔迁） 04:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/909/5106626909/media/5106626909_5338890341_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806255&pid=2028597139&timestamp=20260706020227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976620&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806255&client_ip=171.8.79.254&SecurityKey=20260706020227&promotionId=&mvid=5106626909&mcid=1003&mpid=120000575603&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=97b7c76aae5fbf91e8ba560257eba828&sv=10004&ct=android
-世界杯 巴拉圭VS法国 纯享版回放（詹俊、张路、孙葆洁、程思钦） 04:45,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/902/5106626902/media/5106626902_5338889314_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806249&pid=2028597139&timestamp=20260706020226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976309&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806249&client_ip=171.8.79.254&SecurityKey=20260706020226&promotionId=&mvid=5106626902&mcid=1003&mpid=120000575603&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d7c8b2e7148ee32d0168d26966ed38da&sv=10004&ct=android
-东南卫视HD,http://222.95.12.2:4022/rtp/239.49.8.112:8000
 东南卫视HD,http://182.135.66.163:18888/rtp/239.94.0.80:5140
 东南卫视HD,http://182.135.66.163:1888/rtp/239.94.0.80:5140
-东方卫视HD,http://222.95.12.2:4022/rtp/239.49.8.17:9606
-东方卫视HD,http://222.95.12.2:4022/rtp/239.49.8.140:6000
+东南卫视HD,http://222.95.12.2:4022/rtp/239.49.8.112:8000
 东方卫视HD,http://182.135.66.163:18888/rtp/239.94.0.64:5140
 东方卫视HD,http://182.135.66.163:1888/rtp/239.94.0.64:5140
+东方卫视HD,http://222.95.12.2:4022/rtp/239.49.8.17:9606
+东方卫视HD,http://222.95.12.2:4022/rtp/239.49.8.140:6000
 中乙 厦门飞鹭VS深圳二零二八 全场回放（官方解说） 15:50,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/209/5106627209/media/5106627209_5338914671_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806455&pid=2028597139&timestamp=20260706020230&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965991705&ParentNodeID=-99&assertID=5701806455&client_ip=171.8.79.254&SecurityKey=20260706020230&promotionId=&mvid=5106627209&mcid=1003&mpid=120000571961&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4df09eb3ed34da1c653ba7e9dcdfc5f0&sv=10004&ct=android
-中乙 大连英博B队VS青岛红狮 全场回放（官方解说） 18:50,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/235/5106627235/media/5106627235_5338923868_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806669&pid=2028597139&timestamp=20260706020232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965998055&ParentNodeID=-99&assertID=5701806669&client_ip=171.8.79.254&SecurityKey=20260706020232&promotionId=&mvid=5106627235&mcid=1003&mpid=120000571959&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=83aeb890cbe36822a572029e96957c78&sv=10004&ct=android
 中乙 山西崇德荣海VS上海赛更达 全场回放（官方解说） 15:50,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/240/5106627240/media/5106627240_5338913961_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806554&pid=2028597139&timestamp=20260706020230&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965991141&ParentNodeID=-99&assertID=5701806554&client_ip=171.8.79.254&SecurityKey=20260706020230&promotionId=&mvid=5106627240&mcid=1003&mpid=120000571960&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d4fb200d55a96008ee09acab1dd2c7a3&sv=10004&ct=android
 中乙 杭州临平吴越VS温州俱乐部 全场回放（官方解说） 19:20,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/237/5106627237/media/5106627237_5338924540_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806683&pid=2028597139&timestamp=20260706020236&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965998274&ParentNodeID=-99&assertID=5701806683&client_ip=171.8.79.254&SecurityKey=20260706020236&promotionId=&mvid=5106627237&mcid=1003&mpid=120000571957&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=90c0526d81ea199966deda64e458ee26&sv=10004&ct=android
 中乙 泰安天贶VS长春喜都 全场回放（官方解说） 18:50,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/627/236/5106627236/media/5106627236_5338924473_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806675&pid=2028597139&timestamp=20260706020232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965998266&ParentNodeID=-99&assertID=5701806675&client_ip=171.8.79.254&SecurityKey=20260706020232&promotionId=&mvid=5106627236&mcid=1003&mpid=120000571958&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3b8cbedfa46f31edf7e49da0039a72fe&sv=10004&ct=android
@@ -1596,27 +1580,23 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 中华小当家,https://live.ottiptv.cc/huya/11342413
 中华特产,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zhtc/51/20251103/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022295&pid=2028597139&timestamp=20260706000236&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=959986618&ParentNodeID=-99&assertID=5910022295&client_ip=171.8.79.254&SecurityKey=20260706000236&promotionId=&mvid=5900006771&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c885f86d818d49b018d1f87af2b2c307&sv=10004&ct=android
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
-中国之队·银川国际青年足球锦标赛 中国U17VS澳大利亚U17 全场回放（乔迁、王宇） 19:20,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/316/5106627316/media/5106627316_5338921215_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806657&pid=2028597139&timestamp=20260706020237&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965997103&ParentNodeID=-99&assertID=5701806657&client_ip=171.8.79.254&SecurityKey=20260706020237&promotionId=&mvid=5106627316&mcid=1003&mpid=120000582179&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e5a0d16fc66ad1a79f234a24c77458d2&sv=10004&ct=android
 中国交通,http://222.128.26.62:4001/rtp/239.3.1.188:8001
 中国交通,http://182.135.66.163:18888/rtp/239.94.2.193:5140
 中国交通,http://182.135.66.163:1888/rtp/239.94.2.193:5140
 中国交通HD,http://182.135.66.163:18888/rtp/239.94.0.87:5140
 中国交通HD,http://182.135.66.163:1888/rtp/239.94.0.87:5140
 中国围棋协会系列赛事 第三届晋城全国职业围棋公开赛 第三届晋城全国职业围棋公开赛全场回放（官方解说） 14:30,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/208/5106627208/media/5106627208_5338912006_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806524&pid=2028597139&timestamp=20260706000258&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965990188&ParentNodeID=-99&assertID=5701806524&client_ip=171.8.79.254&SecurityKey=20260706000258&promotionId=&mvid=5106627208&mcid=1003&mpid=120000582158&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a43f4fb64718c65714b24fcc526dfdb5&sv=10004&ct=android
-中国天气HD,http://222.95.12.2:4022/rtp/239.49.0.94:8000
 中国天气HD,http://182.135.66.163:18888/rtp/239.94.1.167:5140
 中国天气HD,http://182.135.66.163:1888/rtp/239.94.1.167:5140
+中国天气HD,http://222.95.12.2:4022/rtp/239.49.0.94:8000
 中国村庄,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
-中国自行车运动协会系列赛 中国泵道自行车联赛乳山站 2026中国泵道自行车联赛乳山站全场回放（官方解说）（一） 08:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/140/5106627140/media/5106627140_5338905011_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806433&pid=2028597139&timestamp=20260706000254&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965985838&ParentNodeID=-99&assertID=5701806433&client_ip=171.8.79.254&SecurityKey=20260706000254&promotionId=&mvid=5106627140&mcid=1003&mpid=120000581991&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fbf457d45e2c7786c7ca7ab8017541d8&sv=10004&ct=android
 中国自行车运动协会系列赛 中国泵道自行车联赛乳山站 2026中国泵道自行车联赛乳山站全场回放（官方解说）（二） 08:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/214/5106627214/media/5106627214_5338927842_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806491&pid=2028597139&timestamp=20260706020228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965990241&ParentNodeID=-99&assertID=5701806491&client_ip=171.8.79.254&SecurityKey=20260706020228&promotionId=&mvid=5106627214&mcid=1003&mpid=120000581991&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7ad30c6995fee7454044081d103e0f01&sv=10004&ct=android
 中央未知,http://222.95.12.2:4022/rtp/239.49.1.82:8000
 中央电视塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 中央电视塔南,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
 中甲 南京城市VS佛山南狮 全场回放 19:20,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/246/5106627246/media/5106627246_5338925777_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806692&pid=2028597139&timestamp=20260706020236&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965998817&ParentNodeID=-99&assertID=5701806692&client_ip=171.8.79.254&SecurityKey=20260706020236&promotionId=&mvid=5106627246&mcid=1003&mpid=120000570646&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fd6d2a947e18833d58803e7711f8cae1&sv=10004&ct=android
 中甲 广西恒宸VS大连鲲城 全场回放（官方解说） 19:20,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/267/5106627267/media/5106627267_5338923452_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806676&pid=2028597139&timestamp=20260706020236&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965997912&ParentNodeID=-99&assertID=5701806676&client_ip=171.8.79.254&SecurityKey=20260706020236&promotionId=&mvid=5106627267&mcid=1003&mpid=120000570645&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=63dc478e91ae425c8880c3767f865516&sv=10004&ct=android
-中超 上海申花VS浙江俱乐部绿城 全场回放（娄一晨、刘越、魏欣怡） 19:20,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/263/5106627263/media/5106627263_5338922143_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806687&pid=2028597139&timestamp=20260706020236&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965997446&ParentNodeID=-99&assertID=5701806687&client_ip=171.8.79.254&SecurityKey=20260706020236&promotionId=&mvid=5106627263&mcid=1003&mpid=120000569682&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=99755f2ac4747b06b104d3e198994d95&sv=10004&ct=android
 中超 青岛海牛VS成都蓉城 全场回放（AI观赛） 18:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/311/5106627311/media/5106627311_5338920878_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806641&pid=2028597139&timestamp=20260706020231&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965996870&ParentNodeID=-99&assertID=5701806641&client_ip=171.8.79.254&SecurityKey=20260706020231&promotionId=&mvid=5106627311&mcid=1003&mpid=120000569683&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5d6de8ab69ce3c2616c5a08ea4b9b73a&sv=10004&ct=android
-中超 青岛海牛VS成都蓉城 全场回放（刘腾、张辛昕、郭小仙儿） 18:45,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/309/5106627309/media/5106627309_5338920626_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806640&pid=2028597139&timestamp=20260706020231&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965996800&ParentNodeID=-99&assertID=5701806640&client_ip=171.8.79.254&SecurityKey=20260706020231&promotionId=&mvid=5106627309&mcid=1003&mpid=120000569683&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f8ca7658e56918c56e0ef52277af5f72&sv=10004&ct=android
 中超 青岛海牛VS成都蓉城 全场回放（智能解说） 18:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/312/5106627312/media/5106627312_5338920933_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806642&pid=2028597139&timestamp=20260706020231&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965996850&ParentNodeID=-99&assertID=5701806642&client_ip=171.8.79.254&SecurityKey=20260706020231&promotionId=&mvid=5106627312&mcid=1003&mpid=120000569683&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3c242fd87036e8c5086a6e29b82c33b7&sv=10004&ct=android
 中超 青岛海牛VS成都蓉城 全场回放（赛场原声） 18:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/310/5106627310/media/5106627310_5338920953_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806643&pid=2028597139&timestamp=20260706020231&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965996899&ParentNodeID=-99&assertID=5701806643&client_ip=171.8.79.254&SecurityKey=20260706020231&promotionId=&mvid=5106627310&mcid=1003&mpid=120000569683&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=eea7971300e6f80a01626acaa5817d30&sv=10004&ct=android
 丽江古城万古楼遥望玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
@@ -1634,22 +1614,17 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 乐山综合HD,http://182.135.66.163:1888/rtp/239.94.0.162:5140
 乐龄学堂HD,http://182.135.66.163:18888/rtp/239.94.1.155:5140
 乐龄学堂HD,http://182.135.66.163:1888/rtp/239.94.1.155:5140
-乒乓球嘉年华 上善青浦队VS闵行沿浦 全场回放 14:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/202/5106627202/media/5106627202_5338907348_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806487&pid=2028597139&timestamp=20260706000257&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965987384&ParentNodeID=-99&assertID=5701806487&client_ip=171.8.79.254&SecurityKey=20260706000257&promotionId=&mvid=5106627202&mcid=1003&mpid=120000578493&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=187dbad5f87fc9198b4757a596357572&sv=10004&ct=android
 乒乓球嘉年华 上善青浦队VS闵行沿浦 全场回放（张铭哲） 14:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/201/5106627201/media/5106627201_5338905791_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806486&pid=2028597139&timestamp=20260706000257&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965986595&ParentNodeID=-99&assertID=5701806486&client_ip=171.8.79.254&SecurityKey=20260706000257&promotionId=&mvid=5106627201&mcid=1003&mpid=120000578493&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1391f4508ae3c4e9295b107c4652fb2d&sv=10004&ct=android
 乒乓球嘉年华 崇明乘风破浪队VS茸城乒将 全场回放 14:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/020/5106627020/media/5106627020_5338906997_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806343&pid=2028597139&timestamp=20260706000256&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965987154&ParentNodeID=-99&assertID=5701806343&client_ip=171.8.79.254&SecurityKey=20260706000256&promotionId=&mvid=5106627020&mcid=1003&mpid=120000577310&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ba1ab8f6d623d0f95407b51e03a6f4c6&sv=10004&ct=android
 乒乓球嘉年华 崇明乘风破浪队VS茸城乒将 全场回放（石楚阳） 14:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/627/019/5106627019/media/5106627019_5338905949_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806344&pid=2028597139&timestamp=20260706000256&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965986451&ParentNodeID=-99&assertID=5701806344&client_ip=171.8.79.254&SecurityKey=20260706000256&promotionId=&mvid=5106627019&mcid=1003&mpid=120000577310&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fad987f482cf380f320f0a49fc844e4b&sv=10004&ct=android
 乒乓球嘉年华 徐汇愚公科技VS奉贤经发 全场回放 19:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/627/286/5106627286/media/5106627286_5338924684_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806639&pid=2028597139&timestamp=20260706020233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965998298&ParentNodeID=-99&assertID=5701806639&client_ip=171.8.79.254&SecurityKey=20260706020233&promotionId=&mvid=5106627286&mcid=1003&mpid=120000578496&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=52529065a74a64a4962de7adbe1fef79&sv=10004&ct=android
-乒乓球嘉年华 徐汇愚公科技VS奉贤经发 全场回放（王睿涓） 19:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/285/5106627285/media/5106627285_5338920616_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806637&pid=2028597139&timestamp=20260706020233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965996662&ParentNodeID=-99&assertID=5701806637&client_ip=171.8.79.254&SecurityKey=20260706020233&promotionId=&mvid=5106627285&mcid=1003&mpid=120000578496&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5085765446699f36c32fa428cf1b8fe0&sv=10004&ct=android
 乒乓球嘉年华 普陀淘宝闪购VS杨浦回力 全场回放 19:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/627/283/5106627283/media/5106627283_5338921336_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806617&pid=2028597139&timestamp=20260706020233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965997141&ParentNodeID=-99&assertID=5701806617&client_ip=171.8.79.254&SecurityKey=20260706020233&promotionId=&mvid=5106627283&mcid=1003&mpid=120000578495&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=679786cd177de168a5c2de87fa72d28e&sv=10004&ct=android
-乒乓球嘉年华 普陀淘宝闪购VS杨浦回力 全场回放（赵曦） 19:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/282/5106627282/media/5106627282_5338918620_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806615&pid=2028597139&timestamp=20260706020233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965994829&ParentNodeID=-99&assertID=5701806615&client_ip=171.8.79.254&SecurityKey=20260706020233&promotionId=&mvid=5106627282&mcid=1003&mpid=120000578495&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d597e02e925d9c89bbff66d66eef158d&sv=10004&ct=android
-乒乓球嘉年华 浦东引领VS宝山国投私募基金 全场回放（章稀瑄） 19:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/239/5106627239/media/5106627239_5338922022_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806625&pid=2028597139&timestamp=20260706020232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965997369&ParentNodeID=-99&assertID=5701806625&client_ip=171.8.79.254&SecurityKey=20260706020232&promotionId=&mvid=5106627239&mcid=1003&mpid=120000577311&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f39f435c9a6bb873ca1742820d2f069b&sv=10004&ct=android
 乒乓球嘉年华 浦东引领VS宝山国投私募基金 全放回放 19:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/241/5106627241/media/5106627241_5338921414_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806626&pid=2028597139&timestamp=20260706020232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965997166&ParentNodeID=-99&assertID=5701806626&client_ip=171.8.79.254&SecurityKey=20260706020232&promotionId=&mvid=5106627241&mcid=1003&mpid=120000577311&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2f2bd623eb28148cb15669b62c55c1de&sv=10004&ct=android
 乒乓球嘉年华 虹口邮储银行VS黄浦南房 全场回放 19:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/244/5106627244/media/5106627244_5338920712_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806619&pid=2028597139&timestamp=20260706020232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965996749&ParentNodeID=-99&assertID=5701806619&client_ip=171.8.79.254&SecurityKey=20260706020232&promotionId=&mvid=5106627244&mcid=1003&mpid=120000578494&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=36276fb7b589b073f552ce516de6e449&sv=10004&ct=android
 乒乓球嘉年华 虹口邮储银行VS黄浦南房 全场回放（凌维康） 19:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/627/243/5106627243/media/5106627243_5338919029_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806616&pid=2028597139&timestamp=20260706020232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965995140&ParentNodeID=-99&assertID=5701806616&client_ip=171.8.79.254&SecurityKey=20260706020232&promotionId=&mvid=5106627243&mcid=1003&mpid=120000578494&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=318adfe068ea988714ae98dc9f5d22c4&sv=10004&ct=android
 乒乓球嘉年华 金山物流汇喆宇VS静安中安弘 全场回放 14:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/198/5106627198/media/5106627198_5338908840_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806484&pid=2028597139&timestamp=20260706000257&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965988345&ParentNodeID=-99&assertID=5701806484&client_ip=171.8.79.254&SecurityKey=20260706000257&promotionId=&mvid=5106627198&mcid=1003&mpid=120000578492&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1fabd0913c1f4ad4fefa8c26164d417b&sv=10004&ct=android
 乒乓球嘉年华 金山物流汇喆宇VS静安中安弘 全场回放（刘馨蕊） 14:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/197/5106627197/media/5106627197_5338906870_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806483&pid=2028597139&timestamp=20260706000256&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965987087&ParentNodeID=-99&assertID=5701806483&client_ip=171.8.79.254&SecurityKey=20260706000256&promotionId=&mvid=5106627197&mcid=1003&mpid=120000578492&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3e1b02adbfdcd29d8f1526c2bc714baf&sv=10004&ct=android
 乒乓球嘉年华 长宁乐动虹桥VS嘉定统嘉集团 全场回放 14:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/627/194/5106627194/media/5106627194_5338907357_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806476&pid=2028597139&timestamp=20260706000256&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965987415&ParentNodeID=-99&assertID=5701806476&client_ip=171.8.79.254&SecurityKey=20260706000256&promotionId=&mvid=5106627194&mcid=1003&mpid=120000578491&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=29fb0f96423080ed0628b20b4e2c47aa&sv=10004&ct=android
-乒乓球嘉年华 长宁乐动虹桥VS嘉定统嘉集团 全场回放（凌维康） 14:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/196/5106627196/media/5106627196_5338905991_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806475&pid=2028597139&timestamp=20260706000256&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965986474&ParentNodeID=-99&assertID=5701806475&client_ip=171.8.79.254&SecurityKey=20260706000256&promotionId=&mvid=5106627196&mcid=1003&mpid=120000578491&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4411f7c34d28b076b441d34e16bdd419&sv=10004&ct=android
 九画面10HD,http://182.135.66.163:18888/rtp/239.94.2.130:5140
 九画面10HD,http://182.135.66.163:1888/rtp/239.94.2.130:5140
 九画面11HD,http://182.135.66.163:18888/rtp/239.94.2.133:5140
@@ -1784,11 +1759,11 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 四川乡村HD,http://182.135.66.163:1888/rtp/239.94.0.77:5140
 四川乡村HD,http://182.135.66.163:1888/rtp/239.94.1.4:5140
 四川乡村HD,http://182.135.66.163:1888/rtp/239.94.1.8:5140
-四川卫视HD,http://222.95.12.2:4022/rtp/239.49.8.110:8000
 四川卫视HD,http://182.135.66.163:18888/rtp/239.94.0.60:5140
 四川卫视HD,http://182.135.66.163:18888/rtp/239.94.0.59:5140
 四川卫视HD,http://182.135.66.163:1888/rtp/239.94.0.60:5140
 四川卫视HD,http://182.135.66.163:1888/rtp/239.94.0.59:5140
+四川卫视HD,http://222.95.12.2:4022/rtp/239.49.8.110:8000
 四川四姑娘山隆珠措,https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
 四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
 四川峨眉山普贤菩萨铜像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
@@ -1833,9 +1808,9 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 大爱时尚专区HD,http://182.135.66.163:1888/rtp/239.94.1.15:5140
 大秦赋,https://live.ottiptv.cc/huya/23903130
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
-天元围棋HD,http://222.95.12.2:4022/rtp/239.49.1.79:8000
 天元围棋HD,http://182.135.66.163:18888/rtp/239.94.1.152:5140
 天元围棋HD,http://182.135.66.163:1888/rtp/239.94.1.152:5140
+天元围棋HD,http://222.95.12.2:4022/rtp/239.49.1.79:8000
 天涯石,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 天翼高清4K,http://182.135.66.163:18888/rtp/239.94.2.40:5140
 天翼高清4K,http://182.135.66.163:18888/rtp/239.94.2.41:5140
@@ -1893,7 +1868,6 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 峨眉电影HD,http://182.135.66.163:18888/rtp/239.94.0.103:5140
 峨眉电影HD,http://182.135.66.163:1888/rtp/239.94.0.103:5140
 崇川公共,http://222.95.12.2:4022/rtp/239.49.0.197:8000
-川超 南充丝绸源点队VS德阳重装队 全场回放 18:35,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/271/5106627271/media/5106627271_5338925796_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806700&pid=2028597139&timestamp=20260706020237&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965998824&ParentNodeID=-99&assertID=5701806700&client_ip=171.8.79.254&SecurityKey=20260706020237&promotionId=&mvid=5106627271&mcid=1003&mpid=120000571105&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=baf541acb302286199c7a552a7a30eb1&sv=10004&ct=android
 川超 成都锦城队VS绵阳九洲长虹队 全场回放 18:35,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/272/5106627272/media/5106627272_5338925053_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806704&pid=2028597139&timestamp=20260706020237&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965998545&ParentNodeID=-99&assertID=5701806704&client_ip=171.8.79.254&SecurityKey=20260706020237&promotionId=&mvid=5106627272&mcid=1003&mpid=120000571106&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a81379d802ebdf84dd60a5a7bb23aedc&sv=10004&ct=android
 广元文化生活HD,http://182.135.66.163:18888/rtp/239.94.0.179:5140
 广元文化生活HD,http://182.135.66.163:1888/rtp/239.94.0.179:5140
@@ -1954,9 +1928,9 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 新三国（斗鱼）,https://goodiptv.club/douyu/5908256
 新橙記Orange丶,https://live.ottiptv.cc/huya/30590779
 新沂,http://222.95.12.2:4022/rtp/239.49.0.238:8000
-新疆卫视HD,http://222.95.12.2:4022/rtp/239.49.1.57:8000
 新疆卫视HD,http://182.135.66.163:18888/rtp/239.94.0.98:5140
 新疆卫视HD,http://182.135.66.163:1888/rtp/239.94.0.98:5140
+新疆卫视HD,http://222.95.12.2:4022/rtp/239.49.1.57:8000
 新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 新闻综合,http://222.95.12.2:4022/rtp/239.49.0.162:8000
@@ -2001,7 +1975,6 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 春晚2021,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 春晚2022,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 春晚2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-晋超联赛 寿阳县第二届和美乡村篮球联赛3-4名、冠亚军决赛 2026山西省男子篮球超级联赛第5轮全场回放：尹灵芝vs温家庄（官方解说） 14:40,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/215/5106627215/media/5106627215_5338909459_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806497&pid=2028597139&timestamp=20260706020229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965988762&ParentNodeID=-99&assertID=5701806497&client_ip=171.8.79.254&SecurityKey=20260706020229&promotionId=&mvid=5106627215&mcid=1003&mpid=120000580475&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1a73c5392d39a94aff987afe51f0aa65&sv=10004&ct=android
 晋超联赛 寿阳县第二届和美乡村篮球联赛3-4名、冠亚军决赛 2026山西省男子篮球超级联赛第5轮全场回放：平舒乡vs松塔镇（官方解说） 14:40,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/269/5106627269/media/5106627269_5338914010_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806545&pid=2028597139&timestamp=20260706020229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965991169&ParentNodeID=-99&assertID=5701806545&client_ip=171.8.79.254&SecurityKey=20260706020229&promotionId=&mvid=5106627269&mcid=1003&mpid=120000580475&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=68a8148dec8b9405253d009b47ae1c0b&sv=10004&ct=android
 普陀山,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
 最强综艺趴,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zuiqiangzongyi/51/20250514/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500315654&pid=2028597139&timestamp=20260706000235&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=629942228&ParentNodeID=-99&assertID=5500315654&client_ip=171.8.79.254&SecurityKey=20260706000235&promotionId=&mvid=5101034202&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7a0289407c090bfa92bde4d2af974726&sv=10004&ct=android
@@ -2030,7 +2003,6 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 橙記Orange丶,https://live.ottiptv.cc/douyu/4549169
 橙记港剧,http://www.goodiptv.club/douyu/4549169
 欢乐颂,https://live.ottiptv.cc/yy/1382735624
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=bc63a48e37322fe5f6de916be8503e79&wsTime=1783288871
 武术世界HD,http://222.95.12.2:4022/rtp/239.49.0.205:8000
 武林萌主唐小姐,https://live.ottiptv.cc/huya/11336726
 永夜星河,https://live.ottiptv.cc/huya/23734169
@@ -2083,10 +2055,10 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 测试,http://222.95.12.2:4022/rtp/239.49.1.71:8000
 测试,http://222.95.12.2:4022/rtp/239.49.1.78:8000
 浙BA 富阳82-56临平 2026浙江省城市篮球联赛全场回放：富阳VS临平（赛场原声） 19:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/627/303/5106627303/media/5106627303_5338921907_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806587&pid=2028597139&timestamp=20260706020233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965997334&ParentNodeID=-99&assertID=5701806587&client_ip=171.8.79.254&SecurityKey=20260706020233&promotionId=&mvid=5106627303&mcid=1003&mpid=120000581662&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=36b73aedb3dcfb303d6b18f8a7ed2537&sv=10004&ct=android
-浙江卫视HD,http://222.95.12.2:4022/rtp/239.49.8.20:9618
-浙江卫视HD,http://222.95.12.2:4022/rtp/239.49.8.139:6000
 浙江卫视HD,http://182.135.66.163:18888/rtp/239.94.0.63:5140
 浙江卫视HD,http://182.135.66.163:1888/rtp/239.94.0.63:5140
+浙江卫视HD,http://222.95.12.2:4022/rtp/239.49.8.20:9618
+浙江卫视HD,http://222.95.12.2:4022/rtp/239.49.8.139:6000
 浙江温州泰顺县廊桥文化园,https://gcalic.v.myalicdn.com/gc/cntv411-zbzg_1/index.m3u8
 浙江舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
 浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
@@ -2151,9 +2123,9 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 环球旅游HD,http://182.135.66.163:18888/rtp/239.94.1.147:5140
 环球旅游HD,http://182.135.66.163:1888/rtp/239.94.1.147:5140
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
-生活时尚HD,http://222.95.12.2:4022/rtp/239.49.0.97:8000
 生活时尚HD,http://182.135.66.163:18888/rtp/239.94.1.146:5140
 生活时尚HD,http://182.135.66.163:1888/rtp/239.94.1.146:5140
+生活时尚HD,http://222.95.12.2:4022/rtp/239.49.0.97:8000
 生活时尚SD,http://182.135.66.163:18888/rtp/239.94.1.40:5140
 生活时尚SD,http://182.135.66.163:1888/rtp/239.94.1.40:5140
 生活频道,http://222.95.12.2:4022/rtp/239.49.0.229:8000
@@ -2178,12 +2150,8 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 电竞天堂HD,http://182.135.66.163:1888/rtp/239.94.1.45:5140
 电视剧僵尸约会,https://live.ottiptv.cc/douyu/8371123
 男篮世预赛 卢旺达VS尼日利亚 全场回放（赛场原声） 16:50,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/228/5106627228/media/5106627228_5338915449_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806572&pid=2028600720&timestamp=20260706020230&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965992245&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806572&client_ip=171.8.79.254&SecurityKey=20260706020230&promotionId=&mvid=5106627228&mcid=1003&mpid=120000563104&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=a2ca9c178669554a63bfc77914e34a88&sv=10004&ct=android
-男篮世预赛 喀麦隆VS利比亚 全场回放（赛场原声） 00:50,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/938/5106626938/media/5106626938_5338889292_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806070&pid=2028600720&timestamp=20260706020223&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976327&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806070&client_ip=171.8.79.254&SecurityKey=20260706020223&promotionId=&mvid=5106626938&mcid=1003&mpid=120000563078&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=98271be188744d80f7bcaf1348c9349d&sv=10004&ct=android
 男篮世预赛 塞内加尔VS马达加斯加 全场回放（赛场原声） 01:50,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/932/5106626932/media/5106626932_5338883741_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806092&pid=2028600720&timestamp=20260706000252&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965973035&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806092&client_ip=171.8.79.254&SecurityKey=20260706000252&promotionId=&mvid=5106626932&mcid=1003&mpid=120000563090&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=0ecd99f5c9b214d8b2fe27fe0dd99d02&sv=10004&ct=android
-男篮世预赛 委内瑞拉VS巴西 全场回放（赛场原声） 08:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/941/5106626941/media/5106626941_5338898045_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806071&pid=2028600720&timestamp=20260706020228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965980437&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806071&client_ip=171.8.79.254&SecurityKey=20260706020228&promotionId=&mvid=5106626941&mcid=1003&mpid=120000563007&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=8eb109c623827e6c370c29dc17eae2d2&sv=10004&ct=android
 男篮世预赛 安哥拉VS埃及 全场回放（赛场原声） 01:50,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/935/5106626935/media/5106626935_5338884999_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806093&pid=2028600720&timestamp=20260706000252&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965973651&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806093&client_ip=171.8.79.254&SecurityKey=20260706000252&promotionId=&mvid=5106626935&mcid=1003&mpid=120000563114&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=ad20ace7e2b987fd395ad55028334a5b&sv=10004&ct=android
-男篮世预赛 突尼斯VS几内亚 全场回放（赛场原声） 19:50,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/229/5106627229/media/5106627229_5338924421_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806695&pid=2028600720&timestamp=20260706020237&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965998252&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806695&client_ip=171.8.79.254&SecurityKey=20260706020237&promotionId=&mvid=5106627229&mcid=1003&mpid=120000563105&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=e0d973c352b555addb44fde84e56e3d4&sv=10004&ct=android
-番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 疆超 克拉玛依队VS塔城队 全场回放 19:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/290/5106627290/media/5106627290_5338923013_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806651&pid=2028597139&timestamp=20260706020233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965997744&ParentNodeID=-99&assertID=5701806651&client_ip=171.8.79.254&SecurityKey=20260706020233&promotionId=&mvid=5106627290&mcid=1003&mpid=120000580996&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=02175caaccca7be485e07172369d22af&sv=10004&ct=android
 白了个痴,https://live.ottiptv.cc/douyu/319576
 百变课堂HD,http://182.135.66.163:18888/rtp/239.94.1.43:5140
@@ -2282,53 +2250,45 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 蓉城先锋HD,http://182.135.66.163:1888/rtp/239.94.1.57:5140
 蓝翔新三国,https://live.ottiptv.cc/douyu/5908256
 西游记续集,http://www.goodiptv.club/douyu/3113309
-西藏卫视HD,http://222.95.12.2:4022/rtp/239.49.1.56:8000
 西藏卫视HD,http://182.135.66.163:18888/rtp/239.94.0.97:5140
 西藏卫视HD,http://182.135.66.163:1888/rtp/239.94.0.97:5140
+西藏卫视HD,http://222.95.12.2:4022/rtp/239.49.1.56:8000
 解密专区HD,http://182.135.66.163:18888/rtp/239.94.1.53:5140
 解密专区HD,http://182.135.66.163:1888/rtp/239.94.1.53:5140
 谍战剧场HD,http://182.135.66.163:18888/rtp/239.94.1.28:5140
 谍战剧场HD,http://182.135.66.163:1888/rtp/239.94.1.28:5140
 贝爷求生,http://www.goodiptv.club/douyu/9661369
 贝爷求生影视,https://live.ottiptv.cc/douyu/9661369
-财富天下,http://222.95.12.2:4022/rtp/239.49.1.29:6000
 财富天下,http://182.135.66.163:18888/rtp/239.94.2.234:5140
 财富天下,http://182.135.66.163:1888/rtp/239.94.2.234:5140
-财富天下HD,http://222.95.12.2:4022/rtp/239.49.1.76:8000
+财富天下,http://222.95.12.2:4022/rtp/239.49.1.29:6000
 财富天下HD,http://182.135.66.163:18888/rtp/239.94.1.42:5140
 财富天下HD,http://182.135.66.163:1888/rtp/239.94.1.42:5140
-贵州卫视HD,http://222.95.12.2:4022/rtp/239.49.8.49:8000
+财富天下HD,http://222.95.12.2:4022/rtp/239.49.1.76:8000
 贵州卫视HD,http://182.135.66.163:18888/rtp/239.94.0.83:5140
 贵州卫视HD,http://182.135.66.163:1888/rtp/239.94.0.83:5140
-贵州村超 安乐村足球队VS仁吉村村牛足球队 全场回放 16:30,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/293/5106627293/media/5106627293_5338917917_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806581&pid=2028597139&timestamp=20260706020230&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965994319&ParentNodeID=-99&assertID=5701806581&client_ip=171.8.79.254&SecurityKey=20260706020230&promotionId=&mvid=5106627293&mcid=1003&mpid=120000582000&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=98c997cc76fa4270793e82470ad2e36f&sv=10004&ct=android
+贵州卫视HD,http://222.95.12.2:4022/rtp/239.49.8.49:8000
 贵州村超 腊酉村足球队VS色边村足球队 全场回放 18:30,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/295/5106627295/media/5106627295_5338920195_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806610&pid=2028597139&timestamp=20260706020231&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965996379&ParentNodeID=-99&assertID=5701806610&client_ip=171.8.79.254&SecurityKey=20260706020231&promotionId=&mvid=5106627295&mcid=1003&mpid=120000582001&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0bb29d086e7dad0f6803f3d4dafc69ad&sv=10004&ct=android
 贵州省兴义市万峰林,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 赵本删不删,https://goodiptv.club/douyu/9837104
 超三联赛 超三联赛 上海崇明大区赛 A档半决赛及决赛 【决赛回放】宁波海曙捷英17:21上海横沙誉民 18:55,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/305/5106627305/media/5106627305_5338919529_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806624&pid=2028597139&timestamp=20260706020234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965995493&ParentNodeID=-99&assertID=5701806624&client_ip=171.8.79.254&SecurityKey=20260706020234&promotionId=&mvid=5106627305&mcid=1003&mpid=120000581915&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e6c39ef00ad3e0e9aa89f8be8e492df2&sv=10004&ct=android
-超三联赛 超三联赛 上海崇明大区赛 A档半决赛及决赛 【半决赛回放】上海横沙誉民21:12上海久事 18:55,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/233/5106627233/media/5106627233_5338915885_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806584&pid=2028597139&timestamp=20260706020234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965992655&ParentNodeID=-99&assertID=5701806584&client_ip=171.8.79.254&SecurityKey=20260706020234&promotionId=&mvid=5106627233&mcid=1003&mpid=120000581915&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=31a2fbe927063c429c24343caea24f40&sv=10004&ct=android
 超三联赛 超三联赛 上海崇明大区赛 A档半决赛及决赛 【半决赛回放】北京控股18:21宁波海曙捷英 18:55,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/227/5106627227/media/5106627227_5338915027_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806579&pid=2028597139&timestamp=20260706020235&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965991826&ParentNodeID=-99&assertID=5701806579&client_ip=171.8.79.254&SecurityKey=20260706020235&promotionId=&mvid=5106627227&mcid=1003&mpid=120000581915&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=288321d9ff8dbfc30cdcdf748b14d697&sv=10004&ct=android
-超三联赛 超三联赛 上海崇明大区赛 A档半决赛及决赛 【第三名排位赛回放】北京控股17:21上海久事 18:55,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/304/5106627304/media/5106627304_5338918709_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806612&pid=2028597139&timestamp=20260706020234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965994797&ParentNodeID=-99&assertID=5701806612&client_ip=171.8.79.254&SecurityKey=20260706020234&promotionId=&mvid=5106627304&mcid=1003&mpid=120000581915&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d7cf1c8a4a385a5cbe4955bd80b4273d&sv=10004&ct=android
 超三联赛 超三联赛 上海崇明大区赛 A档半决赛及决赛 全场回放（蔡凯臣） 18:55,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/225/5106627225/media/5106627225_5338920006_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806628&pid=2028597139&timestamp=20260706020234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965996118&ParentNodeID=-99&assertID=5701806628&client_ip=171.8.79.254&SecurityKey=20260706020234&promotionId=&mvid=5106627225&mcid=1003&mpid=120000581915&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=58b21a7c15c649307c7e6b1f5c7f4848&sv=10004&ct=android
 超三联赛 超三联赛 上海崇明大区赛 A档半决赛及决赛 全场回放（赛场原声） 18:55,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/226/5106627226/media/5106627226_5338922067_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806635&pid=2028597139&timestamp=20260706020234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965997378&ParentNodeID=-99&assertID=5701806635&client_ip=171.8.79.254&SecurityKey=20260706020234&promotionId=&mvid=5106627226&mcid=1003&mpid=120000581915&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4529abfbd070a7b087d9afe02c5f2e57&sv=10004&ct=android
-超三联赛 超三联赛 上海崇明大区赛 A档四分之一决赛 【回放】上海横沙誉民21:12成都和众 13:55,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/032/5106627032/media/5106627032_5338905787_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806362&pid=2028597139&timestamp=20260706000258&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965986311&ParentNodeID=-99&assertID=5701806362&client_ip=171.8.79.254&SecurityKey=20260706000258&promotionId=&mvid=5106627032&mcid=1003&mpid=120000581912&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b713aef47804bf0a535e1faa83a00414&sv=10004&ct=android
-超三联赛 超三联赛 上海崇明大区赛 A档四分之一决赛 【回放】北京控股21:13贵州贵阳丝恋 13:55,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/029/5106627029/media/5106627029_5338903656_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806360&pid=2028597139&timestamp=20260706000257&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965984598&ParentNodeID=-99&assertID=5701806360&client_ip=171.8.79.254&SecurityKey=20260706000257&promotionId=&mvid=5106627029&mcid=1003&mpid=120000581912&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1f680402201cd3c8394700665a56a08b&sv=10004&ct=android
-超三联赛 超三联赛 上海崇明大区赛 A档四分之一决赛 【回放】南昌凯锆商贸16:22上海久事 13:55,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/033/5106627033/media/5106627033_5338906820_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806363&pid=2028597139&timestamp=20260706000258&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965987000&ParentNodeID=-99&assertID=5701806363&client_ip=171.8.79.254&SecurityKey=20260706000258&promotionId=&mvid=5106627033&mcid=1003&mpid=120000581912&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c0d3499c93298a106269e82df008deb3&sv=10004&ct=android
-超三联赛 超三联赛 上海崇明大区赛 A档四分之一决赛 【回放】宁波海曙捷英21:16广东光正教育 13:55,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/030/5106627030/media/5106627030_5338904598_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806361&pid=2028597139&timestamp=20260706000258&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965985380&ParentNodeID=-99&assertID=5701806361&client_ip=171.8.79.254&SecurityKey=20260706000258&promotionId=&mvid=5106627030&mcid=1003&mpid=120000581912&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=96697fecc719a3138504c356f99e0acd&sv=10004&ct=android
-超三联赛 超三联赛 上海崇明大区赛 A档四分之一决赛 全场回放（张俊卿） 13:55,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/034/5106627034/media/5106627034_5338907127_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806364&pid=2028597139&timestamp=20260706000257&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965987208&ParentNodeID=-99&assertID=5701806364&client_ip=171.8.79.254&SecurityKey=20260706000257&promotionId=&mvid=5106627034&mcid=1003&mpid=120000581912&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a0d66325f49c71a824369ebd6b23ae77&sv=10004&ct=android
 超三联赛 超三联赛 上海崇明大区赛 A档四分之一决赛 全场回放（赛场原声） 13:55,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/035/5106627035/media/5106627035_5338909764_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806365&pid=2028597139&timestamp=20260706000257&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965988939&ParentNodeID=-99&assertID=5701806365&client_ip=171.8.79.254&SecurityKey=20260706000257&promotionId=&mvid=5106627035&mcid=1003&mpid=120000581912&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6319022d97229695a49b80cc9e2e120c&sv=10004&ct=android
 足球专区HD,http://182.135.66.163:18888/rtp/239.94.1.47:5140
 足球专区HD,http://182.135.66.163:1888/rtp/239.94.1.47:5140
 车迷频道,http://120.76.248.139/live/bfgd/4200000146.m3u8
-辽宁卫视HD,http://222.95.12.2:4022/rtp/239.49.8.48:8000
 辽宁卫视HD,http://182.135.66.163:18888/rtp/239.94.0.101:5140
 辽宁卫视HD,http://182.135.66.163:1888/rtp/239.94.0.101:5140
+辽宁卫视HD,http://222.95.12.2:4022/rtp/239.49.8.48:8000
 邳州综合,http://222.95.12.2:4022/rtp/239.49.0.182:8000
 都江堰鱼嘴,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 都爱看,https://live.ottiptv.cc/huya/26058097
-重庆卫视HD,http://222.95.12.2:4022/rtp/239.49.8.57:9830
-重庆卫视HD,http://222.95.12.2:4022/rtp/239.49.8.149:6000
 重庆卫视HD,http://182.135.66.163:18888/rtp/239.94.0.82:5140
 重庆卫视HD,http://182.135.66.163:1888/rtp/239.94.0.82:5140
+重庆卫视HD,http://222.95.12.2:4022/rtp/239.49.8.57:9830
+重庆卫视HD,http://222.95.12.2:4022/rtp/239.49.8.149:6000
 金色童年,http://183.220.20.17:4321/rtp/239.11.0.182:5140
 金鹰卡通HD,http://222.95.12.2:4022/rtp/239.49.8.33:8000
 铁甲影院,https://live.ottiptv.cc/douyu/1274132
@@ -2336,9 +2296,9 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 铜山1,http://222.95.12.2:4022/rtp/239.49.0.163:8000
 阿七点歌台,https://goodiptv.club/douyu/3186217
 陈情令,https://live.ottiptv.cc/huya/29465862
-陕西卫视HD,http://222.95.12.2:4022/rtp/239.49.1.74:8000
 陕西卫视HD,http://182.135.66.163:18888/rtp/239.94.0.92:5140
 陕西卫视HD,http://182.135.66.163:1888/rtp/239.94.0.92:5140
+陕西卫视HD,http://222.95.12.2:4022/rtp/239.49.1.74:8000
 陕西洋县国宝朱鹮02,https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
 隋唐英雄传,https://live.ottiptv.cc/yy/1352475619
 雅安文化生活HD,http://182.135.66.163:18888/rtp/239.94.0.180:5140
@@ -2387,10 +2347,9 @@ WTT 王曼昱/蒯曼摘国乒首冠 大迪横扫 全场回放（英文解说） 
 黄花城水长城01,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
 黄花城水长城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 黄龙,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-黑龙江卫视HD,http://222.95.12.2:4022/rtp/239.49.8.14:9426
-黑龙江卫视HD,http://222.95.12.2:4022/rtp/239.49.8.144:6000
 黑龙江卫视HD,http://182.135.66.163:18888/rtp/239.94.0.81:5140
 黑龙江卫视HD,http://182.135.66.163:1888/rtp/239.94.0.81:5140
-齐鲁超赛 临沂队VS潍坊队 全场回放 16:00,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/213/5106627213/media/5106627213_5338913597_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806551&pid=2028597139&timestamp=20260706020230&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965990921&ParentNodeID=-99&assertID=5701806551&client_ip=171.8.79.254&SecurityKey=20260706020230&promotionId=&mvid=5106627213&mcid=1003&mpid=120000581802&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=79d1c99f55e1ee74c01d1edf22db193d&sv=10004&ct=android
+黑龙江卫视HD,http://222.95.12.2:4022/rtp/239.49.8.14:9426
+黑龙江卫视HD,http://222.95.12.2:4022/rtp/239.49.8.144:6000
 齐鲁超赛 济南队VS泰安泰山城建队 全场回放 19:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/627/291/5106627291/media/5106627291_5338924991_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806701&pid=2028597139&timestamp=20260706020234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965998458&ParentNodeID=-99&assertID=5701806701&client_ip=171.8.79.254&SecurityKey=20260706020234&promotionId=&mvid=5106627291&mcid=1003&mpid=120000581803&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=619cf25fbafd43332f9b8a2caf02d463&sv=10004&ct=android
 龍組队长天昊,https://live.ottiptv.cc/douyu/1487654
