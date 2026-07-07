@@ -161,3 +161,4 @@ zmgd.zyrnet.com:8888
 live.hyxrmt.com:85
 101.66.199.29:9901
 101.66.195.209:9901
+satellitepull.cnr.cn:443
