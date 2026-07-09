@@ -175,3 +175,4 @@ push.cdn1.hls123.de:8080
 59.35.185.47:8188
 hslive.hsnewsnet.com:80
 123.53.119.235:8089
+gmxw.7766.org:808
