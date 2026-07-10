@@ -152,3 +152,4 @@ channel.wcrmt.cn
 123.163.114.168
 mgsp-hs2.live.miguvideo.com
 gdcucc.v1.mk
+112.46.105.20
