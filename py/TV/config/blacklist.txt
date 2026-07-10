@@ -204,3 +204,4 @@ alimov2.a.kwimgs.com:443
 jwcdnqx.hebyun.com.cn:443
 122.152.202.33:80
 file.ysxtv.cn:443
+channel.wcrmt.cn:80
