@@ -148,3 +148,7 @@ hslive.hsnewsnet.com
 223.75.149.129
 www.cdnstv.com
 hsplay-360.v.btime.com
+channel.wcrmt.cn
+123.163.114.168
+mgsp-hs2.live.miguvideo.com
+gdcucc.v1.mk
