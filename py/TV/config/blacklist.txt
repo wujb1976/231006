@@ -219,3 +219,4 @@ goodiptv.club:443
 www.goodiptv.club:443
 gslbmgspvod.miguvideo.com:80
 liveout.xntv.tv:443
+nn.7x9d.cn:80
