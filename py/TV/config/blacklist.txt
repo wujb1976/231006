@@ -217,3 +217,5 @@ liveout.btzx.com.cn:80
 goodiptv.club:443
 222.223.41.27:8888
 www.goodiptv.club:443
+gslbmgspvod.miguvideo.com:80
+liveout.xntv.tv:443
