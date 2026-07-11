@@ -31,3 +31,5 @@ live.yantaitv.cn:80
 tmpstream.hyrtv.cn:80
 223.247.25.207:1234
 110.154.192.76:7788
+l.cztvcloud.com:443
+112.123.243.37:50085
