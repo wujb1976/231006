@@ -206,3 +206,5 @@ jwcdnqx.hebyun.com.cn:443
 file.ysxtv.cn:443
 channel.wcrmt.cn:80
 114.254.185.98:8099
+liveout.btzx.com.cn:443
+liveout.btzx.com.cn:80
