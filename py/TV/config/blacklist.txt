@@ -24,3 +24,8 @@ tpc.x3322.net:9901
 hslive.hsnewsnet.com:80
 222.169.85.8:9901
 l.cztvcloud.com:443
+video.epaper.pybtv.cn:8080
+1.24.39.180:9003
+cdn9.163189.xyz:80
+183.129.255.66:8480
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
