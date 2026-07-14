@@ -18,3 +18,9 @@ tv.drs.ganzitv.com:8100
 nor3live.win:80
 222.169.85.8:9901
 116.233.67.80:8899
+l.cztvcloud.com:443
+hslive.hsnewsnet.com:80
+tpc.x3322.net:9901
+182.150.23.74:808
+116.52.173.34:1234
+tmpstream.hyrtv.cn:80
