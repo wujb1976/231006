@@ -58,3 +58,5 @@ stream.thmz.com:443
 gmxw.7766.org:808
 110.154.192.66:7788
 www.lwfz.fun:8800
+my9.ltd:443
+cm-wshls.homecdn.com:80
