@@ -48,3 +48,7 @@ gslbmgsplive.miguvideo.com:80
 101.6.130.52:1234
 116.236.204.18:1234
 27.12.12.183:1234
+srs.iyb983.cn:443
+222.95.12.2:4022
+bp-resource-dfl.bestv.cn:80
+stream.thmz.com:80
