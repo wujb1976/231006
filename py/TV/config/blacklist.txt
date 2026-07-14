@@ -60,3 +60,4 @@ gmxw.7766.org:808
 www.lwfz.fun:8800
 my9.ltd:443
 cm-wshls.homecdn.com:80
+hzcm-live.media.hugd.com:80
