@@ -56,3 +56,5 @@ stream.thmz.com:80
 stream.thmz.com:443
 182.150.23.74:808
 gmxw.7766.org:808
+110.154.192.66:7788
+www.lwfz.fun:8800
