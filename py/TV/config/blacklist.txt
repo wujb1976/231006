@@ -26,3 +26,4 @@ tpc.x3322.net:9901
 tmpstream.hyrtv.cn:80
 cdn9.163189.xyz:80
 vip.ffzy-play1.com:443
+stream.thmz.com:443
