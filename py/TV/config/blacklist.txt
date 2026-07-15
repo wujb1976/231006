@@ -40,3 +40,9 @@ webcast.hkstv.tv:80
 43.156.8.127:5050
 mgsp-ali2.live.miguvideo.com:8088
 182.37.41.46:8154
+nn.7x9d.cn:80
+183.222.15.202:4321
+devlivepull.migucloud.com:80
+59.35.185.47:8188
+61.136.172.236:9901
+222.95.12.2:4022
