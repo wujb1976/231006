@@ -33,3 +33,13 @@ www.goodiptv.club:443
 channel.wcrmt.cn:80
 e2.woc.iiiya.cn:28888
 gslbmgsplive.miguvideo.com:80
+tmpstream.hyrtv.cn:80
+rt-glb.rttv.com:443
+rt-esp.rttv.com:443
+rt-ger.rttv.com:443
+rt-rtd.rttv.com:443
+live.ottiptv.cc:443
+rt-arb.rttv.com:443
+rt-fra.rttv.com:443
+cdn9.163189.xyz:80
+rt-srb.rttv.com:443
