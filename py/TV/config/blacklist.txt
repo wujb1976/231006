@@ -24,3 +24,5 @@ tpc.x3322.net:9901
 182.150.23.74:808
 116.52.173.34:1234
 tmpstream.hyrtv.cn:80
+cdn9.163189.xyz:80
+vip.ffzy-play1.com:443
