@@ -33,3 +33,10 @@ stream.thmz.com:80
 60.10.139.113:8801
 goodiptv.club:443
 118.193.115.2:9901
+222.179.42.129:8181
+hkstv.tv:443
+piccpndks.v.kcdnvip.com:443
+webcast.hkstv.tv:80
+43.156.8.127:5050
+mgsp-ali2.live.miguvideo.com:8088
+182.37.41.46:8154
