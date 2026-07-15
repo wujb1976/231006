@@ -48,3 +48,6 @@ devlivepull.migucloud.com:80
 222.95.12.2:4022
 183.129.255.66:8480
 epg.pw:443
+file.ysxtv.cn:443
+file.ysxtv.cn:80
+223.105.252.57:80
