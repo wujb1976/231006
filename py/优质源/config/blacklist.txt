@@ -133,3 +133,10 @@ stream.thmz.com
 60.10.139.113
 14.153.176.108
 182.127.153.119
+live.streamingfast.net
+183.223.157.33
+webcast.hkstv.tv
+m3u8.channel.dzsm.com
+60.222.246.220
+p.ytelc.com
+hkstv.tv
