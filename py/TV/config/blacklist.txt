@@ -63,3 +63,6 @@ p2.bdstatic.com:443
 183.237.95.108:9901
 l.cztvcloud.com:443
 live.xysrmt.cn:80
+1.24.39.180:9003
+live.264788.xyz:443
+shcm-stream-cf1.stream.264788.xyz:443
