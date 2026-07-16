@@ -43,3 +43,4 @@ rt-arb.rttv.com:443
 rt-fra.rttv.com:443
 cdn9.163189.xyz:80
 rt-srb.rttv.com:443
+tpc.x3322.net:9901
