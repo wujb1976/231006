@@ -55,3 +55,9 @@ m3u8channel-yj.yunxya.com:443
 182.150.23.74:808
 106.111.244.12:58099
 my9.ltd:443
+live.streamingfast.net:443
+218.13.170.98:9901
+107.150.60.122:80
+bp-resource-dfl.bestv.cn:80
+p2.bdstatic.com:443
+183.237.95.108:9901
