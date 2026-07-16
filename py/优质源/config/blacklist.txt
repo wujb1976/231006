@@ -140,3 +140,5 @@ m3u8.channel.dzsm.com
 60.222.246.220
 p.ytelc.com
 hkstv.tv
+epg.pw
+stream1.freetv.fun
