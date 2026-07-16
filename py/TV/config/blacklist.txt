@@ -61,3 +61,5 @@ live.streamingfast.net:443
 bp-resource-dfl.bestv.cn:80
 p2.bdstatic.com:443
 183.237.95.108:9901
+l.cztvcloud.com:443
+live.xysrmt.cn:80
