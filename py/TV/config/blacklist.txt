@@ -44,3 +44,5 @@ rt-fra.rttv.com:443
 cdn9.163189.xyz:80
 rt-srb.rttv.com:443
 tpc.x3322.net:9901
+pull-hls-f1.douyinliving.com:80
+123.130.84.106:8154
