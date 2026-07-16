@@ -68,3 +68,4 @@ live.264788.xyz:443
 shcm-stream-cf1.stream.264788.xyz:443
 gctxyc.liveplay.myqcloud.com:80
 222.179.42.129:8181
+m3u8.channel.dzsm.com:443
