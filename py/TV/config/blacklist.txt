@@ -57,3 +57,6 @@ stream.thmz.com:443
 bp-resource-dfl.bestv.cn:443
 www.negative.top:50000
 124.116.183.146:9901
+cdn9.163189.xyz:80
+222.214.208.34:59901
+111.221.137.234:44330
