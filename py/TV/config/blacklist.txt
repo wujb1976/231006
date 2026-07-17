@@ -29,3 +29,7 @@ tpc.x3322.net:9901
 channel.wcrmt.cn:80
 idclive.hljtv.com:4430
 nor3live.win:80
+123.130.84.106:8154
+jsv-live-play.sfccn.com:443
+8.138.7.223:80
+dxtx.hntv.tv:443
