@@ -55,3 +55,5 @@ l.cztvcloud.com:443
 live.zohi.tv:80
 stream.thmz.com:443
 bp-resource-dfl.bestv.cn:443
+www.negative.top:50000
+124.116.183.146:9901
