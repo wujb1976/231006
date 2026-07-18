@@ -18,3 +18,7 @@ live1.habctv.com:80
 channel.wcrmt.cn:80
 3gvod.zjgonline.com.cn:1935
 lxajh.top:80
+123.130.84.106:8154
+222.169.85.8:9901
+118.193.115.2:9901
+222.134.245.16:9901
