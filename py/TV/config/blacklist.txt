@@ -78,3 +78,7 @@ alimov2.a.kwimgs.com:443
 hslive.hsnewsnet.com:80
 uzoiczhh.live.sxmty.com:80
 stream.thmz.com:443
+183.237.95.108:9901
+183.11.239.36:808
+110.244.139.249:7788
+gmxw.7766.org:808
