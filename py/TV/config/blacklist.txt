@@ -42,3 +42,5 @@ e2.woc.iiiya.cn:28888
 222.95.12.2:4022
 101.66.194.150:9901
 tntgjhjb.live.sxmty.com:443
+vip1.xinketongxun.fun:8082
+bp-resource-dfl.bestv.cn:80
