@@ -62,3 +62,5 @@ www.lwfz.fun:8800
 118.193.115.2:9901
 dassby.qqff.top:99
 cm-wshls.homecdn.com:80
+rihou.cc:555
+125.42.148.114:9901
