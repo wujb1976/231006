@@ -53,3 +53,5 @@ rt-rtd.rttv.com:443
 shcm-stream-cf1.stream.264788.xyz:443
 218.13.170.98:9901
 111.221.137.234:44330
+hslive.hsnewsnet.com:80
+183.236.43.98:4013
