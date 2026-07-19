@@ -26,3 +26,6 @@ vip1.xinketongxun.fun:8082
 101.66.194.177:9901
 222.134.245.16:9901
 cdn9.163189.xyz:80
+satellitepull.cnr.cn:443
+zbbf2.ahbztv.com:80
+175.0.64.97:8888
