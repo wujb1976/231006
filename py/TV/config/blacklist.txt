@@ -57,3 +57,8 @@ hslive.hsnewsnet.com:80
 183.236.43.98:4013
 l.cztvcloud.com:80
 183.222.15.202:4321
+flvalipull2mgsplive.miguvideo.com:80
+www.lwfz.fun:8800
+118.193.115.2:9901
+dassby.qqff.top:99
+cm-wshls.homecdn.com:80
