@@ -40,3 +40,5 @@ gslbmgsplive.miguvideo.com:80
 223.247.25.221:1234
 live.264788.xyz:443
 111.221.137.234:44330
+live.ottiptv.cc:443
+124.116.183.146:9901
