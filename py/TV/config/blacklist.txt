@@ -54,3 +54,5 @@ hkstv.tv:443
 my9.ltd:443
 e2.woc.iiiya.cn:28888
 stream.thmz.com:80
+play.jinnantv.top:80
+live.metshop.top:80
