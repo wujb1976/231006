@@ -48,3 +48,9 @@ www.guzhenm.com:7001
 radio.pull.hebtv.com:443
 tpc.x3322.net:9901
 srs.iyb983.cn:443
+hkstv.tv:443
+122.152.202.33:80
+182.114.48.224:9901
+my9.ltd:443
+e2.woc.iiiya.cn:28888
+stream.thmz.com:80
