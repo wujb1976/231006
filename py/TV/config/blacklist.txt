@@ -45,3 +45,6 @@ live.ottiptv.cc:443
 p2.bdstatic.com:443
 ldocctvwbcdtxy.liveplay.myqcloud.com:443
 www.guzhenm.com:7001
+radio.pull.hebtv.com:443
+tpc.x3322.net:9901
+srs.iyb983.cn:443
