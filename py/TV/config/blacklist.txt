@@ -113,3 +113,8 @@ english-livetx.cgtn.com:80
 live.streamingfast.net:443
 125.42.148.232:9901
 live1.gatv.com.cn:85
+gslbflvmgsplive.miguvideo.com:80
+125.43.247.15:9901
+gslbmgspvod.miguvideo.com:80
+116.52.173.134:1234
+183.223.157.33:9901
