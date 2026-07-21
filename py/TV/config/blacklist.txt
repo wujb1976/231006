@@ -108,3 +108,5 @@ satellitepull.cnr.cn:443
 1.24.39.180:9003
 219.145.93.74:10000
 59.35.185.47:8188
+english-livetx.cgtn.com:443
+english-livetx.cgtn.com:80
