@@ -106,3 +106,5 @@ live.zzyxxw.com:85
 jsv-live-play.sfccn.com:443
 satellitepull.cnr.cn:443
 1.24.39.180:9003
+219.145.93.74:10000
+59.35.185.47:8188
