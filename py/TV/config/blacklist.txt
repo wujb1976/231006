@@ -103,3 +103,6 @@ qmmqvzoz.live.sxmty.com:443
 gctxyc.liveplay.myqcloud.com:443
 l.cztvcloud.com:443
 live.zzyxxw.com:85
+jsv-live-play.sfccn.com:443
+satellitepull.cnr.cn:443
+1.24.39.180:9003
