@@ -133,3 +133,10 @@ ls.qingting.fm
 epg.pw
 222.134.245.16
 stream1.freetv.fun
+satellitepull.cnr.cn
+p.ytelc.com
+tvcdn.stream3.hndt.com
+1.24.39.180
+120.211.62.180
+hls.ningxiahuangheyun.com
+jsv-live-play.sfccn.com
