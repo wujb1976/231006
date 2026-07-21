@@ -59,3 +59,5 @@ live.metshop.top:80
 125.42.148.25:9901
 v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
 epg.pw:443
+47.104.178.59:3566
+shcm-stream-cf1.stream.264788.xyz:443
