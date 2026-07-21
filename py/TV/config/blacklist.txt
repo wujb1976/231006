@@ -110,3 +110,4 @@ satellitepull.cnr.cn:443
 59.35.185.47:8188
 english-livetx.cgtn.com:443
 english-livetx.cgtn.com:80
+live.streamingfast.net:443
