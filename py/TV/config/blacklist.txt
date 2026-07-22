@@ -137,3 +137,4 @@ stream5.jlntv.cn:80
 8.138.7.223:80
 dxtx.hntv.tv:443
 newcntv.qcloudcdn.com:80
+cm-wshls.homecdn.com:80
