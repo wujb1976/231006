@@ -152,3 +152,4 @@ ali-m-l.cztv.com:443
 183.47.2.156:16883
 hls.cntv.lxdns.com:443
 120.202.94.181:9446
+event.pull.hebtv.com:443
