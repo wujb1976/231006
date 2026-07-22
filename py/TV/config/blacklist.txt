@@ -139,3 +139,5 @@ dxtx.hntv.tv:443
 newcntv.qcloudcdn.com:80
 cm-wshls.homecdn.com:80
 1yp7hc5p.live.sxmty.com:443
+l2fpdktp.live.sxmty.com:443
+flvalipull2mgsplive.miguvideo.com:80
