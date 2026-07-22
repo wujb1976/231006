@@ -138,3 +138,4 @@ stream5.jlntv.cn:80
 dxtx.hntv.tv:443
 newcntv.qcloudcdn.com:80
 cm-wshls.homecdn.com:80
+1yp7hc5p.live.sxmty.com:443
