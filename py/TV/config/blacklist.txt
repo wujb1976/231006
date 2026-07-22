@@ -141,3 +141,7 @@ cm-wshls.homecdn.com:80
 1yp7hc5p.live.sxmty.com:443
 l2fpdktp.live.sxmty.com:443
 flvalipull2mgsplive.miguvideo.com:80
+hzcm-live.media.hugd.com:80
+183.11.239.36:808
+120.198.95.220:9901
+mgsp-ali2.live.miguvideo.com:8088
