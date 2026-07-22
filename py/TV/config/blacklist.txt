@@ -145,3 +145,10 @@ hzcm-live.media.hugd.com:80
 183.11.239.36:808
 120.198.95.220:9901
 mgsp-ali2.live.miguvideo.com:8088
+tntgjhjb.live.sxmty.com:443
+zjtv-wshls.homecdn.com:80
+ali-m-l.cztv.com:443
+615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn:80
+183.47.2.156:16883
+hls.cntv.lxdns.com:443
+120.202.94.181:9446
