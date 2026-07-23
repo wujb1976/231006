@@ -88,3 +88,8 @@ qmmqvzoz.live.sxmty.com:443
 183.129.255.66:8480
 183.11.239.36:808
 shcm-stream-cf1.stream.264788.xyz:443
+cdn9.163189.xyz:80
+zjtv-wshls.homecdn.com:80
+mgsp-ali2.live.miguvideo.com:8088
+tmpstream.hyrtv.cn:80
+e2.woc.iiiya.cn:28888
