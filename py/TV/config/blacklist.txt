@@ -102,3 +102,5 @@ flvalipull2mgsplive.miguvideo.com:80
 42.94.210.57:7788
 153.0.171.163:9901
 bp-resource-dfl.bestv.cn:80
+hslive.hsnewsnet.com:80
+125.42.151.217:9901
