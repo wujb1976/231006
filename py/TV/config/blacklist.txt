@@ -93,3 +93,12 @@ zjtv-wshls.homecdn.com:80
 mgsp-ali2.live.miguvideo.com:8088
 tmpstream.hyrtv.cn:80
 e2.woc.iiiya.cn:28888
+60.168.105.138:5008
+124.116.183.146:9901
+116.236.204.18:1234
+bp-resource-dfl.bestv.cn:443
+116.147.108.34:7788
+flvalipull2mgsplive.miguvideo.com:80
+42.94.210.57:7788
+153.0.171.163:9901
+bp-resource-dfl.bestv.cn:80
