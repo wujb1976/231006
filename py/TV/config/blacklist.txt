@@ -104,3 +104,4 @@ flvalipull2mgsplive.miguvideo.com:80
 bp-resource-dfl.bestv.cn:80
 hslive.hsnewsnet.com:80
 125.42.151.217:9901
+tntgjhjb.live.sxmty.com:443
