@@ -64,3 +64,12 @@ dxtx.hntv.tv:443
 stream11.jlntv.cn:80
 gctxyc.liveplay.myqcloud.com:80
 english-livetx.cgtn.com:80
+123.130.84.106:8154
+devlivepull.migucloud.com:80
+118.193.115.2:9901
+l.cztvcloud.com:443
+222.169.85.8:9901
+222.214.208.34:59901
+119.39.9.8:9901
+l2fpdktp.live.sxmty.com:443
+111.221.137.234:44330
