@@ -73,3 +73,11 @@ l.cztvcloud.com:443
 119.39.9.8:9901
 l2fpdktp.live.sxmty.com:443
 111.221.137.234:44330
+m3u8.channel.dzsm.com:443
+125.43.247.15:9901
+218.13.170.98:9901
+183.237.95.108:9901
+live.jinchuanrmt.com:90
+play.scrstv.com.cn:443
+116.233.67.80:8899
+101.66.194.177:9901
