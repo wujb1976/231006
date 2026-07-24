@@ -109,3 +109,6 @@ live.chinacert.cftest5.cn:443
 ls.qingting.fm:80
 182.61.15.163:80
 182.127.153.79:1234
+live.streamingfast.net:443
+live.xysrmt.cn:80
+222.179.155.21:1935
