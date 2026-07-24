@@ -118,3 +118,5 @@ hzcm-live.media.hugd.com:80
 cdn.jdshipin.com:8880
 l.cztvcloud.com:80
 liveout.xntv.tv:443
+125.42.151.53:9901
+my9.ltd:443
