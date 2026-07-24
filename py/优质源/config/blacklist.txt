@@ -102,3 +102,17 @@ bp-resource-dfl.bestv.cn
 gdcucc.v1.mk
 bp-livetytv.bestv.cn
 tvbox6.icu
+zjtv-wshls.homecdn.com
+www.goodiptv.club
+stream1.freetv.fun
+222.169.85.8
+play.scrstv.com.cn
+cm-wshls.homecdn.com
+222.223.41.27
+gmxw.7766.org
+183.11.239.36
+stream.thmz.com
+epg.pw
+124.116.183.146
+tpc.x3322.net
+110.154.192.66
