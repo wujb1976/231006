@@ -115,3 +115,6 @@ live.xysrmt.cn:80
 hzcm-live.media.hugd.com:80
 182.150.23.74:808
 222.179.42.129:8181
+cdn.jdshipin.com:8880
+l.cztvcloud.com:80
+liveout.xntv.tv:443
