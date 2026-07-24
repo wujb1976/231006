@@ -112,3 +112,6 @@ ls.qingting.fm:80
 live.streamingfast.net:443
 live.xysrmt.cn:80
 222.179.155.21:1935
+hzcm-live.media.hugd.com:80
+182.150.23.74:808
+222.179.42.129:8181
