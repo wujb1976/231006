@@ -120,3 +120,4 @@ l.cztvcloud.com:80
 liveout.xntv.tv:443
 125.42.151.53:9901
 my9.ltd:443
+epg.pw:443
