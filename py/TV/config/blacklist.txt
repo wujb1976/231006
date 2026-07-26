@@ -61,3 +61,5 @@ e2.woc.iiiya.cn:28888
 44911.hlsplay.aodianyun.com:443
 cm-wshls.homecdn.com:80
 tntgjhjb.live.sxmty.com:443
+1yp7hc5p.live.sxmty.com:443
+107.150.60.122:80
