@@ -18,3 +18,9 @@ bp-resource-dfl.bestv.cn:443
 hzcm-live.media.hugd.com:80
 lxfile.lxxcb.cn:80
 124.88.144.73:1935
+222.169.85.8:9901
+qmmqvzoz.live.sxmty.com:443
+222.134.245.16:9901
+www.lwfz.fun:8800
+shcm-stream-cf1.stream.264788.xyz:443
+zjtv-wshls.homecdn.com:80
