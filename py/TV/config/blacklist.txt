@@ -58,3 +58,4 @@ play.yunxya.com:443
 mgsp-ali2.live.miguvideo.com:8088
 live.shaoxing.com.cn:80
 e2.woc.iiiya.cn:28888
+44911.hlsplay.aodianyun.com:443
