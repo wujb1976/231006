@@ -146,3 +146,6 @@ stream.sun0769.com
 hlsal-ldvt.qing.mgtv.com
 gcalic.v.myalicdn.com
 api.kkitv.itv888.vip
+107.150.60.122
+69.30.245.50
+198.204.240.250
