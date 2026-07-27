@@ -51,3 +51,4 @@ jsmov2.a.yximgs.com:80
 124.116.183.146:9901
 116.233.67.80:8899
 dassby.qqff.top:99
+hzcm-live.media.hugd.com:80
