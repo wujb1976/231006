@@ -17,3 +17,7 @@ iptv.4666888.xyz:80
 124.88.144.73:1935
 tvfile.jjrm.org.cn:80
 104.250.145.76:80
+qmmqvzoz.live.sxmty.com:443
+ali-vl.cztv.com:80
+l2fpdktp.live.sxmty.com:443
+1yp7hc5p.live.sxmty.com:443
