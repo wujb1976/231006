@@ -39,3 +39,8 @@ gcalic.v.myalicdn.com:443
 gslbmgsplive.miguvideo.com:80
 gctxyc.liveplay.myqcloud.com:443
 42.94.210.57:7788
+res.cctvnews.cctv.com:443
+183.236.43.98:4013
+zjtv-wshls.homecdn.com:80
+video.epaper.pybtv.cn:8080
+cdn9.163189.xyz:80
