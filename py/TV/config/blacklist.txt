@@ -44,3 +44,10 @@ res.cctvnews.cctv.com:443
 zjtv-wshls.homecdn.com:80
 video.epaper.pybtv.cn:8080
 cdn9.163189.xyz:80
+bp-resource-dfl.bestv.cn:80
+bp-resource-dfl.bestv.cn:443
+hslive.hsnewsnet.com:80
+jsmov2.a.yximgs.com:80
+124.116.183.146:9901
+116.233.67.80:8899
+dassby.qqff.top:99
