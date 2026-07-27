@@ -26,3 +26,16 @@ uzoiczhh.live.sxmty.com:80
 play.scrstv.com.cn:443
 59.35.185.47:8188
 mgsp-ali2.live.miguvideo.com:8088
+110.154.192.36:7788
+60.168.105.138:5008
+gcalic.v.myalicdn.com:443
+119.88.243.98:17231
+182.127.153.16:1234
+116.52.173.95:1234
+182.61.15.163:80
+14.153.176.108:1234
+116.147.108.169:7788
+27.12.12.107:1234
+gslbmgsplive.miguvideo.com:80
+gctxyc.liveplay.myqcloud.com:443
+42.94.210.57:7788
