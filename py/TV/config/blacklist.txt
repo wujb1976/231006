@@ -84,3 +84,6 @@ l.cztvcloud.com:443
 hwapi.yntv.net:443
 gmxw.7766.org:808
 tmpstream.hyrtv.cn:80
+202.105.239.77:8188
+218.84.12.186:8002
+182.140.125.47:808
