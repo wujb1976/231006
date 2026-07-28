@@ -81,3 +81,6 @@ live.streamingfast.net:443
 182.150.23.74:808
 183.11.239.36:808
 l.cztvcloud.com:443
+hwapi.yntv.net:443
+gmxw.7766.org:808
+tmpstream.hyrtv.cn:80
