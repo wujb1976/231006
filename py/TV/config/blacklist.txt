@@ -102,3 +102,6 @@ satellitepull.cnr.cn:80
 stream.thmz.com:443
 125.42.151.53:9901
 pull-hls-f1.douyinliving.com:80
+223.247.25.227:1234
+ali-m-l.cztv.com:443
+116.236.204.18:1234
