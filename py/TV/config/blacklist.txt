@@ -112,3 +112,6 @@ rt-srb.rttv.com:443
 rt-glb.rttv.com:443
 123.163.114.121:9901
 p2hs.vzan.com:443
+live.spccmc.com:90
+8.135.27.147:1234
+106.42.108.174:7788
