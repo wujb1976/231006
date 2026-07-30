@@ -111,3 +111,4 @@ p2.bdstatic.com:443
 rt-srb.rttv.com:443
 rt-glb.rttv.com:443
 123.163.114.121:9901
+p2hs.vzan.com:443
