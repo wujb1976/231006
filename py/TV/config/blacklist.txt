@@ -34,3 +34,10 @@ idclive.hljtv.com:4430
 115.207.211.191:9901
 live1.habctv.com:80
 mg.cttv.vip:80
+play.scrstv.com.cn:443
+120.202.73.48:8888
+qmmqvzoz.live.sxmty.com:443
+218.13.170.98:9901
+l.cztvcloud.com:443
+123.130.84.106:8154
+jwplay.hebyun.com.cn:443
