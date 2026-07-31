@@ -41,3 +41,9 @@ qmmqvzoz.live.sxmty.com:443
 l.cztvcloud.com:443
 123.130.84.106:8154
 jwplay.hebyun.com.cn:443
+222.134.245.16:9901
+106.111.244.12:58099
+shcm-stream-cf1.stream.264788.xyz:443
+zjtv-wshls.homecdn.com:80
+116.233.67.80:8899
+uzoiczhh.live.sxmty.com:80
