@@ -70,3 +70,5 @@ gd202.tv1288.xyz:443
 hslive.hsnewsnet.com:80
 hzcm-live.media.hugd.com:80
 124.116.183.146:9901
+44911.hlsplay.aodianyun.com:443
+182.114.50.55:9901
