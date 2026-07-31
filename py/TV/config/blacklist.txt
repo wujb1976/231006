@@ -47,3 +47,7 @@ shcm-stream-cf1.stream.264788.xyz:443
 zjtv-wshls.homecdn.com:80
 116.233.67.80:8899
 uzoiczhh.live.sxmty.com:80
+vip1.xinketongxun.fun:8082
+182.150.115.21:8030
+218.84.12.186:8002
+59.35.185.47:8188
