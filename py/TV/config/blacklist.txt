@@ -64,3 +64,5 @@ lbyzztfe.live.sxmty.com:80
 tmpstream.hyrtv.cn:80
 l2fpdktp.live.sxmty.com:443
 e2.woc.iiiya.cn:28888
+gd202.tv1288.xyz:443
+183.223.157.33:9901
