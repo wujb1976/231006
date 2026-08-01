@@ -73,3 +73,6 @@ hzcm-live.media.hugd.com:80
 44911.hlsplay.aodianyun.com:443
 182.114.50.55:9901
 ali-vl.cztv.com:80
+111.8.224.6:9999
+cm-wshls.homecdn.com:80
+stream.thmz.com:80
