@@ -46,3 +46,4 @@ epg.pw:443
 lxajh.top:80
 live.streamingfast.net:443
 uzoiczhh.live.sxmty.com:80
+l2fpdktp.live.sxmty.com:443
