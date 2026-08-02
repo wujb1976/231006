@@ -69,3 +69,4 @@ tntgjhjb.live.sxmty.com:443
 183.237.95.108:9901
 gmxw.7766.org:808
 111.221.137.234:44330
+stream.thmz.com:80
