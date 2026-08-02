@@ -40,3 +40,9 @@ hslive.hsnewsnet.com:80
 116.236.204.18:1234
 genglei.8866.org:9901
 104.250.145.76:80
+ali-vl.cztv.com:80
+epg.pw:443
+123.130.84.106:8154
+lxajh.top:80
+live.streamingfast.net:443
+uzoiczhh.live.sxmty.com:80
