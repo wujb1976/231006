@@ -158,3 +158,4 @@ hzcm-live.media.hugd.com
 101.66.194.115
 153.0.171.163
 101.66.194.121
+shcm-stream-cf1.stream.264788.xyz
