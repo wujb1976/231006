@@ -47,3 +47,10 @@ stream.thmz.com:80
 124.116.183.146:9901
 uzoiczhh.live.sxmty.com:80
 218.13.170.98:9901
+stream11.jlntv.cn:80
+stream.thmz.com:443
+58.56.162.102:4466
+qmmqvzoz.live.sxmty.com:443
+l.cztvcloud.com:80
+183.237.95.108:9901
+l.cztvcloud.com:443
