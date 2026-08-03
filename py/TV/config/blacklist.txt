@@ -54,3 +54,9 @@ qmmqvzoz.live.sxmty.com:443
 l.cztvcloud.com:80
 183.237.95.108:9901
 l.cztvcloud.com:443
+e2.woc.iiiya.cn:28888
+111.221.137.234:44330
+112.123.243.37:50085
+l2fpdktp.live.sxmty.com:443
+gmxw.7766.org:808
+123.53.119.200:8089
