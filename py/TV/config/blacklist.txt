@@ -70,3 +70,6 @@ hzcm-live.media.hugd.com:80
 tntgjhjb.live.sxmty.com:443
 liveout.btzx.com.cn:443
 hls.cntv.lxdns.com:443
+116.233.67.80:8899
+bp-resource-dfl.bestv.cn:80
+bp-resource-dfl.bestv.cn:443
