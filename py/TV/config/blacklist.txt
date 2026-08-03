@@ -60,3 +60,8 @@ e2.woc.iiiya.cn:28888
 l2fpdktp.live.sxmty.com:443
 gmxw.7766.org:808
 123.53.119.200:8089
+115.48.160.81:9901
+tmpstream.hyrtv.cn:80
+223.247.25.247:1234
+tylive.kan0512.com:443
+mg.cttv.vip:80
