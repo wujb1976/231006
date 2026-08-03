@@ -43,3 +43,7 @@ gslbmgsplive.miguvideo.com:80
 222.130.32.99:7788
 223.83.177.142:1234
 123.130.84.106:8154
+stream.thmz.com:80
+124.116.183.146:9901
+uzoiczhh.live.sxmty.com:80
+218.13.170.98:9901
