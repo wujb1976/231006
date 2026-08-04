@@ -93,3 +93,4 @@ epg.pw:443
 182.150.115.21:8030
 125.42.151.53:9901
 play.scrstv.com.cn:443
+zjtv-wshls.homecdn.com:80
