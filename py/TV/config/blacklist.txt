@@ -104,3 +104,4 @@ goodiptv.club:443
 183.11.239.36:808
 hkstv.tv:443
 home.scanflove.com:7788
+live.jinchuanrmt.com:90
