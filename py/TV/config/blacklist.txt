@@ -100,3 +100,6 @@ www.9kds.com:443
 www.negative.top:50000
 p2hs.vzan.com:443
 59.39.89.130:60901
+goodiptv.club:443
+183.11.239.36:808
+hkstv.tv:443
