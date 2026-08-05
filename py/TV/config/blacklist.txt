@@ -103,3 +103,4 @@ p2hs.vzan.com:443
 goodiptv.club:443
 183.11.239.36:808
 hkstv.tv:443
+home.scanflove.com:7788
