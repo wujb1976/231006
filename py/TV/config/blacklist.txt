@@ -105,3 +105,6 @@ goodiptv.club:443
 hkstv.tv:443
 home.scanflove.com:7788
 live.jinchuanrmt.com:90
+live.streamingfast.net:443
+v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com:443
+44911.hlsplay.aodianyun.com:443
