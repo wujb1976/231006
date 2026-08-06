@@ -39,3 +39,7 @@ ali-vl.cztv.com:80
 218.81.49.34:10010
 tntgjhjb.live.sxmty.com:443
 play.scrstv.com.cn:443
+live.daningtv.com:80
+139.227.21.22:9901
+dxtx.hntv.tv:443
+222.179.42.129:8181
