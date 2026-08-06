@@ -43,3 +43,13 @@ live.daningtv.com:80
 139.227.21.22:9901
 dxtx.hntv.tv:443
 222.179.42.129:8181
+www.goodiptv.club:80
+183.237.95.108:9901
+123.118.55.165:45237
+l.cztvcloud.com:443
+stream.thmz.com:80
+cm-wshls.homecdn.com:80
+live.spccmc.com:90
+183.11.239.36:808
+59.39.89.130:60901
+218.13.170.98:9901
