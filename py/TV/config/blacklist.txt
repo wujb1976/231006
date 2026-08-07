@@ -78,3 +78,4 @@ shcm-stream-cf1.stream.264788.xyz:443
 tmpstream.hyrtv.cn:80
 zjrtv.vip:80
 english-livetx.cgtn.com:80
+satellitepull.cnr.cn:443
