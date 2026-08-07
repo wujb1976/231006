@@ -59,3 +59,8 @@ uzoiczhh.live.sxmty.com:80
 qmmqvzoz.live.sxmty.com:443
 hzcm-live.media.hugd.com:80
 live.jinchuanrmt.com:90
+cdn.jdshipin.com:8880
+bp-resource-dfl.bestv.cn:80
+bp-resource-dfl.bestv.cn:443
+lbyzztfe.live.sxmty.com:80
+106.111.244.12:58099
