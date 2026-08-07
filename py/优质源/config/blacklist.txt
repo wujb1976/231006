@@ -121,3 +121,7 @@ gslbmgsplive.miguvideo.com
 r.jdshipin.com
 111.228.4.117
 27.12.12.100
+123.118.55.165
+stream1.freetv.fun
+epg.pw
+tmpstream.hyrtv.cn
