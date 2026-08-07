@@ -66,3 +66,4 @@ lbyzztfe.live.sxmty.com:80
 106.111.244.12:58099
 m3u8.channel.dzsm.com:443
 114.233.242.79:4000
+stream.sun0769.com:443
