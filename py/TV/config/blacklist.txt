@@ -36,3 +36,6 @@ hzcm-live.media.hugd.com:80
 play.scrstv.com.cn:443
 218.13.170.98:9901
 139.203.180.9:90
+183.64.174.171:40123
+my9.ltd:443
+cm-wshls.homecdn.com:80
