@@ -56,3 +56,4 @@ l.cztvcloud.com:443
 61.178.227.57:9901
 183.223.157.33:9901
 cdn-4.pishow.tv:443
+shcm-stream-cf1.stream.264788.xyz:443
