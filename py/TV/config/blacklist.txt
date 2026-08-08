@@ -53,3 +53,6 @@ gslbmgsplive.miguvideo.com:80
 111.228.4.117:6789
 27.12.12.201:1234
 l.cztvcloud.com:443
+61.178.227.57:9901
+183.223.157.33:9901
+cdn-4.pishow.tv:443
