@@ -27,3 +27,7 @@ tvfile.jjrm.org.cn:80
 lxfile.lxxcb.cn:80
 cdn9.163189.xyz:80
 3gvod.zjgonline.com.cn:1935
+cm-wshls.homecdn.com:80
+125.42.148.9:9901
+221.13.235.58:9901
+satellitepull.cnr.cn:443
