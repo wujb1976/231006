@@ -137,3 +137,6 @@ l2fpdktp.live.sxmty.com
 play.scrstv.com.cn
 27.12.12.201
 111.8.224.6
+cm-wshls.homecdn.com
+ali-m-l.cztv.com
+tntgjhjb.live.sxmty.com
