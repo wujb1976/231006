@@ -29,3 +29,5 @@ epg.pw:443
 l2fpdktp.live.sxmty.com:443
 218.84.12.186:8002
 bp-resource-dfl.bestv.cn:80
+111.4.59.41:60901
+zjtv-wshls.homecdn.com:80
