@@ -59,3 +59,4 @@ cdn-4.pishow.tv:443
 shcm-stream-cf1.stream.264788.xyz:443
 183.237.95.108:9901
 139.227.21.22:9901
+tmpstream.hyrtv.cn:80
