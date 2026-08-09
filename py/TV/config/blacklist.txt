@@ -77,3 +77,5 @@ www.goodiptv.club:80
 123.118.53.84:45237
 l.cztvcloud.com:80
 122.224.58.42:85
+tmpstream.hyrtv.cn:80
+p2.vzan.com:443
