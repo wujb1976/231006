@@ -28,3 +28,9 @@ idclive.hljtv.com:4430
 ali-vl.cztv.com:80
 113.120.243.10:7788
 lxfile.lxxcb.cn:80
+qmmqvzoz.live.sxmty.com:443
+bp-resource-dfl.bestv.cn:443
+123.130.84.106:8154
+l.cztvcloud.com:443
+123.118.53.84:45237
+bp-resource-dfl.bestv.cn:80
