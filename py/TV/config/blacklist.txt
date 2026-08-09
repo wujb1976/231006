@@ -34,3 +34,11 @@ bp-resource-dfl.bestv.cn:443
 l.cztvcloud.com:443
 123.118.53.84:45237
 bp-resource-dfl.bestv.cn:80
+tpc.x3322.net:9901
+116.233.67.80:8899
+zjtv-wshls.homecdn.com:80
+222.169.85.8:9901
+123.118.55.165:45237
+223.78.65.165:9901
+hzcm-live.media.hugd.com:80
+uzoiczhh.live.sxmty.com:80
