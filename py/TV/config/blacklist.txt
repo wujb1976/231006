@@ -54,3 +54,7 @@ www.lwfz.fun:8800
 112.123.243.37:50085
 l2fpdktp.live.sxmty.com:443
 183.220.20.17:4321
+101.66.194.210:9901
+live.xysrmt.cn:80
+139.227.21.22:9901
+uzoiczhh.live.sxmty.com:80
