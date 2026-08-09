@@ -71,3 +71,9 @@ stream.sun0769.com:443
 shcm-stream-cf1.stream.264788.xyz:443
 stream.thmz.com:443
 www.goodiptv.club:80
+218.84.127.245:1026
+183.11.239.36:808
+182.123.208.111:9901
+123.118.53.84:45237
+l.cztvcloud.com:80
+122.224.58.42:85
