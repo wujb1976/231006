@@ -42,3 +42,14 @@ zjtv-wshls.homecdn.com:80
 223.78.65.165:9901
 hzcm-live.media.hugd.com:80
 uzoiczhh.live.sxmty.com:80
+3gvod.zjgonline.com.cn:1935
+l2fpdktp.live.sxmty.com:443
+218.13.170.98:9901
+124.88.144.73:1935
+p2.bdstatic.com:443
+116.52.173.100:1234
+cm-wshls.homecdn.com:80
+play.scrstv.com.cn:443
+live.yantaitv.cn:80
+110.6.137.4:9901
+tvfile.jjrm.org.cn:80
