@@ -110,3 +110,8 @@ cdn.jdshipin.com:8880
 111.76.19.115:1234
 cdn9.163189.xyz:80
 shcm-stream-cf1.stream.264788.xyz:443
+hls.cntv.lxdns.com:443
+tntgjhjb.live.sxmty.com:443
+101.66.199.253:9901
+101.66.199.65:9901
+tmpstream.hyrtv.cn:80
