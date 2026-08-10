@@ -92,3 +92,5 @@ txycdn3.video.qq.com:80
 1yp7hc5p.live.sxmty.com:443
 liveout.btzx.com.cn:80
 60.222.246.220:19433
+61.178.227.57:9901
+e2.woc.iiiya.cn:28888
