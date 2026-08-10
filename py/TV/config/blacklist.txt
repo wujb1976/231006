@@ -108,3 +108,5 @@ zjrtv.vip:80
 vip1.xinketongxun.fun:8082
 cdn.jdshipin.com:8880
 111.76.19.115:1234
+cdn9.163189.xyz:80
+shcm-stream-cf1.stream.264788.xyz:443
