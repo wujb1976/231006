@@ -89,3 +89,6 @@ newcntv.qcloudcdn.com:443
 stream10.jlntv.cn:80
 txycdn1.video.qq.com:80
 txycdn3.video.qq.com:80
+1yp7hc5p.live.sxmty.com:443
+liveout.btzx.com.cn:80
+60.222.246.220:19433
