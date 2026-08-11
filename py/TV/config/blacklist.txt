@@ -86,3 +86,8 @@ bp-resource-dfl.bestv.cn:80
 bp-resource-dfl.bestv.cn:443
 zjrtv.vip:80
 hls.cntv.lxdns.com:443
+139.203.180.9:90
+183.220.20.17:4321
+live.jinchuanrmt.com:90
+gmxw.7766.org:808
+113.57.140.161:10081
