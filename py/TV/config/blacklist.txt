@@ -72,3 +72,6 @@ rihou.cc:555
 120.198.86.186:9901
 stream10.jlntv.cn:80
 111.8.242.127:9999
+121.57.88.206:898
+zjtv-wshls.homecdn.com:80
+live.streamingfast.net:443
