@@ -75,3 +75,6 @@ stream10.jlntv.cn:80
 121.57.88.206:898
 zjtv-wshls.homecdn.com:80
 live.streamingfast.net:443
+utv1.hqtvzb.com:9999
+stream.thmz.com:443
+p2.bdstatic.com:443
