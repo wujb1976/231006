@@ -91,3 +91,5 @@ hls.cntv.lxdns.com:443
 live.jinchuanrmt.com:90
 gmxw.7766.org:808
 113.57.140.161:10081
+106.111.244.12:58099
+php.jdshipin.com:8880
