@@ -35,3 +35,5 @@ genglei.8866.org:9901
 live1.habctv.com:80
 tv.drs.ganzitv.com:8100
 183.162.104.72:1234
+hzcm-live.media.hugd.com:80
+123.130.84.106:8154
