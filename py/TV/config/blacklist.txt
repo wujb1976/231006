@@ -78,3 +78,9 @@ live.streamingfast.net:443
 utv1.hqtvzb.com:9999
 stream.thmz.com:443
 p2.bdstatic.com:443
+36.136.38.87:9901
+cdn.jdshipin.com:8880
+118.193.115.2:9901
+bp-resource-dfl.bestv.cn:80
+112.123.243.37:50085
+bp-resource-dfl.bestv.cn:443
