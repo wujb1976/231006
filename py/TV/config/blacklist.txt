@@ -84,3 +84,5 @@ cdn.jdshipin.com:8880
 bp-resource-dfl.bestv.cn:80
 112.123.243.37:50085
 bp-resource-dfl.bestv.cn:443
+zjrtv.vip:80
+hls.cntv.lxdns.com:443
