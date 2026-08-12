@@ -64,3 +64,9 @@ www.lwfz.fun:8800
 p2.ioioz.com:80
 39.164.143.66:13994
 111.76.19.115:1234
+bp-resource-dfl.bestv.cn:443
+m3u8.channel.dzsm.com:443
+123.118.53.84:45237
+goodiptv.club:443
+123.118.55.165:45237
+8.138.7.223:80
