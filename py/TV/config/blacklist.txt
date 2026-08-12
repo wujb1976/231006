@@ -85,3 +85,7 @@ bp-resource-dfl.bestv.cn:80
 l.cztvcloud.com:443
 gctxyc.liveplay.myqcloud.com:443
 play.scrstv.com.cn:443
+110.72.61.221:8181
+222.179.42.129:8181
+113.26.202.52:1299
+119.39.9.8:9901
