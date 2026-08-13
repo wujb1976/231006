@@ -78,3 +78,5 @@ tntgjhjb.live.sxmty.com:443
 live.eac-news.com:443
 119.39.9.8:9901
 1.192.152.76:9901
+my9.ltd:443
+39.164.143.66:13994
