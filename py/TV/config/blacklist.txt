@@ -59,3 +59,14 @@ play.jinnantv.top:80
 bp-resource-dfl.bestv.cn:80
 bp-resource-dfl.bestv.cn:443
 uzoiczhh.live.sxmty.com:80
+123.118.53.84:45237
+120.238.84.45:9901
+svip.high24-playback.com:443
+vip.ffzy-play.com:443
+222.169.85.8:9901
+vip.ffzy-online.com:443
+vip.ffzy-play6.com:443
+lbyzztfe.live.sxmty.com:80
+vip.ffzy-play1.com:443
+vip.ffzy-play7.com:443
+zjtv-wshls.homecdn.com:80
