@@ -69,3 +69,6 @@ nn.7x9d.cn:80
 120.198.86.186:9901
 113.26.202.52:1299
 gd202.tv1288.xyz:443
+stream.thmz.com:80
+e2.woc.iiiya.cn:28888
+live.ottiptv.cc:443
