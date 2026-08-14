@@ -80,3 +80,5 @@ tntgjhjb.live.sxmty.com:443
 amdlive-ch01-ctnd-com.akamaized.net:443
 58.56.162.102:4466
 tmpstream.hyrtv.cn:80
+shcm-stream-cf1.stream.264788.xyz:443
+ali-vl.cztv.com:80
