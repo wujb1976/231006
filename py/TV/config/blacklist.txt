@@ -54,3 +54,11 @@ bp-resource-dfl.bestv.cn:443
 qmmqvzoz.live.sxmty.com:443
 61.178.227.57:9901
 111.8.242.127:9999
+cdn.jdshipin.com:8880
+183.129.255.66:8480
+112.123.243.37:50085
+zmgd.zyrnet.com:8888
+223.78.65.165:9901
+r.jdshipin.com:80
+110.72.61.221:8181
+live.eac-news.com:443
