@@ -48,3 +48,6 @@ hzcm-live.media.hugd.com:80
 cm-wshls.homecdn.com:80
 111.228.4.117:6789
 l.cztvcloud.com:443
+1yp7hc5p.live.sxmty.com:443
+bp-resource-dfl.bestv.cn:80
+bp-resource-dfl.bestv.cn:443
