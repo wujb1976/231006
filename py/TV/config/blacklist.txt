@@ -99,3 +99,6 @@ gmxw.7766.org:808
 my9.ltd:443
 hslive.hsnewsnet.com:80
 120.238.84.45:9901
+171.38.148.188:9003
+tmpstream.hyrtv.cn:80
+120.196.235.42:9901
