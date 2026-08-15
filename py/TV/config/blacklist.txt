@@ -77,3 +77,9 @@ ali-m-l.cztv.com:443
 111.8.224.6:9999
 183.237.95.108:9901
 stream.thmz.com:80
+rt-srb.rttv.com:443
+rt-ger.rttv.com:443
+rt-arb.rttv.com:443
+rt-esp.rttv.com:443
+rt-fra.rttv.com:443
+183.234.143.5:9902
