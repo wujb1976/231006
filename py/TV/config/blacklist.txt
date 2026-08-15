@@ -64,3 +64,9 @@ gslbmgsplive.miguvideo.com:80
 106.111.244.12:58099
 183.47.2.156:16883
 119.39.9.8:9901
+m3u8.channel.dzsm.com:443
+139.214.181.174:9901
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
+shcm-stream-cf1.stream.264788.xyz:443
+l2fpdktp.live.sxmty.com:443
