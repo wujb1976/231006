@@ -70,3 +70,10 @@ bp-resource-dfl.bestv.cn:443
 bp-resource-dfl.bestv.cn:80
 shcm-stream-cf1.stream.264788.xyz:443
 l2fpdktp.live.sxmty.com:443
+www.goodiptv.club:80
+hzcm-live.media.hugd.com:80
+ali-m-l.cztv.com:443
+222.169.85.8:9901
+111.8.224.6:9999
+183.237.95.108:9901
+stream.thmz.com:80
