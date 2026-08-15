@@ -162,3 +162,7 @@ bp-resource-dfl.bestv.cn
 lbds.us.ci
 8.135.27.147
 183.185.66.248
+cm-wshls.homecdn.com
+111.231.6.102
+event.pull.hebtv.com
+ali-m-l.cztv.com
