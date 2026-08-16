@@ -172,3 +172,5 @@ qmmqvzoz.live.sxmty.com
 120.238.84.45
 183.142.200.28
 139.214.181.174
+139.214.181.142
+live.streamingfast.net
