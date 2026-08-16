@@ -60,3 +60,4 @@ gslbmgsplive.miguvideo.com:80
 183.237.95.108:9901
 119.39.9.8:9901
 183.142.200.28:9901
+zjtv-wshls.homecdn.com:80
