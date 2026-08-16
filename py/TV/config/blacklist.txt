@@ -29,3 +29,8 @@ svip.high24-playback.com:443
 139.227.21.22:9901
 idclive.hljtv.com:4430
 101.66.199.102:9901
+qmmqvzoz.live.sxmty.com:443
+61.178.227.57:9901
+tntgjhjb.live.sxmty.com:443
+124.116.183.146:9901
+m3u8.channel.dzsm.com:443
