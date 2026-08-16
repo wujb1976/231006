@@ -168,3 +168,7 @@ event.pull.hebtv.com
 ali-m-l.cztv.com
 36.136.11.230
 qmmqvzoz.live.sxmty.com
+104.152.209.49
+120.238.84.45
+183.142.200.28
+139.214.181.174
