@@ -71,3 +71,11 @@ cm-wshls.homecdn.com:80
 139.214.181.142:9901
 36.136.38.87:9901
 222.137.229.140:9901
+cdn8.163189.xyz:443
+hzcm-live.media.hugd.com:80
+cdn.163189.xyz:80
+rt-fra.rttv.com:443
+182.150.23.74:808
+cdn2.163189.xyz:80
+cdn6.163189.xyz:80
+cdn6.163189.xyz:443
