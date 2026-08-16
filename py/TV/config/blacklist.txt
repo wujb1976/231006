@@ -79,3 +79,7 @@ rt-fra.rttv.com:443
 cdn2.163189.xyz:80
 cdn6.163189.xyz:80
 cdn6.163189.xyz:443
+183.11.239.36:808
+my9.ltd:443
+183.64.174.171:40123
+stream.thmz.com:80
