@@ -74,3 +74,5 @@ cm-wshls.homecdn.com:80
 l2fpdktp.live.sxmty.com:443
 111.59.24.227:8181
 36.136.38.87:9901
+play.yunxya.com:443
+my9.ltd:443
