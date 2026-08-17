@@ -76,3 +76,7 @@ l2fpdktp.live.sxmty.com:443
 36.136.38.87:9901
 play.yunxya.com:443
 my9.ltd:443
+gmxw.7766.org:808
+e2.woc.iiiya.cn:28888
+218.13.170.98:9901
+123.131.232.48:9901
