@@ -61,3 +61,8 @@ cdn9.163189.xyz:80
 218.13.138.139:59901
 stream.thmz.com:80
 p2.bdstatic.com:443
+hzcm-live.media.hugd.com:80
+shcm-stream-cf1.stream.264788.xyz:443
+111.8.224.6:9999
+event.pull.hebtv.com:80
+zjtv-wshls.homecdn.com:80
