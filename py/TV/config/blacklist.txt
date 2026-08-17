@@ -14,3 +14,7 @@ idclive.hljtv.com:4430
 rihou.cc:555
 113.120.243.10:7788
 111.76.19.115:1234
+live.ottiptv.cc:443
+44911.hlsplay.aodianyun.com:443
+116.233.67.80:8899
+27.39.122.2:9901
