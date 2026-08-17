@@ -66,3 +66,6 @@ shcm-stream-cf1.stream.264788.xyz:443
 111.8.224.6:9999
 event.pull.hebtv.com:80
 zjtv-wshls.homecdn.com:80
+27.39.122.2:9901
+cm-wshls.homecdn.com:80
+1yp7hc5p.live.sxmty.com:443
