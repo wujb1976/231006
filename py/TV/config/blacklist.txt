@@ -45,3 +45,9 @@ shcm-stream-cf1.stream.264788.xyz:443
 cm-wshls.homecdn.com:80
 171.38.148.188:9003
 lbyzztfe.live.sxmty.com:80
+123.118.53.84:45237
+112.27.235.94:8000
+hzcm-live.media.hugd.com:80
+stream.thmz.com:443
+1yp7hc5p.live.sxmty.com:443
+m3u8.channel.dzsm.com:443
