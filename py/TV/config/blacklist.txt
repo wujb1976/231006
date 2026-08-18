@@ -42,3 +42,6 @@ qmmqvzoz.live.sxmty.com:443
 112.123.243.37:50085
 shcm-stream-cf1.stream.264788.xyz:443
 123.118.55.165:45237
+cm-wshls.homecdn.com:80
+171.38.148.188:9003
+lbyzztfe.live.sxmty.com:80
