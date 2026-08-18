@@ -24,3 +24,14 @@ live.ottiptv.cc:443
 cdn9.163189.xyz:80
 e2.woc.iiiya.cn:28888
 www.lwfz.fun:8800
+channel.wcrmt.cn:80
+video.epaper.pybtv.cn:8080
+tv.drs.ganzitv.com:8100
+lxfile.lxxcb.cn:80
+live1.habctv.com:80
+3gvod.zjgonline.com.cn:1935
+tvfile.jjrm.org.cn:80
+live.yantaitv.cn:80
+139.214.181.159:9901
+124.88.144.73:1935
+l.cztvcloud.com:443
