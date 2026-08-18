@@ -23,3 +23,7 @@ rihou.cc:555
 lxfile.lxxcb.cn:80
 104.152.209.49:8181
 tv.drs.ganzitv.com:8100
+cm-wshls.homecdn.com:80
+139.227.21.22:9901
+139.214.181.174:9901
+l.cztvcloud.com:443
