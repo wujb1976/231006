@@ -65,3 +65,8 @@ epg.pw:443
 live.zzyxxw.com:2443
 104.152.209.49:8181
 139.227.21.22:9901
+zjtv-wshls.homecdn.com:80
+223.247.25.235:1234
+112.27.5.218:9901
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
