@@ -69,3 +69,7 @@ gslbmgsplive.miguvideo.com:80
 223.247.25.235:1234
 60.168.105.165:5008
 27.12.12.101:1234
+russian-livews.cgtn.com:80
+223.78.65.165:9901
+dassby.qqff.top:99
+qmmqvzoz.live.sxmty.com:443
