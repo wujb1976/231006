@@ -73,3 +73,5 @@ russian-livews.cgtn.com:80
 223.78.65.165:9901
 dassby.qqff.top:99
 qmmqvzoz.live.sxmty.com:443
+play.yunxya.com:443
+171.38.148.188:9003
