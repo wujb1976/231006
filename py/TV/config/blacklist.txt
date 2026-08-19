@@ -84,3 +84,9 @@ lbyzztfe.live.sxmty.com:80
 111.8.242.142:9999
 222.137.229.140:9901
 1yp7hc5p.live.sxmty.com:443
+my9.ltd:443
+183.237.95.108:9901
+27.39.122.2:9901
+shcm-stream-cf1.stream.264788.xyz:443
+lmt.scqstv.com:80
+183.236.43.98:4013
