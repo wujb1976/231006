@@ -104,3 +104,4 @@ hzcm-live.media.hugd.com:80
 116.52.173.151:1234
 44911.hlsplay.aodianyun.com:443
 hslive.hsnewsnet.com:80
+live.xysrmt.cn:80
