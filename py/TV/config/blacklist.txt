@@ -98,3 +98,5 @@ tpc.x3322.net:9901
 222.71.55.147:9901
 tntgjhjb.live.sxmty.com:443
 182.37.41.46:8154
+ali-vl.cztv.com:80
+m3u8.channel.dzsm.com:443
