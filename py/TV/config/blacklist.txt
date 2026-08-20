@@ -21,3 +21,14 @@ play.scrstv.com.cn:443
 220.187.222.240:9901
 my9.ltd:443
 tntgjhjb.live.sxmty.com:443
+101.81.77.3:9999
+l.cztvcloud.com:443
+111.59.24.227:8181
+110.72.71.52:8181
+113.65.7.6:7088
+hzcm-live.media.hugd.com:80
+112.249.75.196:9989
+tpc.x3322.net:9901
+cm-wshls.homecdn.com:80
+lbyzztfe.live.sxmty.com:80
+zjtv-wshls.homecdn.com:80
