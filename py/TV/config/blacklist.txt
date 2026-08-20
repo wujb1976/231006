@@ -105,3 +105,4 @@ hzcm-live.media.hugd.com:80
 44911.hlsplay.aodianyun.com:443
 hslive.hsnewsnet.com:80
 live.xysrmt.cn:80
+222.163.204.42:9003
