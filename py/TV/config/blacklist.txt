@@ -113,3 +113,5 @@ live.xysrmt.cn:80
 118.254.148.47:4022
 58.255.200.180:10443
 106.57.0.153:55555
+tmpstream.hyrtv.cn:80
+l.cztvcloud.com:80
