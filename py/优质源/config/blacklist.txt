@@ -126,3 +126,7 @@ r.jdshipin.com
 223.247.25.235
 live-play-hls.cctvnews.cctv.com
 live.metshop.top
+rt-srb.rttv.com
+shcm-stream-cf1.stream.264788.xyz
+120.238.84.45
+116.52.173.151
