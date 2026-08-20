@@ -15,3 +15,9 @@ live1.habctv.com:80
 tvfile.jjrm.org.cn:80
 1yp7hc5p.live.sxmty.com:443
 idclive.hljtv.com:4430
+112.123.243.37:50085
+play.scrstv.com.cn:443
+61.178.227.57:9901
+220.187.222.240:9901
+my9.ltd:443
+tntgjhjb.live.sxmty.com:443
