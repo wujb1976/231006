@@ -53,3 +53,5 @@ stream.thmz.com:80
 live.ottiptv.cc:443
 58.35.95.16:20009
 112.27.5.218:9901
+44911.hlsplay.aodianyun.com:443
+222.179.42.129:8181
