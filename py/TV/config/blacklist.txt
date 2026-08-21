@@ -24,3 +24,15 @@ tvfile.jjrm.org.cn:80
 tv.drs.ganzitv.com:8100
 play.yunxya.com:443
 bp-resource-dfl.bestv.cn:80
+play.jinnantv.top:80
+116.236.204.18:1234
+42.94.210.16:7788
+gslbmgsplive.miguvideo.com:80
+61.178.227.57:9901
+113.120.243.10:7788
+223.247.25.235:1234
+116.52.173.151:1234
+44911.hlsplay.aodianyun.com:443
+221.205.61.95:9003
+110.154.192.81:7788
+27.12.12.101:1234
