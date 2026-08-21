@@ -49,3 +49,4 @@ bp-resource-dfl.bestv.cn:80
 bp-resource-dfl.bestv.cn:443
 60.187.246.137:9901
 223.78.65.165:9901
+stream.thmz.com:80
