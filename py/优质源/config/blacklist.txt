@@ -143,3 +143,7 @@ tpc.x3322.net
 111.8.242.142
 223.78.65.165
 play.scrstv.com.cn
+live.qthnews.org.cn
+play.yunxya.com
+txmov2.a.kwimgs.com
+218.13.138.139
