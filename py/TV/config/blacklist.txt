@@ -55,3 +55,11 @@ shcm-stream-cf1.stream.264788.xyz:443
 183.6.80.98:9901
 p2.bdstatic.com:443
 l2fpdktp.live.sxmty.com:443
+221.232.198.40:7777
+221.226.51.220:50081
+113.65.7.6:7088
+1yp7hc5p.live.sxmty.com:443
+119.131.25.143:9003
+cm-wshls.homecdn.com:80
+123.118.53.84:45237
+117.86.76.172:55555
