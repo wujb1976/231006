@@ -65,3 +65,7 @@ cm-wshls.homecdn.com:80
 117.86.76.172:55555
 qmmqvzoz.live.sxmty.com:443
 live.ottiptv.cc:443
+ls.qingting.fm:80
+ls.qingting.fm:443
+49.73.29.217:9999
+goodiptv.club:443
