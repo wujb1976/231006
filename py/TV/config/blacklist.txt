@@ -74,3 +74,8 @@ bztv.tvbus.cc:8081
 118.254.148.47:4022
 play.scrstv.com.cn:443
 221.222.176.205:8888
+125.109.24.55:21318
+p2.ioioz.com:80
+tmpstream.hyrtv.cn:80
+44911.hlsplay.aodianyun.com:443
+my9.ltd:443
