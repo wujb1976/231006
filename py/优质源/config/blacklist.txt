@@ -148,3 +148,5 @@ play.yunxya.com
 txmov2.a.kwimgs.com
 218.13.138.139
 120.237.39.10
+stream5.jlntv.cn
+119.166.53.110
