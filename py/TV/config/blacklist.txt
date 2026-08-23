@@ -54,3 +54,8 @@ zjtv-wshls.homecdn.com:80
 l2fpdktp.live.sxmty.com:443
 223.247.25.235:1234
 116.52.173.151:1234
+cm-wshls.homecdn.com:80
+bp-resource-dfl.bestv.cn:443
+182.150.23.74:808
+www.goodiptv.club:80
+bp-resource-dfl.bestv.cn:80
