@@ -59,3 +59,4 @@ bp-resource-dfl.bestv.cn:443
 182.150.23.74:808
 www.goodiptv.club:80
 bp-resource-dfl.bestv.cn:80
+lbyzztfe.live.sxmty.com:80
