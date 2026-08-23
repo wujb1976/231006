@@ -60,3 +60,11 @@ bp-resource-dfl.bestv.cn:443
 www.goodiptv.club:80
 bp-resource-dfl.bestv.cn:80
 lbyzztfe.live.sxmty.com:80
+epg.pw:443
+119.39.9.8:9901
+211.92.102.44:9901
+118.193.115.2:9901
+119.166.53.110:9901
+111.59.24.227:8181
+113.25.252.226:9901
+112.249.75.196:9989
