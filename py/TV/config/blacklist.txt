@@ -70,3 +70,7 @@ epg.pw:443
 112.249.75.196:9989
 www.yao87.com:4022
 dxtx.hntv.tv:443
+bztv.tvbus.cc:8081
+118.254.148.47:4022
+play.scrstv.com.cn:443
+221.222.176.205:8888
