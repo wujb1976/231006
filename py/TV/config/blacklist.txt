@@ -25,3 +25,11 @@ hzcm-live.media.hugd.com:80
 123.118.53.84:45237
 219.147.245.238:25480
 tpc.x3322.net:9901
+211.92.102.44:9901
+218.13.138.139:59901
+218.13.170.98:9901
+bp-resource-dfl.bestv.cn:80
+l2fpdktp.live.sxmty.com:443
+119.39.9.8:9901
+1yp7hc5p.live.sxmty.com:443
+bp-resource-dfl.bestv.cn:443
