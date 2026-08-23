@@ -19,3 +19,9 @@ live1.habctv.com:80
 www.lwfz.fun:8800
 live.yantaitv.cn:80
 play.scrstv.com.cn:443
+cm-wshls.homecdn.com:80
+hzcm-live.media.hugd.com:80
+61.178.227.57:9901
+123.118.53.84:45237
+219.147.245.238:25480
+tpc.x3322.net:9901
