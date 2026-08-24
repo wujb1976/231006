@@ -64,3 +64,5 @@ lbyzztfe.live.sxmty.com:80
 p2hs.vzan.com:443
 zjtv-wshls.homecdn.com:80
 218.84.12.186:8002
+tmpstream.hyrtv.cn:80
+live.xysrmt.cn:80
