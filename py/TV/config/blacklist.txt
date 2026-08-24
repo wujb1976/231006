@@ -34,3 +34,7 @@ l2fpdktp.live.sxmty.com:443
 1yp7hc5p.live.sxmty.com:443
 bp-resource-dfl.bestv.cn:443
 ali-vl.cztv.com:80
+182.150.115.21:8030
+epg.pw:443
+123.118.55.165:45237
+112.115.49.181:4915
