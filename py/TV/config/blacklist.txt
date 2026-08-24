@@ -33,3 +33,4 @@ l2fpdktp.live.sxmty.com:443
 119.39.9.8:9901
 1yp7hc5p.live.sxmty.com:443
 bp-resource-dfl.bestv.cn:443
+ali-vl.cztv.com:80
