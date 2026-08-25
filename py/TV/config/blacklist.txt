@@ -69,3 +69,5 @@ zjtv-wshls.homecdn.com:80
 124.165.232.26:8085
 125.121.25.179:9988
 120.40.39.246:352
+hzcm-live.media.hugd.com:80
+ls.qingting.fm:80
