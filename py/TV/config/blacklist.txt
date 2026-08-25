@@ -41,3 +41,6 @@ ali-vl.cztv.com:80
 tmpstream.hyrtv.cn:80
 cm-wshls.homecdn.com:80
 1.28.123.148:9901
+139.203.180.9:90
+my9.ltd:443
+l2fpdktp.live.sxmty.com:443
