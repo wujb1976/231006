@@ -21,3 +21,8 @@ lxfile.lxxcb.cn:80
 3gvod.zjgonline.com.cn:1935
 zjtv-wshls.homecdn.com:80
 123.118.55.165:45237
+111.59.24.227:8181
+31.43.191.125:8080
+27.39.122.2:9901
+qmmqvzoz.live.sxmty.com:443
+l2fpdktp.live.sxmty.com:443
