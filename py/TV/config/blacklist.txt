@@ -45,3 +45,5 @@ live.xysrmt.cn:80
 m3u8.channel.dzsm.com:443
 p2hs.vzan.com:443
 satellitepull.cnr.cn:80
+39.87.249.126:8090
+lbyzztfe.live.sxmty.com:80
