@@ -35,3 +35,13 @@ gslbmgsplive.miguvideo.com:80
 106.111.244.12:58099
 hzcm-live.media.hugd.com:80
 live.xysrmt.cn:80
+183.237.95.108:9901
+42.94.210.16:7788
+223.247.25.219:1234
+1yp7hc5p.live.sxmty.com:443
+27.12.12.101:1234
+113.120.243.10:7788
+110.154.192.81:7788
+m3u8.channel.dzsm.com:443
+p2hs.vzan.com:443
+satellitepull.cnr.cn:80
