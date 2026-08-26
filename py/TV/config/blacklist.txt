@@ -51,3 +51,7 @@ bp-resource-dfl.bestv.cn:80
 61.178.227.57:9901
 bp-resource-dfl.bestv.cn:443
 stream.thmz.com:443
+epg.pw:443
+rihou.cc:555
+113.90.154.189:9901
+112.27.5.218:9901
