@@ -55,3 +55,5 @@ epg.pw:443
 rihou.cc:555
 113.90.154.189:9901
 112.27.5.218:9901
+www.goodiptv.club:80
+ali-vl.cztv.com:80
