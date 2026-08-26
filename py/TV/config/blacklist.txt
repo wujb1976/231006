@@ -47,3 +47,7 @@ p2hs.vzan.com:443
 satellitepull.cnr.cn:80
 39.87.249.126:8090
 lbyzztfe.live.sxmty.com:80
+bp-resource-dfl.bestv.cn:80
+61.178.227.57:9901
+bp-resource-dfl.bestv.cn:443
+stream.thmz.com:443
