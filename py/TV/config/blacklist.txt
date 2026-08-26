@@ -14,3 +14,13 @@ genglei.8866.org:9901
 112.27.5.218:9901
 ali-vl.cztv.com:80
 live1.habctv.com:80
+119.39.9.8:9901
+tvfile.jjrm.org.cn:80
+lbyzztfe.live.sxmty.com:80
+27.12.12.101:1234
+hzcm-live.media.hugd.com:80
+live.yantaitv.cn:80
+3gvod.zjgonline.com.cn:1935
+124.88.144.73:1935
+31.43.191.125:8080
+218.13.138.139:59901
