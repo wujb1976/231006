@@ -134,3 +134,6 @@ ali-vl.cztv.com
 113.90.154.189
 27.12.12.101
 hzcm-live.media.hugd.com
+www.cdnstv.com
+113.9.214.47
+live.jinchuanrmt.com
