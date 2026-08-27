@@ -40,3 +40,7 @@ play.scrstv.com.cn:443
 gslbmgsplive.miguvideo.com:80
 113.9.214.47:9003
 223.78.65.165:9901
+bp-resource-dfl.bestv.cn:443
+124.165.232.26:8082
+tntgjhjb.live.sxmty.com:443
+bp-resource-dfl.bestv.cn:80
