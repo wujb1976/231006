@@ -132,3 +132,5 @@ m3u8.channel.dzsm.com
 satellitepull.cnr.cn
 ali-vl.cztv.com
 113.90.154.189
+27.12.12.101
+hzcm-live.media.hugd.com
