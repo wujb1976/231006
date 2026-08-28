@@ -137,3 +137,7 @@ hzcm-live.media.hugd.com
 www.cdnstv.com
 113.9.214.47
 live.jinchuanrmt.com
+stream9.jlntv.cn
+116.52.173.172
+117.63.79.182
+27.12.12.174
