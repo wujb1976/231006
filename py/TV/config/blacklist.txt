@@ -44,3 +44,6 @@ bp-resource-dfl.bestv.cn:443
 124.165.232.26:8082
 tntgjhjb.live.sxmty.com:443
 bp-resource-dfl.bestv.cn:80
+live.streamingfast.net:443
+222.169.85.8:9901
+live.zzyxxw.com:2443
