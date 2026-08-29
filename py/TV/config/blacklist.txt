@@ -66,3 +66,9 @@ tencentplay.gztv.com:80
 tencentplaybusiness.gztv.com:443
 cm-wshls.homecdn.com:80
 tencentplay.gztv.com:443
+198.204.240.250:82
+115.48.161.239:9901
+175.9.162.246:4022
+222.136.68.235:9901
+101.81.77.3:9999
+222.179.155.21:1935
