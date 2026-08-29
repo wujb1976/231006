@@ -55,3 +55,7 @@ qmmqvzoz.live.sxmty.com:443
 l2fpdktp.live.sxmty.com:443
 l.cztvcloud.com:443
 e2.woc.iiiya.cn:28888
+116.236.204.18:1234
+live.chinacert.cftest5.cn:443
+175.0.71.111:8888
+61.178.227.57:9901
