@@ -59,3 +59,10 @@ e2.woc.iiiya.cn:28888
 live.chinacert.cftest5.cn:443
 175.0.71.111:8888
 61.178.227.57:9901
+myip.pdtvhd.com:443
+zjtv-wshls.homecdn.com:80
+m3u8.channel.dzsm.com:443
+tencentplay.gztv.com:80
+tencentplaybusiness.gztv.com:443
+cm-wshls.homecdn.com:80
+tencentplay.gztv.com:443
