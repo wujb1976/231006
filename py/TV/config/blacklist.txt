@@ -81,3 +81,4 @@ gctxyc.liveplay.myqcloud.com:443
 p2.ioioz.com:80
 218.13.170.98:9901
 125.125.234.143:9901
+t.061899.xyz:80
