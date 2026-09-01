@@ -93,3 +93,4 @@ my9.ltd:443
 113.25.252.226:9901
 stream.thmz.com:80
 stream.thmz.com:443
+live.ahsz.tv:80
