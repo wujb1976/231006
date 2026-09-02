@@ -117,3 +117,4 @@ alimov2.a.kwimgs.com:443
 59.110.175.70:10000
 english-livetx.cgtn.com:443
 jwcdnqx.hebyun.com.cn:443
+222.130.32.241:7788
