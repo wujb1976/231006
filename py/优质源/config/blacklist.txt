@@ -129,3 +129,9 @@ live.metshop.top
 207.56.13.146
 101.66.194.161
 104.152.209.49
+222.130.32.241
+cm-wshls.homecdn.com
+61.216.67.119
+hzcm-live.media.hugd.com
+112.30.73.119
+gcalic.v.myalicdn.com
