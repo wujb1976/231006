@@ -118,3 +118,5 @@ alimov2.a.kwimgs.com:443
 english-livetx.cgtn.com:443
 jwcdnqx.hebyun.com.cn:443
 222.130.32.241:7788
+l.cztvcloud.com:80
+117.86.76.172:55555
