@@ -95,3 +95,5 @@ streamsy.online
 litv.zapi.us.kg
 hls.weathertv.cn
 m3u8.channel.dzsm.com
+hzcm-live.media.hugd.com
+124.228.160.210
