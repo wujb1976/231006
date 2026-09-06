@@ -106,3 +106,5 @@ gslbmgsplive.miguvideo.com
 116.52.173.236
 60.168.105.200
 117.63.79.167
+tmpstream.hyrtv.cn
+nn.7x9d.cn
