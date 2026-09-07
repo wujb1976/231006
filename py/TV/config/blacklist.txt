@@ -161,3 +161,6 @@ www.wxhcgbds.com:8081
 110.154.192.90:7788
 112.123.243.37:50085
 gcalic.v.myalicdn.com:443
+live.shaoxing.com.cn:80
+122.224.58.42:85
+59.175.226.142:280
