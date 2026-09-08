@@ -124,3 +124,7 @@ ali-vl.cztv.com
 101.66.198.251
 l.cztvcloud.com
 223.78.65.165
+ali.hlspull.yximgs.com
+182.150.115.21
+31.43.191.125
+r.jdshipin.com
