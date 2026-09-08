@@ -128,3 +128,6 @@ ali.hlspull.yximgs.com
 182.150.115.21
 31.43.191.125
 r.jdshipin.com
+111.231.6.102
+112.27.5.218
+webcast.hkstv.tv
