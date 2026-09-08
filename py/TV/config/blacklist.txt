@@ -168,3 +168,5 @@ live.shaoxing.com.cn:80
 218.84.12.186:8002
 101.66.198.251:9901
 hls.cntv.lxdns.com:443
+p2.bdstatic.com:443
+182.114.48.115:9901
