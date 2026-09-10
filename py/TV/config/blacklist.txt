@@ -177,3 +177,4 @@ www.goodiptv.club:80
 61.145.188.90:60033
 rt-doc.rttv.com:443
 live.ottiptv.cc:443
+223.247.25.228:1234
